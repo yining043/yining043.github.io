@@ -16,6 +16,6 @@ I am currently a Ph.D. student in Industrial Systems Engineering at National Uni
 My main research focus is "Learning for Optimization", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in distributed/federated machine learning and Evolutionary Computation.
 
 **Keywords**
-- **Artificial Intelligence**: Deep Reinforcement Learning, Deep Learning, Federated Learning
+- **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Federated Learning
 - **Evolutionary Computation**: Ant Colony Optimization, Differential Evolution
 - **Combinatorial Optimization**: Vehicle Routing, Path Planning
