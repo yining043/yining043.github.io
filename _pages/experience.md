@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- Data Analyst Intern   
+- **Data Analyst Intern**  
 [Technical Engineering Group (TEG), Tencent](https://www.tencent.com/en-us/index.html)    
 Jun 2018 – Aug 2018, Shenzhen, China
 
@@ -20,9 +20,9 @@ Invited Talks
 
 Teaching
 ======
-## Teaching Assistant
-- IE2141 Systems Thinking and Dynamics  
+- **Teaching Assistant**
+-- IE2141 Systems Thinking and Dynamics  
 Sept 2020 - now, NUS, Singapore.
-## Invited Speaker 
-- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
+- **Invited Speaker**
+-- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
 July, 2020, NUS, Singapore.
