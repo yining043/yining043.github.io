@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yining MA"
+title                    : "Yining MA | NUS"
 title_separator          : "-"
 name                     : &name "Yining MA"
-description              : &description "PhD student at National University of Singapore"
+description              : &description "PhD student at National University of Singapore (NUS)"
 url                      : https://yining043.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yining043/yining043.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yining MA"
+  name             : "Yining MA (马一宁)"
   avatar           : "profile.jpg"
-  bio              : "PhD student at National University of Singapore"
+  bio              : "PhD student at National University of Singapore (NUS)"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en"
   email            : "yiningma@u.nus.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yining-Ma-7"
+  researchgate     : #"https://www.researchgate.net/profile/Yining-Ma-7"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yiningma/"
-  orcid            : "https://orcid.org/0000-0002-6639-8547"
+  linkedin         : #"https://www.linkedin.com/in/yiningma"
+  orcid            : #"https://orcid.org/0000-0002-6639-8547"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
