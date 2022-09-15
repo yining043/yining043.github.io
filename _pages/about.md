@@ -16,24 +16,8 @@ Before that, I received my B.E. in Computer Science from South China University 
 
 # Research Interests
 My main research focus is "learning to optimize", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in distributed/federated machine learning and Evolutionary Computation.
-### Keywords
+
+**Keywords**
 - **Artificial Intelligence**: Deep Reinforcement Learning, Deep Learning, Federated Learning
 - **Evolutionary Computation**: Ant Colony Optimization, Differential Evolution
 - **Combinatorial Optimization**: Vehicle Routing, Path Planning
-
-
-# Academic Activities
-### Reviewer for International Conference
-- IEEE Conference on Decision and Control (IEEE CDC), 2021
-
-### Reviewer for International Journal
-- IEEE Transactions on Neural Network and Learning Systems (IEEE TNNLS)
-- IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
-- IEEE Transactions on Vehicular Technology (IEEE TVT)
-- Robotics and Autonomous Systems
-- Journal of Advanced Transportation
-- Computational Intelligence and Neuroscience
-
-### Invited Talks
-- [AI Time at Tsinghua University](http://www.aitime.cn/): Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, 3rd March, 2022.
-- [ORAI-China (运筹OR帷幄)](https://www.zhihu.com/org/yun-chou-orwei-wo): Deep Reinforcement Learning based Efficient Neural Neighborhood Search, 25th June, 2022.
