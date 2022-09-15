@@ -8,20 +8,20 @@ author_profile: true
 {% include base_path %}
 
 (# means equal contribution)  
-[<font color=Blue><font color=cyan><font color=brown><font color=orange>L4Opt</font></font></font></font>, Learning for Optimization], [<font color=Green>FedRL</font>, Federated Reinforcement Learning], [<font color=blue>EC</font>, Evolutionary Computation]
+[<font color=Blue><font color=cyan><font color=brown><font color=blue>L4Opt</font></font></font></font>, Learning for Optimization], [<font color=Green>FedRL</font>, Federated Reinforcement Learning], [<font color=orange>EC</font>, Evolutionary Computation]
 
 Conference Papers
 ======
 
-1.[<font color=Blue><font color=cyan><font color=brown><font color=orange>L4Opt</font></font></font></font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
+1.[<font color=Blue><font color=cyan><font color=brown><font color=blue>L4Opt</font></font></font></font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022. [[To be appear]]()
 
-2.[<font color=Blue><font color=cyan><font color=brown><font color=orange>L4Opt</font></font></font></font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
+2.[<font color=Blue><font color=cyan><font color=brown><font color=blue>L4Opt</font></font></font></font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma**#, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
-3.[<font color=Blue><font color=cyan><font color=brown><font color=orange>L4Opt</font></font></font></font>] **Learning to Iteratively Solve Routing Problems
+3.[<font color=Blue><font color=cyan><font color=brown><font color=blue>L4Opt</font></font></font></font>] **Learning to Iteratively Solve Routing Problems
 with Dual-Aspect Collaborative Transformer**  
 **Yining Ma**, Jingwen Li, Zhiguang Cao*, Wen Song*, Le Zhang, Zhenghua Chen, and Jing Tang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
@@ -37,7 +37,7 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, Jun Zhang.
 Journal Papers
 ======
 
-1.[<font color=Blue><font color=cyan><font color=brown><font color=orange>L4Opt</font></font></font></font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**   
+1.[<font color=Blue><font color=cyan><font color=brown><font color=blue>L4Opt</font></font></font></font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao*, Andrew Lim, Wen Song, Jie Zhang.   
 *IEEE Transactions on Cybernetics* (**IEEE-TCYB**),  2021. [[Code & Paper]](https://github.com/yining043/HCVRP_DRL)
 
@@ -48,5 +48,5 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao*, Andrew Lim, Wen Song, Jie Z
 
 Patent
 ======
-1. [<font color=blue>EC</font>] **An intelligent video server deployment method and system.**   
+1. [<font color=orange>EC</font>] **An intelligent video server deployment method and system.**   
 China Invention Grant (No. CN108616401A), 2020.
