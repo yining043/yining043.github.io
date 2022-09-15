@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently a Ph.D. student in Industrial Systems Engineering at [National University of Singapore (NUS)](https://www.nus.edu.sg/).
+I am currently a Ph.D. student in Industrial Systems Engineering at National University of Singapore (NUS).
 <!-- where I am supervised by Prof. [Andrew Lim](https://www.limandrew.org/) and Prof. [Chee Yeow Meng](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ).  -->
-Before that, I received my B.E. in Computer Science from [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/) in 2019.
+Before that, I received my B.E. in Computer Science from South China University of Technology (SCUT) in 2019.
 <!-- , where I was supervised by Prof. [Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). -->
 
 # Research Interests
