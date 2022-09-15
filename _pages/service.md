@@ -5,6 +5,8 @@ permalink: /service/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Reviewer for International Conference
 - IEEE Conference on Decision and Control (IEEE CDC), 2021
 
@@ -15,7 +17,3 @@ author_profile: true
 - Robotics and Autonomous Systems
 - Journal of Advanced Transportation
 - Computational Intelligence and Neuroscience
-
-# Invited Talks
-- [AI Time at Tsinghua University](http://www.aitime.cn/): Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, 3rd March, 2022.
-- [ORAI-China (运筹OR帷幄)](https://www.zhihu.com/org/yun-chou-orwei-wo): Deep Reinforcement Learning based Efficient Neural Neighborhood Search, 25th June, 2022.
