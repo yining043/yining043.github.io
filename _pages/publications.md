@@ -26,22 +26,22 @@ Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, an
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
 4. [<font color=Green>FedRL</font>] **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,  
-Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan and Kian Hsiang Low.   
+Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, and Kian Hsiang Low.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
 5. [<font color=orange>EC</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,     
-Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, Jun Zhang.  
+Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, and Jun Zhang.  
 *International Symposium on Neural Networks* (**ISNN**),  pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53)
 
 Journal Papers
 ======
 
 1. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L4Opt</font></font></font></font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
-Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao*, Andrew Lim, Wen Song, Jie Zhang.   
+Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao*, Andrew Lim, Wen Song, and Jie Zhang.   
 *IEEE Transactions on Cybernetics* (**IEEE-TCYB**),  2021. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
 2. [<font color=orange>EC</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
-**Yi-Ning Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, Jun Zhang.    
+**Yi-Ning Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, and Jun Zhang.    
 *IEEE Transactions on Vehicular Technology* (**IEEE-TVT**),  vol. 68, no. 1, pp 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
 
