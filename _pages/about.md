@@ -16,7 +16,7 @@ Before that, I received my B.E. in Computer Science from South China University 
 <!-- , where I was supervised by Prof. [Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). -->
 
 # Research Interests
-My current research focus is "Learning for Optimization", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in distributed/federated machine learning and evolutionary computation.
+My current research focus is "Learning to Optimize", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in distributed/federated machine learning and evolutionary computation.
 
 **Keywords**
 - **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Federated Learning
