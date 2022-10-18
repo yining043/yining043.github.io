@@ -15,7 +15,7 @@ Conference Papers
 
 1. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2022. [[To appear]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
 2. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma**#, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
