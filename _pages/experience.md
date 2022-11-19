@@ -26,7 +26,7 @@ Teaching
 ======
 - **Teaching Assistant**
 -- IE2141 Systems Thinking and Dynamics  
-Sept 2020 - now, NUS, Singapore
+Sept 2020 - Nov 2022, NUS, Singapore
 - **Guest Lecturer**
 -- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
 July, 2020, NUS, Singapore
