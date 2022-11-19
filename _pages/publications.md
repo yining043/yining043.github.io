@@ -38,7 +38,7 @@ Journal Papers
 
 1. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
-*IEEE Transactions on Cybernetics* (**IEEE-TCYB**),  2021. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
+*IEEE Transactions on Cybernetics* (**IEEE-TCYB**),  vol. 52, no. 12, pp 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
 2. [<font color=orange>EC</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
 **Yi-Ning Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, and Jun Zhang.  
