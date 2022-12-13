@@ -35,12 +35,15 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, and Jun Zhang.
 
 Journal Papers
 ======
+1. [<font color=orange>EC</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,      
+Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, and Jun Zhang.
+*IEEE Transactions on Intelligent Transportation Systems* (**IEEE-ITS**),  2022. [[Paper]](To Appear)
 
-1. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
+2. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
 *IEEE Transactions on Cybernetics* (**IEEE-TCYB**),  vol. 52, no. 12, pp 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
-2. [<font color=orange>EC</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
+3. [<font color=orange>EC</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
 **Yi-Ning Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, and Jun Zhang.  
 *IEEE Transactions on Vehicular Technology* (**IEEE-TVT**),  vol. 68, no. 1, pp 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
