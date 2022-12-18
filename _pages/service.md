@@ -12,6 +12,7 @@ author_profile: true
 
 ## Reviewer for International Journal
 - IEEE Transactions on Neural Network and Learning Systems (IEEE TNNLS)
+- IEEE Transactions on Cybernetics (IEEE TCYB)
 - IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
 - IEEE Transactions on Vehicular Technology (IEEE TVT)
 - Robotics and Autonomous Systems
