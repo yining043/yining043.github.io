@@ -37,12 +37,12 @@ Journal Papers
 ======
 1. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimization Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
-*IET Collaborative Intelligent Manufacturing* (**IET-CIM**), 2023. [[To Appear]]()
+*IET Collaborative Intelligent Manufacturing* (**IET-CIM**), 2022. [[To Appear]]()
 
 
 2. [<font color=orange>EC</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, and Jun Zhang.  
-*IEEE Transactions on Intelligent Transportation Systems* (**IEEE-TITS**),  2023. [[To Appear]]()
+*IEEE Transactions on Intelligent Transportation Systems* (**IEEE-TITS**),  2022. [[To Appear]]()
 
 3. [<font color=blue>L2Opt</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
