@@ -13,15 +13,15 @@ author_profile: true
 Conference Papers
 ======
 
-1. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
+1. [<font color=blue>L2Opt</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
-2. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
+2. [<font color=blue>L2Opt</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma**#, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
-3. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
+3. [<font color=blue>L2Opt</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
 **Yining Ma**, Jingwen Li, Zhiguang Cao*, Wen Song*, Le Zhang, Zhenghua Chen, and Jing Tang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
@@ -35,15 +35,20 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, and Jun Zhang.
 
 Journal Papers
 ======
-1. [<font color=orange>EC</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
+1. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimization Problems in Manufacturing**,   
+Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
+*IET Collaborative Intelligent Manufacturing* (**IET-CIM**), 2023. [[To Appear]]()
+
+
+2. [<font color=orange>EC</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, and Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**IEEE-TITS**),  2023. [[To Appear]]()
 
-2. [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
+3. [<font color=blue>L2Opt</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
 *IEEE Transactions on Cybernetics* (**IEEE-TCYB**),  vol. 52, no. 12, pp 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
-3. [<font color=orange>EC</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
+4. [<font color=orange>EC</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
 **Yi-Ning Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, and Jun Zhang.  
 *IEEE Transactions on Vehicular Technology* (**IEEE-TVT**),  vol. 68, no. 1, pp 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
