@@ -16,10 +16,13 @@ Invited Talks
 ======
 - [AI Time at Tsinghua University](http://www.aitime.cn/):  
 Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer  
-3rd March, 2022
+3rd March, Online, 2022
 - [ORAI-China (运筹OR帷幄)](https://www.zhihu.com/org/yun-chou-orwei-wo):   
 Deep Reinforcement Learning based Efficient Neural Neighborhood Search    
-25th June, 2022
+25th June, Online, 2022
+- [RLChina 强化学习社区](http://rlchina.org/topic/619):
+Learning to Optimize Vehicle Routing Problems via Deep Reinforcement Learning: Recent Advances and Challenges
+27th Dec, Online, 2022
 
 
 Teaching
