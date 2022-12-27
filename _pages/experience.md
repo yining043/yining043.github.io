@@ -16,13 +16,13 @@ Invited Talks
 ======
 - [RLChina 强化学习社区](http://rlchina.org/topic/619):   
 Learning to Optimize Vehicle Routing Problems via Deep Reinforcement Learning: Recent Advances and Challenges    
-27th December, Online, 2022
+27th Dec, Online, 2022
 - [ORAI-China (运筹OR帷幄)](https://www.zhihu.com/pin/1523752995342286848):   
 Deep Reinforcement Learning based Efficient Neural Neighborhood Search    
-25th June, Online, 2022
+25th Jun, Online, 2022
 - [AI Time at Tsinghua University](http://www.aitime.cn/):  
 Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer  
-3rd March, Online, 2022
+3rd Mar, Online, 2022
 
 
 Teaching
@@ -32,4 +32,4 @@ Teaching
 Sept 2020 - Nov 2022, NUS, Singapore
 - **Guest Lecturer**
 -- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
-July, 2020, NUS, Singapore
+Jul, 2020, NUS, Singapore
