@@ -16,7 +16,7 @@ Invited Talks
 ======
 - [RLChina 强化学习社区](http://rlchina.org/topic/619):   
 Learning to Optimize Vehicle Routing Problems via Deep Reinforcement Learning: Recent Advances and Challenges    
-27th Dec, Online, 2022
+27th December, Online, 2022
 - [ORAI-China (运筹OR帷幄)](https://www.zhihu.com/pin/1523752995342286848):   
 Deep Reinforcement Learning based Efficient Neural Neighborhood Search    
 25th June, Online, 2022
