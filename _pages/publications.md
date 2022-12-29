@@ -35,7 +35,7 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, and Jun Zhang.
 
 Journal Papers
 ======
-1. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimization Problems in Manufacturing**,   
+1. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**IET-CIM**), 2022. [[To Appear]]()
 
