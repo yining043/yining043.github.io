@@ -7,10 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Reviewer for International Conference
+## Conference Program Committee Member:
+- International Joint Conference on Artificial Intelligence (IJCAI), 2023
 - IEEE Conference on Decision and Control (IEEE CDC), 2021
 
-## Reviewer for International Journal
+## Journal Reviewer:
 - IEEE Transactions on Neural Network and Learning Systems (IEEE TNNLS)
 - IEEE Transactions on Cybernetics (IEEE TCYB)
 - IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
