@@ -55,5 +55,5 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Ji
 
 Patent
 ======
-1. [<font color=orange>EC</font>] **An intelligent video server deployment method and system**,   
-China Invention Grant (No. CN108616401A), 2020.
+1. [<font color=orange>EC</font>] **[Intelligent video content server deployment method and system](https://patents.google.com/patent/CN108616401B/en)**,   
+China Invention Grant (No. CN108616401B), 2018.
