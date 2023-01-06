@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Conference Program Committee Member:
+## Conference PC Member:
 - International Joint Conference on Artificial Intelligence (IJCAI), 2023
+
+## Conference Reviewer:
 - IEEE Conference on Decision and Control (IEEE CDC), 2021
 
 ## Journal Reviewer:
