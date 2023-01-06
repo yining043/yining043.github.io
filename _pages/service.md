@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Conference Program Committee (PC) Member of
+## Program Committee (PC) Member of
 - International Joint Conference on Artificial Intelligence (IJCAI), 2023
 
 ## Conference Reviewer for
