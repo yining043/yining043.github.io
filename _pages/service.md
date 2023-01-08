@@ -19,5 +19,3 @@ author_profile: true
 - IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
 - IEEE Transactions on Vehicular Technology (IEEE TVT)
 - Robotics and Autonomous Systems
-- Journal of Advanced Transportation
-- Computational Intelligence and Neuroscience
