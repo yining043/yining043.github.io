@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Service"
+    url: /service/    
 
   - title: "Experience"
     url: /experience/    
-
-  - title: "Service"
-    url: /service/    
 
   - title: "Honors & Awards"
     url: /honors/    
