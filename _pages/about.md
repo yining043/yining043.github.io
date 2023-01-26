@@ -14,6 +14,7 @@ I am currently a Ph.D. candidate in Industrial Systems Engineering at National U
 <!-- where I am supervised by Prof. [Andrew Lim](https://www.limandrew.org/) and Prof. [Chee Yeow Meng](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ).  -->
 Before that, I received my B.E. in Computer Science from South China University of Technology (SCUT) in 2019.
 <!-- , where I was supervised by Prof. [Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). -->
+Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), as well as [honors & awards](https://yining043.github.io/honors/) to learn more about me, and welcome to reach out for collaboration!
 
 # Research Interests
 My current research focus is "Learning to Optimize", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in distributed/federated machine learning and evolutionary computation.
