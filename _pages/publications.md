@@ -37,8 +37,7 @@ Journal Papers
 ======
 1. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
-*IET Collaborative Intelligent Manufacturing* (**IET-CIM**), 2023. [[To Appear]]()
-
+*IET Collaborative Intelligent Manufacturing* (**IET-CIM**), vol.5, no.1, pp e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
 2. [<font color=orange>EC</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, Sang-Woon Jeon, and Jun Zhang.  
