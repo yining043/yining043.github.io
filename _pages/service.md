@@ -7,11 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Member of Program Committee (PC)
-- International Joint Conference on Artificial Intelligence (IJCAI), 2023
+## Member of Program Committee (PC) / Conference Reviewer
+- Conference on Neural Information Processing Systems (NeurIPS), 2023
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
-
-## Conference Reviewer
+- International Joint Conference on Artificial Intelligence (IJCAI), 2023
 - IEEE Conference on Decision and Control (IEEE CDC), 2021
 
 ## Journal Reviewer
