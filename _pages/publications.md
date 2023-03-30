@@ -15,7 +15,7 @@ Conference Papers
 
 1. [<font color=blue>L2Opt</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
 2. [<font color=blue>L2Opt</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma**#, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
@@ -41,7 +41,7 @@ Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and J
 
 2. [<font color=orange>EC</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, Sang-Woon Jeon, and Jun Zhang.  
-*IEEE Transactions on Intelligent Transportation Systems* (**IEEE-TITS**),  2023. [[Paper]](https://ieeexplore.ieee.org/document/10038633)
+*IEEE Transactions on Intelligent Transportation Systems* (**IEEE-TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10038633)
 
 3. [<font color=blue>L2Opt</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
