@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently a fourth-year Ph.D. candidate in Industrial Systems Engineering at National University of Singapore (NUS), where I am supervised by Prof. [Chee Yeow Meng](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ).
+I am currently a fourth-year Ph.D. candidate in Industrial Systems Engineering at National University of Singapore (NUS), where I am fortunate to be advised by Prof. [Chee Yeow Meng](https://ymchee66.github.io/home/).
 Before that, I received my B.E. degree in Computer Science from South China University of Technology (SCUT) in June 2019.
 <!-- , where I was supervised by Prof. [Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). -->
 Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), as well as [honors & awards](https://yining043.github.io/honors/) to learn more about me, and welcome to reach out for collaboration!
