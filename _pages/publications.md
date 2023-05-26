@@ -35,6 +35,10 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, and Jun Zhang.
 
 Journal Papers
 ======
+1. [<font color=blue>L2Opt</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
+Jingwen Li#, **Yining Ma**#, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
+*IEEE Transactions on Neural Networks and Learning Systems* (**IEEE-TNNLS**), 2023. [[To appear]]()
+
 1. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**IET-CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
