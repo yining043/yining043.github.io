@@ -31,13 +31,13 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, and Kian Hsi
 
 5. [<font color=orange>EC</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,     
 Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, and Jun Zhang.  
-*International Symposium on Neural Networks* (**ISNN**),  pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53)
+*International Symposium on Neural Networks* (**ISNN**),  pp. 459-467, 2018. [[Code & Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53)
 
 Journal Papers
 ======
 1. [<font color=blue>L2Opt</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
 Jingwen Li#, **Yining Ma**#, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
-*IEEE Transactions on Neural Networks and Learning Systems* (**IEEE-TNNLS**), 2023. [[To appear]]()
+*IEEE Transactions on Neural Networks and Learning Systems* (**IEEE-TNNLS**), 2023. [[To appear]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
 2. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
