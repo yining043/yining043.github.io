@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my homepage!
 
-**News:** I will join Prof. [Jie Zhang's team](https://personal.ntu.edu.sg/zhangj/) at the [S-Lab for Advanced Intelligence](https://www.ntu.edu.sg/s-lab), Nanyang Technological University (NTU) as a Research Fellow after my PhD graduation!
+**News:** I will join [Prof. Jie Zhang's team](https://personal.ntu.edu.sg/zhangj/) as a Research Fellow at the [S-Lab for Advanced Intelligence](https://www.ntu.edu.sg/s-lab), Nanyang Technological University (NTU) after my PhD graduation!
 
-I am currently a fourth-year Ph.D. candidate in Industrial Systems Engineering at National University of Singapore (NUS), where I am fortunate to be advised by Prof. [Yeow Meng Chee](https://ymchee66.github.io/home/). I also work closely with Asst. Prof. [Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). Prior to that, I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT) in June 2019, where I was advised by Prof. [Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).
+I am currently a fourth-year Ph.D. candidate in Industrial Systems Engineering at National University of Singapore (NUS), where I am fortunate to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I also work closely with [Asst. Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). Prior to that, I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT) in June 2019, where I was advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).
 Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), as well as [honors & awards](https://yining043.github.io/honors/) to learn more about me, and welcome to reach out for collaboration!
 
 # Research Interests
