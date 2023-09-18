@@ -17,8 +17,8 @@ My current research focus is "**Learning to Optimize**", where we exploit machin
 
 **Keywords**
 - **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Federated Learning
-- **Optimization**: Vehicle Routing, Path Planning, Protein-Protein Docking, Transportation, Logitics
-- **Swarm Intelligence**: Ant Colony Optimization, Differential Evolution, Particle Swarm Optimization
+- **Optimization**: Vehicle Routing, Path Planning, Protein Docking, Transportation, Logitics
+- **Swarm Intelligence**: Differential Evolution, Particle Swarm Optimization,  Ant Colony Optimization, Genetic Algorithm
 
 
 <br>

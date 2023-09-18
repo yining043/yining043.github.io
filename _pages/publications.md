@@ -32,7 +32,7 @@ Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, an
 Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, and Kian Hsiang Low.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
-6. **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,     
+6. [<font color=orange>SI</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,     
 Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yi-Ning Ma**, and Jun Zhang.  
 *International Symposium on Neural Networks* (**ISNN**),  pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53)
 
@@ -61,5 +61,5 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Ji
 
 Patent
 ======
-1. **Intelligent video content server deployment method and system**,   
+1. [<font color=orange>SI</font>] **Intelligent video content server deployment method and system**,   
 China Invention Grant (No. CN108616401B), 2018. [[Link]](https://patents.google.com/patent/CN108616401B/en)
