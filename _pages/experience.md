@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- [S-Lab for Advanced Intelligence, Nanyang Technological University (NTU)](https://www.ntu.edu.sg/s-lab)    
+- [S-Lab for Advanced Intelligence (S-Lab), Nanyang Technological University](https://www.ntu.edu.sg/s-lab)    
 Researcher  
 Sept 2023 – Present, Singapore, Singapore
 
