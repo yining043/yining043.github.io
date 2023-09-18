@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+- [S-Lab for Advanced Intelligence, Nanyang Technological University (NTU)](https://www.ntu.edu.sg/s-lab)    
+Researcher  
+Sept 2023 – Present, Singapore, Singapore
+
 - [Technical Engineering Group (TEG), Tencent](https://www.tencent.com/en-us/index.html)    
 Data Analyst Intern  
 Jun 2018 – Aug 2018, Shenzhen, China

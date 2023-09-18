@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yining MA | NUS"
+title                    : "Yining MA"
 title_separator          : "-"
 name                     : &name "Yining MA"
-description              : &description "PhD candidate at National University of Singapore (NUS)"
+description              : &description "Researcher @ S-Lab, NTU | Ph.D. candidate @ NUS"
 url                      : https://yining043.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yining043/yining043.github.io"
