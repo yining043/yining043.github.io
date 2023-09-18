@@ -14,7 +14,8 @@ Conference Papers
 ======
 1. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
-*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**, Extended Abstract),  pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
+*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), pp. 2810–-2812, 2023.   
+(Extended Abstract) [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
 2. [<font color=blue>L2Opt</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
