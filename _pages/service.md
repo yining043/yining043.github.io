@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Program Committee (PC) Member / Reviewer
+## Program Committee (PC) Member / Conference Reviewer
 - International Conference on Learning Representations (**ICLR**), 2024
 - SIAM International Conference on Data Mining (**SDM**), 2024
 - Conference on Neural Information Processing Systems (**NeurIPS**), 2023
@@ -22,5 +22,5 @@ author_profile: true
 - IEEE Transactions on Vehicular Technology (**IEEE TVT**)
 - Robotics and Autonomous Systems
 
-## Conference Volunteers
+## Conference Volunteer
 - [17th ACM Conference on Recommender Systems (**RECSYS**)](https://recsys.acm.org/recsys23/), Singapore, 2023
