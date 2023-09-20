@@ -21,3 +21,6 @@ author_profile: true
 - IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**)
 - IEEE Transactions on Vehicular Technology (**IEEE TVT**)
 - Robotics and Autonomous Systems
+
+## Conference Volunteers
+- [17th ACM Conference on Recommender Systems (**RECSYS**)](https://recsys.acm.org/recsys23/), Singapore, 2023
