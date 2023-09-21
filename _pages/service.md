@@ -23,4 +23,4 @@ author_profile: true
 - Robotics and Autonomous Systems
 
 ## Conference Volunteer
-- [17th ACM Conference on Recommender Systems (**RecSys**)](https://recsys.acm.org/recsys23/), Singapore, 2023
+- 17th ACM Conference on Recommender Systems (**RecSys**), Singapore, 2023
