@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently a researcher at [S-Lab for Advanced Intelligence](https://www.ntu.edu.sg/s-lab), Nanyang Technological University (NTU), where I am fortunate to work with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). At the same time, I am a fourth-year Ph.D. candidate in Industrial Systems Engineering at National University of Singapore (NUS), where I am fortunate to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). In recent years, I have been fortunate to also work closely with [Asst. Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). Prior to that, I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT) in June 2019, where I was fortunate to be advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), as well as [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration!
+I am currently a researcher at [S-Lab for Advanced Intelligence](https://www.ntu.edu.sg/s-lab), Nanyang Technological University (NTU), where I am fortunate to work with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). At the same time, I am a fourth-year Ph.D. candidate in Industrial Systems Engineering at National University of Singapore (NUS), where I am fortunate to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). In recent years, I have been fortunate to also work closely with [Asst. Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). Prior to that, I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT) in June 2019, where I was fortunate to be advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).
 
 # Research Interests
 My research focus is "**Learning to Optimize**", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems, including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in distributed/federated machine learning and swarm intelligence.
@@ -19,6 +19,8 @@ My research focus is "**Learning to Optimize**", where we exploit machine learni
 - **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Federated Learning
 - **Optimization**: Vehicle Routing, Path Planning, Protein Docking, Transportation, Logistics
 - **Swarm Intelligence**: Differential Evolution, Particle Swarm Optimization,  Ant Colony Optimization, Genetic Algorithm
+
+Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), as well as [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration!
 
 
 <br>
