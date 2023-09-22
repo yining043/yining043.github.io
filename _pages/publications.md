@@ -18,7 +18,11 @@ Conference Papers
 
 2. [<font color=blue>L2Opt</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and Jiahai Wang.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**),  2023. [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Accepted]]()
+
+3. [<font color=blue>L2Opt</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
+Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, and Zhiguang Cao.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Accepted (Oral)]]()
 
 4. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, and Roger Wattenhofer.   
