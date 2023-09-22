@@ -49,23 +49,23 @@ Journal Papers
 ======
 1. [<font color=blue>L2Opt</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
 Jingwen Li#, **Yining Ma**#, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
-*IEEE Transactions on Neural Networks and Learning Systems* (**IEEE-TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
 2. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
-*IET Collaborative Intelligent Manufacturing* (**IET-CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
+*IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
 3. [<font color=orange>SI</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, Sang-Woon Jeon, and Jun Zhang.  
-*IEEE Transactions on Intelligent Transportation Systems* (**IEEE-TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10038633)
+*IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10038633)
 
 4. [<font color=blue>L2Opt</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
-*IEEE Transactions on Cybernetics* (**IEEE-TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
+*IEEE Transactions on Cybernetics* (**TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
 5. [<font color=orange>SI</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
 **Yi-Ning Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, and Jun Zhang.  
-*IEEE Transactions on Vehicular Technology* (**IEEE-TVT**),  vol. 68, no. 1, pp. 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
+*IEEE Transactions on Vehicular Technology* (**TVT**),  vol. 68, no. 1, pp. 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
 
 Patent
