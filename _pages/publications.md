@@ -14,11 +14,11 @@ Conference Papers
 ======
 1. [<font color=blue>L2Opt</font>] **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, and Yeow Meng Chee.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[To appear]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Accepted]]()
 
 2. [<font color=blue>L2Opt</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and Jiahai Wang.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**),  2023. [[To appear]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**),  2023. [[Accepted]]()
 
 4. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, and Roger Wattenhofer.   
