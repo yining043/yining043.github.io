@@ -20,9 +20,9 @@ Conference Papers
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and Jiahai Wang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Accepted]]()
 
-3. [<font color=blue>L2Opt</font>, <font color=orange>SI</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
+3. [<font color=blue>L2Opt</font>, <font color=orange>SI</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, and Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Sienna>Oral</font>, 2023. [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. (<font color=Sienna>Oral</font>) [[Accepted]]()
 
 4. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, and Roger Wattenhofer.   
@@ -31,7 +31,7 @@ Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsian
 
 5. [<font color=blue>L2Opt</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Sienna>Spotlight</font>, pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022. (<font color=Sienna>Spotlight</font>) [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
 6. [<font color=blue>L2Opt</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma**#, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
@@ -55,7 +55,7 @@ Journal Papers
 Jingwen Li#, **Yining Ma**#, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
-2. [<font color=blue>L2Opt</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
+2. [<font color=blue>L2Opt</font>] [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
