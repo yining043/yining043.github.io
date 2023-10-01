@@ -16,6 +16,11 @@ Data Analyst Intern
 Jun 2018 – Aug 2018, Shenzhen, China
 
 
+Membership
+======
+- Student Member, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988 USA, 2023-Present
+
+
 Invited Talks
 ======
 - [RLChina 强化学习社区](http://rlchina.org/topic/619):   
@@ -37,7 +42,3 @@ Sept 2020 - Nov 2022, NUS, Singapore
 - **Guest Lecturer**
 -- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
 Jul, 2020, NUS, Singapore
-
-Membership
-======
-- Student Member, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988 USA, 2023-Present
