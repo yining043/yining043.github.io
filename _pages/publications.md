@@ -22,7 +22,7 @@ Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and J
 
 3. [<font color=blue>L2Opt</font>, <font color=orange>SI</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, and Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. (<font color=Sienna>Oral</font>) [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. (<font color=Sienna>Oral</font>) [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
 4. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, and Roger Wattenhofer.   
