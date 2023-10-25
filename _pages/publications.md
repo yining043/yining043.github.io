@@ -18,7 +18,7 @@ Conference Papers
 
 2. [<font color=blue>L2Opt</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and Jiahai Wang.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
 3. [<font color=blue>L2Opt</font>, <font color=orange>SI</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, and Zhiguang Cao.  
