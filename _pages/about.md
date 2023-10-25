@@ -17,7 +17,7 @@ My research focus is "**Learning to Optimize**", where we exploit machine learni
 
 **Keywords**
 - **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Federated Learning
-- **Optimization**: Vehicle Routing, Path Planning, Protein Docking, Transportation, Logistics
+- **Optimization**: Vehicle Routing, Path Planning, Transportation, Logistics
 - **Swarm Intelligence**: Differential Evolution, Particle Swarm Optimization,  Ant Colony Optimization, Genetic Algorithm
 
 Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), as well as [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration!
