@@ -14,7 +14,7 @@ Conference Papers
 ======
 1. [<font color=blue>L2Opt</font>] **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, and Yeow Meng Chee.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
 
 2. [<font color=blue>L2Opt</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and Jiahai Wang.   
