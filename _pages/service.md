@@ -19,6 +19,7 @@ author_profile: true
 - IEEE Transactions on Neural Network and Learning Systems (**TNNLS**)
 - IEEE Transactions on Cybernetics (**TCYB**)
 - IEEE Transactions on Intelligent Transportation Systems (**TITS**)
+- IEEE Transactions on Automation Science and Engineering (**TASE**)
 - IEEE Transactions on Vehicular Technology (**TVT**)
 - Robotics and Autonomous Systems
 
