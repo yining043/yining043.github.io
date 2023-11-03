@@ -23,6 +23,9 @@ Membership
 
 Invited Talks
 ======
+- [AI Time at Tsinghua University](http://www.aitime.cn/):  
+Neural Combinatorial Optimization - Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt  
+1st Nov, Online, 2023
 - [RLChina 强化学习社区](http://rlchina.org/topic/619):   
 Learning to Optimize Vehicle Routing Problems via Deep Reinforcement Learning: Recent Advances and Challenges    
 27th Dec, Online, 2022
