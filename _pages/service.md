@@ -25,7 +25,7 @@ author_profile: true
 
 ## Selected Survey Respondent
 - [THE's Global Academic Reputation Survey 2024](https://www.timeshighereducation.com/world-university-rankings/global-academic-reputation-survey-2024-launching-soon), Times Higher Education World University Rankings, Nov 2023
-- [2023 Expert Survey on Progress in AI](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai), University of Oxford, Dec 2023
+- [2023 Expert Survey on Progress in AI](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai), University of Oxford, Oct 2023
 
 ## Conference Volunteer
 - 17th ACM Conference on Recommender Systems (**RecSys**), Singapore, 2023
