@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Program Committee (PC) Member / Conference Reviewer
-- International Conference on Learning Representations (**ICLR**), 2024
 - SIAM International Conference on Data Mining (**SDM**), 2024
+- International Conference on Learning Representations (**ICLR**), 2024
 - Conference on Neural Information Processing Systems (**NeurIPS**), 2023
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023
 - International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
@@ -22,6 +22,10 @@ author_profile: true
 - IEEE Transactions on Automation Science and Engineering (**TASE**)
 - IEEE Transactions on Vehicular Technology (**TVT**)
 - Robotics and Autonomous Systems
+
+## Selected Survey Respondent
+- [THE's Global Academic Reputation Survey 2024](https://www.timeshighereducation.com/world-university-rankings/global-academic-reputation-survey-2024-launching-soon), Times Higher Education World University Rankings, Nov 2023
+- [2023 Expert Survey on Progress in AI](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai), University of Oxford, Dec 2023
 
 ## Conference Volunteer
 - 17th ACM Conference on Recommender Systems (**RecSys**), Singapore, 2023
