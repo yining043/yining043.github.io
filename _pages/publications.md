@@ -61,7 +61,7 @@ Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and J
 
 3. [<font color=orange>SI</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, Sang-Woon Jeon, and Jun Zhang.  
-*IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10038633)
+*IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
 
 4. [<font color=blue>L2Opt</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
