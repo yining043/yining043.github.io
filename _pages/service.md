@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Program Committee (PC) Member / Conference Reviewer
+- International Joint Conference on Artificial Intelligence (**IJCAI**), 2023, 2024
 - SIAM International Conference on Data Mining (**SDM**), 2024
 - International Conference on Learning Representations (**ICLR**), 2024
 - Conference on Neural Information Processing Systems (**NeurIPS**), 2023
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023
-- International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
 - IEEE Conference on Decision and Control (**CDC**), 2021
 
 ## Journal Reviewer
