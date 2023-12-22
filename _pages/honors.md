@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-- **Top Reviewer**         
+- **Top 10% Reviewer**         
 Conference on Neural Information Processing Systems (NeurIPS), 2023
 - **NeurIPS 2023 Scholar Award**         
 Conference on Neural Information Processing Systems (NeurIPS), 2023
