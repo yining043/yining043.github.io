@@ -22,6 +22,7 @@ author_profile: true
 - IEEE Transactions on Intelligent Transportation Systems (**TITS**)
 - IEEE Transactions on Automation Science and Engineering (**TASE**)
 - IEEE Transactions on Vehicular Technology (**TVT**)
+- ACM Computing Surveys (**CSUR**)
 - Robotics and Autonomous Systems
 
 ## Selected Survey Respondent
