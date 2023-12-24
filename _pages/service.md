@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Area Chair
+## Area Chair (AC) / Conference Meta-Reviewer
 - IEEE Conference on Artificial Intelligence (**CAI**), 2024
 
 ## Program Committee (PC) Member / Conference Reviewer
