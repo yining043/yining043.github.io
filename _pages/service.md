@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+## Area Chair
+- IEEE Conference on Artificial Intelligence (**CAI**), 2024
+
 ## Program Committee (PC) Member / Conference Reviewer
 - International Conference on Machine Learning (**ICML**), 2024
 - International Joint Conference on Artificial Intelligence (**IJCAI**), 2024, 2023
