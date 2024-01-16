@@ -10,7 +10,7 @@ author_profile: true
 (# means equal contribution)  
 [<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>, Learning to Optimize], [<font color=Green>Fed</font>, Federated Learning], [<font color=orange>SI</font>, Swarm Intelligence]
 
-Selected Conference Papers
+Conference Papers
 ======
 1. [<font color=blue>L2Opt</font>, <font color=orange>SI</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, and Yue-Jiao Gong.  
