@@ -16,12 +16,12 @@ Welcome to see my [publications](https://yining043.github.io/publications/), [ac
 
 
 # Research Interests
-My research focus is "**Learning to Optimize**", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems, including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in the large language model and swarm intelligence.
+My research focus is "**Learning to Optimize**", where we exploit machine learning (deep learning and reinforcement Learning) to solve challenging optimization problems, including both combinatorial optimization and black-box continuous optimization problems. I'm also interested in large language model (LLM), distributed/federated machine learning, and swarm intelligence.
 
 **Keywords**
 - **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Large Language Model
 - **Optimization**: Vehicle Routing, Path Planning, Transportation, Logistics
-- **Swarm Intelligence**: Differential Evolution, Particle Swarm Optimization,  Ant Colony Optimization, Genetic Algorithm
+- **Swarm Intelligence**: Differential Evolution, Particle Swarm Optimization, Ant Colony Optimization, Genetic Algorithm
 
 <br>
 <a href="https://info.flagcounter.com/kHt2"><img src="https://s01.flagcounter.com/count2/kHt2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
