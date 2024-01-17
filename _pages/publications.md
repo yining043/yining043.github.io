@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-**(# means equal contribution)**  
+**(#) means equal contribution, ⭐ indicates representative works**  
 
 Machine Learning for Combinatorial Optimization
 -----------------
 
-1. **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
+1. ⭐ **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, and Yeow Meng Chee.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
 
@@ -21,33 +20,33 @@ Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and J
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
 3. [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
-Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
+Cong Zhang(#), Yaoxin Wu(#), **Yining Ma(#)**, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
 4. **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
-Jingwen Li#, **Yining Ma#**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
+Jingwen Li(#), **Yining Ma(#)**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
-5. [<font color=Blue>Spotlight</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
-Jieyi Bi#, **Yining Ma#**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
+5. ⭐ [<font color=Blue>Spotlight</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
+Jieyi Bi(#), **Yining Ma(#)**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
-6. **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
-**Yining Ma#**, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
+6. ⭐ **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
+**Yining Ma(#)**, Jingwen Li(#), Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
 7. **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
 *IEEE Transactions on Cybernetics* (**TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
-8. **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
+8. ⭐ **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
 **Yining Ma**, Jingwen Li, Zhiguang Cao*, Wen Song*, Le Zhang, Zhenghua Chen, and Jing Tang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
 
 Machine Learning for Black-Box Continuous Optimization
 -----------------
-1. **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
+1. ⭐ **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, and Yue-Jiao Gong.  
 *International Conference on Learning Representations* (**ICLR**), 2024. [[Accepted]]()
 
@@ -63,7 +62,7 @@ Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsian
 *International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), pp. 2810–-2812, 2023. 
 [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
-2. **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,   
+2. ⭐ **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,   
 Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, and Kian Hsiang Low.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
@@ -75,7 +74,7 @@ Swarm Intelligence
 Yue-Jiao Gong, Ting Huang, **Yi-Ning Ma**, Sang-Woon Jeon, and Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
 
-2. **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
+2. ⭐ **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
 **Yi-Ning Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, and Jun Zhang.  
 *IEEE Transactions on Vehicular Technology* (**TVT**),  vol. 68, no. 1, pp. 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
