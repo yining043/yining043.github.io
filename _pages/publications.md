@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-(# means equal contribution)  
-[<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>, Learning to Optimize], [<font color=Green>Fed</font>, Federated Learning], [<font color=orange>SI</font>, Swarm Intelligence]
+[<font color=Blue><font color=cyan><font color=brown><font color=blue>L2Opt</font></font></font></font>, Learning to Optimize], [<font color=Green>Fed</font>, Federated Learning], [<font color=orange>SI</font>, Swarm Intelligence]  
+**(# means equal contribution)**  
 
 Representative Publications
 ======
