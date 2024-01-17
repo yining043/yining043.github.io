@@ -46,7 +46,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Ji
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
 
-Machine Learning for Continuous Black-Box Optimization
+Machine Learning for Black-Box Continuous Optimization
 -----------------
 1. [<font color=blue>L2Opt</font>, <font color=orange>SI</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, and Yue-Jiao Gong.  
