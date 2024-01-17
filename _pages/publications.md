@@ -21,19 +21,19 @@ Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and J
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
 3. [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
-Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
+Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
 4. **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
-Jingwen Li#, **Yining Ma**#, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
+Jingwen Li#, **Yining Ma#**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
 5. [<font color=Blue>Spotlight</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
-Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
+Jieyi Bi#, **Yining Ma#**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
 6. **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
-**Yining Ma**#, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
+**Yining Ma#**, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
 7. **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
