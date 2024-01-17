@@ -9,7 +9,7 @@ author_profile: true
 
 **(# means equal contribution)**  
 
-Representative Publications
+Machine Learning for Combinatorial Optimization
 -----------------
 
 1. **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
@@ -28,7 +28,7 @@ Cong Zhang#, Yaoxin Wu#, **Yining Ma**#, Wen Song, Le Zhang, Zhiguang Cao, and J
 Jingwen Li#, **Yining Ma**#, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
-5. [<font color=Sienna>Spotlight</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
+5. [<font color=Blue>Spotlight</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma**#, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
@@ -51,7 +51,7 @@ Machine Learning for Black-Box Continuous Optimization
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, and Yue-Jiao Gong.  
 *International Conference on Learning Representations* (**ICLR**), 2024. [[Accepted]]()
 
-2. [<font color=Sienna>Oral, Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
+2. [<font color=Blue>Oral</font>][<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, and Zhiguang Cao.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
