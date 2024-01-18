@@ -47,7 +47,7 @@ Jieyi Bi(#), **Yining Ma(#)**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
 *IEEE Transactions on Cybernetics* (**TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
-10. ⭐[<font color=Blue>VRP</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
+10. ⭐ [<font color=Blue>VRP</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
 **Yining Ma**, Jingwen Li, Zhiguang Cao*, Wen Song*, Le Zhang, Zhenghua Chen, and Jing Tang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
