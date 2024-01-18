@@ -11,19 +11,19 @@ author_profile: true
 -> Machine Learning + Optimization
 -----------------
 
-1. ⭐ **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
+1. ⭐ [<font color=Blue>BBO</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, and Yue-Jiao Gong.  
 *International Conference on Learning Representations* (**ICLR**), 2024. [[Accepted]]()
 
-2. ⭐ **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
+2. ⭐ [<font color=Blue>VRP</font>] **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, and Yeow Meng Chee.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
 
-3. [<font color=Blue>Oral</font>][<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
+3. [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, and Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Green>Oral</font>, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
-4. **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
+4. [<font color=Blue>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and Jiahai Wang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
@@ -31,23 +31,23 @@ Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and J
 Cong Zhang(#), Yaoxin Wu(#), **Yining Ma(#)**, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
-6. **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
+6. [<font color=Blue>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
 Jingwen Li(#), **Yining Ma(#)**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, and Yeow Meng Chee.  
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
-7. ⭐ [<font color=Blue>Spotlight</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
+7. ⭐ [<font color=Blue>VRP</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi(#), **Yining Ma(#)**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Green>Spotlight</font>, pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
-8. ⭐ **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
+8. ⭐ [<font color=Blue>VRP</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma(#)**, Jingwen Li(#), Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
-9. ⭐ **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
+9. ⭐ [<font color=Blue>VRP</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Jie Zhang.   
 *IEEE Transactions on Cybernetics* (**TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
-10. ⭐ **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
+10. ⭐[<font color=Blue>VRP</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
 **Yining Ma**, Jingwen Li, Zhiguang Cao*, Wen Song*, Le Zhang, Zhenghua Chen, and Jing Tang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
