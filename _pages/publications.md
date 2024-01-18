@@ -19,7 +19,7 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, and Yue-Jiao Go
 **Yining Ma**, Zhiguang Cao, and Yeow Meng Chee.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
 
-3. [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
+3. [<font color=Blue>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, and Zhiguang Cao.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Green>Oral</font>, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
@@ -27,7 +27,7 @@ Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, *
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, and Jiahai Wang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
-5. [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
+5. [<font color=Blue>COP</font>] [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang(#), Yaoxin Wu(#), **Yining Ma(#)**, Wen Song, Le Zhang, Zhiguang Cao, and Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
@@ -55,10 +55,9 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, and Ji
 -> Multi-Agent / Federated Machine Learning
 -----------------
 
-1. [<font color=Sienna>Extended Abstract</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
+1. **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, and Roger Wattenhofer.   
-*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), pp. 2810–-2812, 2023. 
-[[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
+*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
 2. **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,   
 Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, and Kian Hsiang Low.   
