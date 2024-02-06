@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 **(#) means equal contribution**
 
--> Machine Learning + Optimization
+-> Machine Learning for Optimization
 -----------------
 
 1. [<font color=Blue>BBO</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, and Yue-Jiao Gong.  
-*International Conference on Learning Representations* (**ICLR**), 2024. [[Accepted]]()
+*International Conference on Learning Representations* (**ICLR**), 2024. [[Code & Paper]](https://github.com/gmc-drl/symbol)
 
 2. [<font color=Blue>VRP</font>] **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, and Yeow Meng Chee.  
@@ -64,7 +64,7 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, and Kian Hsi
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
 
--> Swarm Intelligence + Optimization
+-> Applications of Optimization
 -----------------
 
 1. **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
