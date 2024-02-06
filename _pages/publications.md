@@ -64,7 +64,7 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, and Kian Hsi
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
 
--> Other Applications of Optimization
+-> Other Applications of Optimization and Machine Learning
 -----------------
 
 1. **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
