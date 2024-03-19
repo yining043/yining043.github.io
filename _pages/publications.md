@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**'#' means equal contribution,  '$\dagger$' indicates corresponding author**
+**# means equal contribution,  $\dagger$ indicates corresponding author**
 
 
 -> Pre-prints
