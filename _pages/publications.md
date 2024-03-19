@@ -23,13 +23,13 @@ Youchen Sun.
 -----
 1. [<font color=Blue>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
-*IEEE Transactions on Systems, Man Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://arxiv.org/abs/2403.02131)
+*IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://arxiv.org/abs/2403.02131)
 
 1. [<font color=Blue>BBO</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.  
 *International Conference on Learning Representations* (**ICLR**), 2024. [[Code & Paper]](https://github.com/gmc-drl/symbol)
 
-1. [<font color=Blue>VRP</font>] **Learning to Search Feasible Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
+1. [<font color=Blue>VRP</font>] **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, Yeow Meng Chee.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
 
@@ -47,13 +47,13 @@ Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, Jie Z
 
 1. [<font color=Blue>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
 Jingwen Li#, **Yining Ma#**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
-*IEEE Transactions on Neural Networks Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
 1. [<font color=Blue>VRP</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma#**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Spotlight</font>, pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
-1. [<font color=Blue>VRP</font>] **Efficient Neural Neighborhood Search for Pickup Delivery Problems**,   
+1. [<font color=Blue>VRP</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma#**, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
@@ -70,7 +70,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 -----
 12. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
-*International Conference on Autonomous Agents Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
+*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
 1. [<font color=Green>Fed</font>] **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,   
 Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang Low.   
