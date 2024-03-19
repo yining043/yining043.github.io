@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a researcher at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working in collaboration with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I am pending the graduation of my Ph.D. in Industrial Systems Engineering at the National University of Singapore (NUS), Singapore, adviced by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from the School of Computer Science and Engineering, South China University of Technology (SCUT), Guangzhou, China, in June 2019, under the supervision of [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). In recent years, I have also collaborated closely with [Asst. Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). 
-
-My work has been featured in prestigious conferences and journals, including *NeurIPS*, *ICLR*, *IJCAI*, *TNNLS*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and regularly served as a PC Member and/or Reviewer for top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*， *KDD*, etc, along with several IEEE transactions and Elsevier journals.
+Hi, I am currently a researcher at the College of Computing and Data Science, Nanyang Technological University (NTU), working in collaboration with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I am pending the graduation of my Ph.D. in Industrial Systems Engineering at the National University of Singapore (NUS), adviced by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from the School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, under the supervision of [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). In recent years, I have also collaborated closely with [Asst. Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). My work has been featured in prestigious conferences and journals, including *NeurIPS*, *ICLR*, *IJCAI*, *TNNLS*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and a PC Member and/or Reviewer for top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, *KDD*, etc, along with several IEEE transactions and Elsevier journals.
 
 Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration or invited talks! You may apporach me at:
 * E-mail: yiningma [at] u [dot] nus [dot] edu
@@ -27,7 +25,7 @@ Besides, my research also extends to broader AI domains, including distributed/f
 
 **Research Keywords**
 - **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems, Computational Intelligence
-- **Optimization**: Combinatorial Optimization, Black-Box Optimization, Multi-Objective Optimization
+- **Optimization**: Combinatorial Optimization, Black-Box Optimization
 - **Application**: Routing, Planning, Logistics, Transportation, Autonomous Vehicles
 
 ⚡ News
