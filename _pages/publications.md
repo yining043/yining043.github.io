@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-**# means equal contribution, $\dagger$ indicates corresponding author**
+**'#' means equal contribution,  '$\dagger$' indicates corresponding author**
 
 
 -> Pre-prints
-----
+-----
 1. [<font color=purple>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.
 
@@ -19,7 +19,7 @@ Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** 
 Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, **Yining Ma**, Jie Zhang,
 Youchen Sun.  
 
--> Machine Learning for Optimization
+-> Machine Learning for Optimization (2021 - now)
 -----
 1. [<font color=Blue>DRL,BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
@@ -33,7 +33,7 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 **Yining Ma**, Zhiguang Cao, Yeow Meng Chee.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
 
-1. [<font color=Sienna>Benchmark</font>,<font color=Blue>BBO</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
+1. [<font color=Blue>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Oral</font>, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
@@ -41,7 +41,7 @@ Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, *
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
-1. [<font color=Sienna>Review</font>,<font color=Blue>COP</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
+1. [<font color=Blue>COP</font>] [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
@@ -66,7 +66,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
 
--> Other Topics in Machine Learning
+-> Other Topics in Machine Learning (2021 - now)
 -----
 12. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
@@ -77,7 +77,7 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
 
--> Other Topics in Optimization
+-> Other Topics in Optimization (2018 - now)
 -----
 14. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
