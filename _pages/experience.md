@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 - [S-Lab for Advanced Intelligence (S-Lab), Nanyang Technological University](https://www.ntu.edu.sg/s-lab)    
-Researcher  
+Researcher (Project Officer)    
 Sept 2023 – Present, Singapore, Singapore
 
 - [Technical Engineering Group (TEG), Tencent](https://www.tencent.com/en-us/index.html)    
@@ -23,6 +23,9 @@ Membership
 
 Invited Talks
 ======
+- [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/):  
+Learning-to-Search Approaches for Vehicle Routing Problems Using Deep Reinforcement Learning  
+14th Feb, Online, 2024
 - [AI Time at Tsinghua University](http://www.aitime.cn/):  
 Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt  
 1st Nov, Online, 2023
