@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-**'#' means equal contribution,  '$\dagger$' indicates corresponding author**
+**# means equal contribution, $\dagger$ indicates corresponding author**
 
 
 -> Pre-prints
------
+----
 1. [<font color=purple>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.
 
@@ -19,7 +19,7 @@ Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** 
 Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, **Yining Ma**, Jie Zhang,
 Youchen Sun.  
 
--> Machine Learning for Optimization (2021 - now)
+-> Machine Learning for Optimization
 -----
 1. [<font color=Blue>DRL,BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
@@ -66,7 +66,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
 
--> Other Topics in Machine Learning (2021 - now)
+-> Other Topics in Machine Learning
 -----
 12. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
@@ -77,7 +77,7 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
 
--> Other Topics in Optimization (2018 - now)
+-> Other Topics in Optimization
 -----
 14. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  

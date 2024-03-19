@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a researcher at College of Computing and Data Science, Nanyang Technological University (NTU), working in collaboration with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I am pending the graduation of my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS), adviced by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from the School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, under the supervision of [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). In recent years, I have also collaborated closely with [Asst. Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). My work has been featured in prestigious conferences and journals, including *NeurIPS*, *ICLR*, *IJCAI*, *TNNLS*, *TCYB*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and a PC Member and/or Reviewer for top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, *KDD*, etc, along with several IEEE transactions and Elsevier journals.
+Hi, I am currently a researcher at College of Computing and Data Science, Nanyang Technological University (NTU), working in collaboration with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I am pending the graduation of my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS), adviced by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, under the supervision of [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). In recent years, I have also collaborated closely with [Asst. Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). My work has been featured in prestigious conferences and journals, including *NeurIPS*, *ICLR*, *IJCAI*, *TNNLS*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and a PC Member and/or Reviewer for top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, *KDD*, etc, along with several IEEE transactions and Elsevier journals.
 
 Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration! You may apporach me at:
 * E-mail: yiningma [at] u [dot] nus [dot] edu
@@ -17,7 +17,7 @@ Welcome to see my [publications](https://yining043.github.io/publications/), [ac
 
 💡 Research Interests
 -----
-I am working at the intersection of **Artificial Intelligence (AI)** and **Optimization**, striving to develop automated AI solutions that surpass human capabilities in addressing complex optimization challenges. 
+I am working at the intersection of **Artificial Intelligence (AI)** and **Optimization**, striving to develop automated AI solutions in addressing complex optimization challenges. 
 
 Recently, my research has focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest AI techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop the state-of-the-art AI-powered frameworks/approaches for addressing challenging optimization problems (e.g., combinatorial optimization, black-box optimization, multi-objective optimization, etc). My research in L2Opt spans various machine learning perspectives, such as representation learning, foundational model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
 
@@ -25,13 +25,13 @@ Besides, my research also extends to broader AI domains, including distributed/f
 
 **Research Keywords**
 - **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems, Computational Intelligence
-- **Optimization**: Combinatorial Optimization, Black-Box Optimization, Multi-Objective Optimization
+- **Optimization**: Combinatorial Optimization, Black-Box Optimization
 - **Application**: Routing, Planning, Logistics, Transportation, Autonomous Vehicles
 
 ⚡ News
 -----
 * [03/2024] Joined the open research group - [AI4CO](https://github.com/ai4co).
-* [03/2024] One paper on L2Opt (dynamic algorithm selection via DRL) got accepted by SMCA.
+* [03/2024] One paper on L2Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on deep reinforcement learning.
 * [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
 * [02/2024] Successfully defended my PhD thesis at NUS!
 
