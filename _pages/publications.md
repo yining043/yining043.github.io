@@ -11,20 +11,16 @@ author_profile: true
 
 
 -> Pre-prints
------------------
-***
-1. [<font color=purple>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
-Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.  
-*arXiv*, 2024. [[Paper]](https://arxiv.org/abs/2403.01131)
+-----
+1. [<font color=purple>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
+Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.
 
-1. [<font color=purple>LLM</font>] **Large Language Model with Graph Convolution for Recommendation**,  
+1. [<font color=purple>LLM</font>] **Large Language Model with Graph Convolution for Recommendation** [[arXiv]](https://arxiv.org/abs/2402.08859),  
 Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, **Yining Ma**, Jie Zhang,
 Youchen Sun.  
-*arXiv*, 2024. [[Paper]](https://arxiv.org/abs/2402.08859)
 
 -> Machine Learning for Optimization (2021 - now)
------------------
-***
+-----
 1. [<font color=Blue>DRL,BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
 *IEEE Transactions on Systems, Man Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://arxiv.org/abs/2403.02131)
@@ -71,8 +67,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 
 
 -> Other Topics in Machine Learning (2021 - now)
------------------
-***
+-----
 12. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
 *International Conference on Autonomous Agents Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
@@ -83,8 +78,7 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 
 
 -> Other Topics in Optimization (2018 - now)
------------------
-
+-----
 14. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
@@ -99,7 +93,6 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.
 
 
 Patent
-======
-***
+-----
 1. **Intelligent video content server deployment method system**,   
 China Invention Grant (No. CN108616401B), 2018. [[Link]](https://patents.google.com/patent/CN108616401B/en)

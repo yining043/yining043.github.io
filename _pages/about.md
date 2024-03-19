@@ -30,10 +30,14 @@ Besides, my research also extends to broader AI domains, including distributed/f
 
 ⚡ News
 -----
-[03/2024] Joined the open research group - [AI4CO](https://github.com/ai4co). <br/>
-[03/2024] One paper on L2Opt (dynamic algorithm selection via DRL) got accepted by SMCA. <br/>
-[02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/). <br/>
-[02/2024] Successfully defended my PhD thesis at NUS! <br/>
+[03/2024] Joined the open research group - [AI4CO](https://github.com/ai4co).
 
+[03/2024] One paper on L2Opt (dynamic algorithm selection via DRL) got accepted by SMCA.
+
+[02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
+
+[02/2024] Successfully defended my PhD thesis at NUS!
+
+<br/>
 <br>
 <a href="https://info.flagcounter.com/kHt2"><img src="https://s01.flagcounter.com/count2/kHt2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
