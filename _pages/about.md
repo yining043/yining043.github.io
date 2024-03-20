@@ -30,7 +30,7 @@ Besides, my research also extends to broader AI domains, including distributed/f
 
 ⚡ News
 -----
-* [03/2024] Joined collaboration with the open-source research group - [AI4CO](https://github.com/ai4co).
+* [03/2024] Joined the open-source organization - [AI4CO](https://github.com/ai4co).
 * [03/2024] One paper on L2Opt got accepted by SMCA.
 * [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
 * [02/2024] Successfully defended my PhD thesis at NUS!
