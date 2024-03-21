@@ -68,7 +68,12 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 
 -> Other Topics in Machine Learning (2021 - now)
 -----
-12. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
+
+12. [<font color=Green>MARL</font>] **Decision-making with Speculative Opponent Models**,   
+Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.   
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Paper]]()
+
+1. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
 *International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
@@ -79,7 +84,7 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 
 -> Other Topics in Optimization (2018 - now)
 -----
-14. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
+15. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
 
