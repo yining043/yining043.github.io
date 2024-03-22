@@ -25,6 +25,10 @@ Youchen Sun.
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
 *IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://arxiv.org/abs/2403.02131)
 
+1. [<font color=Blue>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
+Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
+*Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Accepted]]()
+
 1. [<font color=Blue>BBO</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.  
 *International Conference on Learning Representations* (**ICLR**), 2024. [[Code & Paper]](https://github.com/gmc-drl/symbol)
@@ -69,9 +73,9 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 -> Other Topics in Machine Learning (2021 - now)
 -----
 
-12. [<font color=Green>MARL</font>] **Decision-making with Speculative Opponent Models**,   
+1. [<font color=Green>MARL</font>] **Decision-making with Speculative Opponent Models**,   
 Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.   
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Paper]]()
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Accepted]]()
 
 1. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
@@ -84,7 +88,7 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 
 -> Other Topics in Optimization (2018 - now)
 -----
-15. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
+1. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
 
