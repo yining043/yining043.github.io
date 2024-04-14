@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am currently a researcher at College of Computing and Data Science, Nanyang Technological University (NTU), working in collaboration with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. degree in Industrial Systems Engineering at National University of Singapore (NUS), in March 2024, where I am honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, supervised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). I have also collaborated closely with [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). 
 
-I am working at the intersection of **Artificial Intelligence (AI)** and **Optimization**, striving to develop automated AI solutions to address complex optimization challenges. My research has been featured in top-tier conferences and journals, including *NeurIPS*, *ICLR*, *IJCAI*, *TNNLS*, *TCYB*, *SMCA*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and a Reviewer/PC Member for top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, along with prestigious journals such as *TNNLS*, *TCYB*, *TITS*, *TASE*, *TRPE*, etc.
+I am working at the intersection of **Machine Learning (ML)** and **Optimization**, striving to develop automated ML solutions to address complex optimization challenges. My research has been featured in top-tier conferences and journals, including *NeurIPS*, *ICLR*, *IJCAI*, *TNNLS*, *TCYB*, *SMCA*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and a Reviewer/PC Member for top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, along with prestigious journals such as *TNNLS*, *TCYB*, *TITS*, *TASE*, *TRPE*, etc.
 
 Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration! You may approach me at:
 * E-mail: yiningma [at] u [dot] nus [dot] edu
@@ -19,12 +19,12 @@ Welcome to see my [publications](https://yining043.github.io/publications/), [ac
 
 💡 Research Interests
 -----
-My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest AI techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop state-of-the-art AI-powered frameworks/approaches for addressing challenging optimization problems (e.g., combinatorial optimization, black-box optimization, multi-objective optimization, etc). My research in L2Opt spans various machine learning perspectives, such as representation learning, foundational model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
+My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest ML techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging optimization problems (e.g., combinatorial optimization, black-box optimization, multi-objective optimization, etc). My research in L2Opt spans various ML perspectives, such as representation learning, foundational model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
 
-Besides, my research also extends to broader AI domains, including distributed/federated learning, multi-agent systems, computational intelligence, and their real-world applications.
+Besides, my research also extends to broader ML domains, including distributed/federated learning, multi-agent systems, computational intelligence, and their real-world applications.
 
 **Research Keywords**
-- **Artificial Intelligence**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems, Computational Intelligence
+- **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems, Computational Intelligence
 - **Optimization**: Combinatorial Optimization, Black-Box Optimization
 - **Application**: Routing, Planning, Logistics, Transportation, Autonomous Vehicles
 
