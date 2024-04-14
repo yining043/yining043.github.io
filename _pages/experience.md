@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- [S-Lab for Advanced Intelligence (S-Lab), Nanyang Technological University](https://www.ntu.edu.sg/s-lab)    
+- [College of Computing and Data Science, Nanyang Technological University](https://personal.ntu.edu.sg/zhangj/)    
 Researcher (Project Officer)    
 Sept 2023 – Present, Singapore, Singapore
 
@@ -18,7 +18,7 @@ Jun 2018 – Aug 2018, Shenzhen, China
 
 Membership
 ======
-- Student Member, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988 USA, 2023-Present
+- Student Member, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988 USA, 2023-2024
 
 
 Invited Talks
