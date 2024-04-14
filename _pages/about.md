@@ -21,10 +21,8 @@ Welcome to see my [publications](https://yining043.github.io/publications/), [ac
 -----
 My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest ML techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging optimization problems (e.g., combinatorial optimization, black-box optimization, multi-objective optimization, etc). My research in L2Opt spans various ML perspectives, such as representation learning, foundational model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
 
-Besides, my research also extends to broader ML domains, including distributed/federated learning, multi-agent systems, computational intelligence, and their real-world applications.
-
 **Research Keywords**
-- **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems, Computational Intelligence
+- **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems
 - **Optimization**: Combinatorial Optimization, Black-Box Optimization
 - **Application**: Routing, Planning, Logistics, Transportation, Autonomous Vehicles
 
