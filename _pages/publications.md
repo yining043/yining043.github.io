@@ -35,15 +35,15 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 
 1. [<font color=Blue>VRP</font>] **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, Yeow Meng Chee.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 49555-49578, 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
 
 1. [<font color=Blue>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Oral</font>, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Oral</font>, pp. 10775-10795, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
 1. [<font color=Blue>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 39176-39188, 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
 1. [<font color=Blue>COP</font>] [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
