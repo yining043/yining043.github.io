@@ -12,7 +12,7 @@ author_profile: true
 
 ## Program Committee (PC) Member / Conference Reviewer
 - International Conference on Machine Learning (**ICML**), 2024
-- Conference on Neural Information Processing Systems (**NeurIPS**), 2023
+- Conference on Neural Information Processing Systems (**NeurIPS**), 2023, 2024
 - International Conference on Learning Representations (**ICLR**), 2024
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023, 2024
 - International Joint Conference on Artificial Intelligence (**IJCAI**), 2023, 2024
