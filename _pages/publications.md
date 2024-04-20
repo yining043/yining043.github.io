@@ -27,7 +27,7 @@ Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Ca
 
 1. [<font color=Blue>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
 Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
-*Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Accepted]]()
+*Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Paper]](https://arxiv.org/abs/2404.08239)
 
 1. [<font color=Blue>BBO</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.  
@@ -75,7 +75,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 
 1. [<font color=Green>MARL</font>] **Decision-making with Speculative Opponent Models**,   
 Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.   
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Accepted]]()
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Paper]](https://ieeexplore.ieee.org/document/10496229)
 
 1. [<font color=Green>Fed</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
