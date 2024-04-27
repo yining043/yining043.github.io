@@ -21,7 +21,7 @@ Youchen Sun.
 
 -> Machine Learning for Optimization (2021 - now)
 -----
-### ---> Conference papers
+### # Conference papers
 1. [<font color=Blue>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
 Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
 *Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Paper]](https://arxiv.org/abs/2404.08239)
@@ -54,7 +54,7 @@ Jieyi Bi#, **Yining Ma#**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Ye
 **Yining Ma**, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, Zhenghua Chen, Jing Tang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
 
-### ---> Journal papers
+### # Journal papers
 
 9. [<font color=Blue>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
