@@ -26,7 +26,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 - **Optimization**: Combinatorial Optimization, Black-Box Optimization
 - **Application**: Routing, Planning, Logistics, Transportation, Autonomous Vehicles
 
-⚡ News
+🎉 News
 -----
 * [03/2024] One paper on MARL got accepted by TNNLS, where we introduced DOMAC for opponent modelling in multi-agent systems using only local information.
 * [03/2024] Joined the open-source organization - [AI4CO](https://github.com/ai4co).
