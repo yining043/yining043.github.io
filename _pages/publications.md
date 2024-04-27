@@ -21,10 +21,7 @@ Youchen Sun.
 
 -> Machine Learning for Optimization (2021 - now)
 -----
-1. [<font color=Blue>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
-Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
-*IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708) 
-
+### Conference papers
 1. [<font color=Blue>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
 Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
 *Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Paper]](https://arxiv.org/abs/2404.08239)
@@ -45,14 +42,6 @@ Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, *
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 39176-39188, 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
-1. [<font color=Blue>COP</font>] [<font color=Sienna>Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
-Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
-*IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
-
-1. [<font color=Blue>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
-Jingwen Li#, **Yining Ma#**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
-
 1. [<font color=Blue>VRP</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi#, **Yining Ma#**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Spotlight</font>, pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
@@ -61,13 +50,28 @@ Jieyi Bi#, **Yining Ma#**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Ye
 **Yining Ma#**, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
-1. [<font color=Blue>VRP</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
-Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zhang.   
-*IEEE Transactions on Cybernetics* (**TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
-
 1. [<font color=Blue>VRP</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
 **Yining Ma**, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, Zhenghua Chen, Jing Tang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 11096-11107, 2021. [[Code & Paper]](https://github.com/yining043/VRP-DACT)
+
+### Journal papers
+
+9. [<font color=Blue>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
+Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
+*IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708) 
+
+1. [<font color=Blue>COP</font>] [<font color=Sienna>Invited Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
+Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
+*IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
+
+1. [<font color=Blue>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
+Jingwen Li#, **Yining Ma#**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
+
+
+1. [<font color=Blue>VRP</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
+Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zhang.   
+*IEEE Transactions on Cybernetics* (**TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
 
 -> Other Topics in Machine Learning (2021 - now)
