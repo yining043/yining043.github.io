@@ -7,19 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-- [College of Computing and Data Science, Nanyang Technological University](https://personal.ntu.edu.sg/zhangj/)    
-Researcher (Project Officer)    
-Sept 2023 – Present, Singapore, Singapore
+- [College of Computing and Data Science, Nanyang Technological University](https://personal.ntu.edu.sg/zhangj/) 
+**Research Fellow**  
+May 2024 – Present, Singapore, Singapore  
+**Project Officer**  
+Sept 2023 – April 2024, Singapore, Singapore
 
 - [Technical Engineering Group (TEG), Tencent](https://www.tencent.com/en-us/index.html)    
-Data Analyst Intern  
+**Data Analyst Intern**  
 Jun 2018 – Aug 2018, Shenzhen, China
 
 
-Membership
+Teaching
 ======
-- Student Member, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988 USA, 2023-2024
-
+- **Teaching Assistant**
+-- IE2141 Systems Thinking and Dynamics  
+Sept 2020 - Nov 2022, NUS, Singapore
+- **Guest Lecturer**
+-- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
+Jul, 2020, NUS, Singapore
 
 Invited Talks
 ======
@@ -39,12 +45,6 @@ Deep Reinforcement Learning based Efficient Neural Neighborhood Search
 Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer  
 3rd Mar, Online, 2022
 
-
-Teaching
+Membership
 ======
-- **Teaching Assistant**
--- IE2141 Systems Thinking and Dynamics  
-Sept 2020 - Nov 2022, NUS, Singapore
-- **Guest Lecturer**
--- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
-Jul, 2020, NUS, Singapore
+- Student Member, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988 USA, 2023-2024

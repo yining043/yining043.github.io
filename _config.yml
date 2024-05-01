@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Yining MA"
 title_separator          : "-"
 name                     : &name "Yining MA"
-description              : &description "Researcher @ NTU | Ph.D. Alumni @ NUS"
+description              : &description "Research Fellow @ NTU | Ph.D. Alumni @ NUS"
 url                      : https://yining043.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yining043/yining043.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yining MA (马一宁)"
   avatar           : "profile.jpg"
-  bio              : "Researcher @ NTU | Ph.D. Alumni @ NUS"
+  bio              : "Research Fellow @ NTU | Ph.D. Alumni @ NUS"
   location         : "Singapore"
   employer         :
   pubmed           : 
