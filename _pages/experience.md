@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- [College of Computing and Data Science, Nanyang Technological University](https://personal.ntu.edu.sg/zhangj/) 
+- [College of Computing and Data Science, Nanyang Technological University](https://personal.ntu.edu.sg/zhangj/)  
 **Research Fellow**  
 May 2024 – Present, Singapore, Singapore  
 **Project Officer**  
