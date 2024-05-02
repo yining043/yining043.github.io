@@ -28,6 +28,8 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
+* [05/2024] One paper on L2Opt got accepted by ICML, where we introduced MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts.
+
 * [03/2024] One paper on MARL got accepted by TNNLS, where we introduced DOMAC for opponent modelling in multi-agent systems using only local information.
 * [03/2024] Joined the open-source organization - [AI4CO](https://github.com/ai4co).
 * [03/2024] One paper on L2Opt got accepted by SMCA, where we introduced RL-DAS for dynamic algorithm selection based on deep reinforcement learning.
