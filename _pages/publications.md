@@ -24,7 +24,7 @@ Youchen Sun.
 ### # Conference papers
 1. [<font color=Blue>VRP</font>] **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts**,  
 Jianan Zhou, Zhiguang Cao, Yaoxin Wu, Wen Song, **Yining Ma**, Jie Zhang, Xu Chi.  
-*International Conference on Machine Learning* (**ICML**), 2024. [[Accepted]]()
+*International Conference on Machine Learning* (**ICML**), 2024. [[Code & Paper]](https://github.com/RoyalSkye/Routing-MVMoE)
 
 1. [<font color=Blue>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
 Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
