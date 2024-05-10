@@ -18,6 +18,7 @@ author_profile: true
 - International Joint Conference on Artificial Intelligence (**IJCAI**), 2023, 2024
 - IEEE Conference on Decision and Control (**CDC**), 2021, 2024
 - SIAM International Conference on Data Mining (**SDM**), 2024
+- Trustworthy Sequential Decision-making and Optimization Workshop [(TSDO Workshop @ ECAI)](https://sites.google.com/view/tsdo-2024/home), 2024
 
 ## Journal Reviewer
 - Transportation Research Part E (**TRP-E**)
@@ -25,6 +26,7 @@ author_profile: true
 - IEEE Transactions on Cybernetics (**TCYB**)
 - IEEE Transactions on Intelligent Transportation Systems (**TITS**)
 - IEEE Transactions on Automation Science and Engineering (**TASE**)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 - IEEE Transactions on Vehicular Technology (**TVT**)
 - ACM Computing Surveys (**CSUR**)
 - Robotics and Autonomous Systems
