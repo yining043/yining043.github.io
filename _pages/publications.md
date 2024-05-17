@@ -12,10 +12,10 @@ author_profile: true
 
 -> Pre-prints
 -----
-1. [<font color=purple>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
+1. [<font color=Blue>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.
 
-1. [<font color=purple>LLM</font>] **Large Language Model with Graph Convolution for Recommendation** [[arXiv]](https://arxiv.org/abs/2402.08859),  
+1. [<font color=Blue>LLM</font>] **Large Language Model with Graph Convolution for Recommendation** [[arXiv]](https://arxiv.org/abs/2402.08859),  
 Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, **Yining Ma**, Jie Zhang,
 Youchen Sun.  
 
@@ -87,34 +87,34 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 
 ### - Conference papers
 
-1. [<font color=Green>RecSys</font>] **Disentangled Multi-interest Representation Learning for Sequential Recommendation**,  
+1. [<font color=Blue>RecSys</font>] **Disentangled Multi-interest Representation Learning for Sequential Recommendation**,  
 Yingpeng Du, Ziyan Wang, Zhu Sun, **Yining Ma**, Hongzhi Liu, Jie Zhang.  
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024. [[Accepted]]()
 
-1. [<font color=Green>FedRL</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
+1. [<font color=Blue>FedRL</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
 *International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
-1. [<font color=Green>FedRL</font>] **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,   
+1. [<font color=Blue>FedRL</font>] **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,   
 Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang Low.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
-1. [<font color=Orange>GA</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,     
+1. [<font color=Blue>Deployment</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,     
 Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.  
 *International Symposium on Neural Networks* (**ISNN**),  pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53)
 
 ### - Journal papers
 
 
-1. [<font color=Green>MARL</font>] **Decision-making with Speculative Opponent Models**,   
+1. [<font color=Blue>MARL</font>] **Decision-making with Speculative Opponent Models**,   
 Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.   
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Paper]](https://ieeexplore.ieee.org/document/10496229)
 
-1. [<font color=Orange>ACO</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
+1. [<font color=Blue>Planning</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
 
-1. [<font color=Orange>ACO</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
+1. [<font color=Blue>Planning</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
 **Yining Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, Jun Zhang.  
 *IEEE Transactions on Vehicular Technology* (**TVT**),  vol. 68, no. 1, pp. 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
