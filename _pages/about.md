@@ -28,6 +28,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
+* [05/2024] One paper on L2Opt got accepted by KDD'24, where we proposed a hierarchical neural solver for realistic TSPs under real-world customer distributions.
 * [05/2024] One paper on L2Opt got accepted by ICML'24, where we introduced MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts.
 * [05/2024] Promoted to the Research Fellow in NTU.
 * [03/2024] One paper on MARL got accepted by TNNLS, where we introduced DOMAC for opponent modelling in multi-agent systems using only local information.
