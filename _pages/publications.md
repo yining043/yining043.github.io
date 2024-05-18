@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**# means equal contribution,  $\dagger$ indicates corresponding author**
+**$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
 
 
 -> Pre-prints
@@ -51,11 +51,11 @@ Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiaha
 *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 39176-39188, 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
 1. [<font color=Blue>VRP</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
-Jieyi Bi#, **Yining Ma#**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
+Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Spotlight</font>, pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
 1. [<font color=Blue>VRP</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
-**Yining Ma#**, Jingwen Li#, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee.   
+**Yining Ma $\ast$**, Jingwen Li $\ast$, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee.   
 *International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
 1. [<font color=Blue>VRP</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
@@ -69,11 +69,11 @@ Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Ca
 *IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708) 
 
 1. [<font color=Blue>COP</font>] [<font color=Sienna>Invited Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
-Cong Zhang#, Yaoxin Wu#, **Yining Ma#**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
+Cong Zhang $\ast$, Yaoxin Wu $\ast$, **Yining Ma $\ast$**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
 1. [<font color=Blue>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
-Jingwen Li#, **Yining Ma#**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
+Jingwen Li $\ast$, **Yining Ma $\ast$**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
 
