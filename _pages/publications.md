@@ -12,6 +12,9 @@ author_profile: true
 
 -> Pre-prints
 -----
+1. [<font color=Blue>COP</font>] [<font color=Sienna>Benchmark</font>] 🚀 **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** [[arXiv]](https://arxiv.org/abs/2306.17100),  
+Federico Berto *, Chuanbo Hua *, Junyoung Park *, Laurin Luttmann *, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.
+
 1. [<font color=Blue>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.
 
@@ -66,11 +69,11 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 1. [<font color=Blue>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
-*IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708) 
+*IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), vol. 54, no. 7, pp. 4247-4259, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708) 
 
 1. [<font color=Blue>COP</font>] [<font color=Sienna>Invited Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang $\ast$, Yaoxin Wu $\ast$, **Yining Ma $\ast$**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
-*IET Collaborative Intelligent Manufacturing* (**CIM**), vol.5, no.1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
+*IET Collaborative Intelligent Manufacturing* (**CIM**), vol. 5, no. 1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
 1. [<font color=Blue>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
 Jingwen Li $\ast$, **Yining Ma $\ast$**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
@@ -93,11 +96,11 @@ Yingpeng Du, Ziyan Wang, Zhu Sun, **Yining Ma**, Hongzhi Liu, Jie Zhang.
 
 1. [<font color=Blue>FedRL</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
-*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
+*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810–2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
 1. [<font color=Blue>FedRL</font>] **Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee**,   
 Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang Low.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007--1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
+*Advances in Neural Information Processing Systems* (**NeurIPS**),  pp. 1007-1021, 2021. [[Code & Paper]](https://github.com/flint-xf-fan/Byzantine-Federeated-RL)
 
 1. [<font color=Blue>Deployment</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,     
 Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.  

@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<span style="color:red">News:</span> I will join the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) at MIT as a Postdoctoral Associate in August 2024, mentored by [Prof. Cathy Wu](http://www.wucathy.com/blog/)!
+
 Hi, I am currently a Research Fellow at College of Computing and Data Science, Nanyang Technological University (NTU), working in collaboration with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. degree in Industrial Systems Engineering at National University of Singapore (NUS), in March 2024, where I am honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, supervised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). I have also collaborated closely with [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). 
 
 I am working at the intersection of **Machine Learning (ML)** and **Optimization**, striving to develop automated ML solutions to address complex optimization and decision-making challenges. My research has been featured in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, *KDD*, *IJCAI*, etc, and top-tier journals such as *TNNLS*, *TCYB*, *SMCA*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and actively served as a Reviewer/PC Member for top-tier conferences, workshops, and journals.
@@ -28,13 +30,16 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
+* [06/2024] Check out our <a href="https://arxiv.org/abs/2306.17100" target="_blank">
+    <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
+</a>🚀 - an extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms.
 * [05/2024] One paper on L2Opt got accepted by KDD'24, where we proposed a hierarchical neural solver for realistic TSPs under real-world customer distributions.
 * [05/2024] One paper on L2Opt got accepted by ICML'24, where we introduced MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts.
 * [05/2024] Promoted to the Research Fellow in NTU.
 * [03/2024] One paper on MARL got accepted by TNNLS, where we introduced DOMAC for opponent modelling in multi-agent systems using only local information.
 * [03/2024] One paper on L2Opt got accepted by SMCA, where we introduced RL-DAS for dynamic algorithm selection based on deep reinforcement learning.
 * [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
-* [02/2024] Successfully defended my PhD thesis at NUS!
+* [02/2024] Successfully defended my PhD thesis at NUS 🎓!
 
 <br/>
 <br>
