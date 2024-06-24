@@ -30,9 +30,9 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
-* [06/2024] Check out our <a href="https://arxiv.org/abs/2306.17100" target="_blank">
+* [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
-</a>🚀 - an extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms.
+</a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
 * [05/2024] One paper on L2Opt got accepted by KDD'24, where we proposed a hierarchical neural solver for realistic TSPs under real-world customer distributions.
 * [05/2024] One paper on L2Opt got accepted by ICML'24, where we introduced MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts.
 * [05/2024] Promoted to the Research Fellow in NTU.
