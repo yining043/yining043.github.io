@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Yining MA"
 title_separator          : "-"
 name                     : &name "Yining MA"
-description              : &description "Research Fellow @ NTU | Ph.D. Alumni @ NUS"
+description              : &description "Postdoctoral Associate, MIT"
 url                      : https://yining043.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yining043/yining043.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yining MA (马一宁)"
   avatar           : "profile.jpg"
-  bio              : "Research Fellow @ NTU | Ph.D. Alumni @ NUS"
-  location         : "Singapore"
+  bio              : "Postdoctoral Associate, MIT"
+  location         : "United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en"
-  email            : "yiningma@u.nus.edu"
+  email            : "yiningma@mit.edu"
   researchgate     : "https://www.researchgate.net/profile/Yining-Ma-7"
   uri              :
   bitbucket        :

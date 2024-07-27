@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 {% include base_path %}
+- [Laboratory for Information and Decision Systems, MIT](https://lids.mit.edu/)  
+**Postdoctoral Associate**  
+Aug 2024 – Present, Cambridge, Massachusetts, United States
+
 
 - [College of Computing and Data Science, Nanyang Technological University](https://personal.ntu.edu.sg/zhangj/)  
 **Research Fellow**  
-May 2024 – Present, Singapore, Singapore  
+May 2024 – July 2024, Singapore, Singapore  
 **Project Officer**  
 Sept 2023 – April 2024, Singapore, Singapore
 

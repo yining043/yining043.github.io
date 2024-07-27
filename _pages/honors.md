@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-- **Top 10% Reviewer**         
+- **Best Reviewer Award**         
+International Conference on Machine Learning (ICML), 2024
+- **Top 10% Reviewer Award**         
 Conference on Neural Information Processing Systems (NeurIPS), 2023
 - **NeurIPS 2023 Scholar Award**         
 Conference on Neural Information Processing Systems (NeurIPS), 2023

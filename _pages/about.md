@@ -8,28 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">News:</span> I will join the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) at MIT as a Postdoctoral Associate in August 2024, mentored by [Prof. Cathy Wu](http://www.wucathy.com/blog/)!
+Hi, I am currently a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), mentored by [Prof. Cathy Wu](http://www.wucathy.com/blog/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), collaborating with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) (SMU). I obtained my Ph.D. degree in Industrial Systems Engineering at National University of Singapore (NUS), in March 2024, where I am honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).
 
-Hi, I am currently a Research Fellow at College of Computing and Data Science, Nanyang Technological University (NTU), working in collaboration with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. degree in Industrial Systems Engineering at National University of Singapore (NUS), in March 2024, where I am honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, supervised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). I have also collaborated closely with [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU). 
-
-I am working at the intersection of **Machine Learning (ML)** and **Optimization**, striving to develop automated ML solutions to address complex optimization and decision-making challenges. My research has been featured in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, *KDD*, *IJCAI*, etc, and top-tier journals such as *TNNLS*, *TCYB*, *SMCA*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and actively served as a Reviewer/PC Member for top-tier conferences, workshops, and journals.
+I am working at the intersection of **Machine Learning (ML)** and **Optimization**, striving to develop automated ML solutions to address complex optimization and decision-making challenges. My research has been featured in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, *KDD*, *IJCAI*, etc, and top-tier journals such as *TNNLS*, *SMCA*, *TITS*, etc. I have served as an Area Chair for the *IEEE CAI* conference and actively served as a Reviewer/PC Member for top-tier conferences, workshops, and journals, recognized with best reviewer awards.
 
 Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration! You may approach me at:
-* E-mail: yiningma [at] u [dot] nus [dot] edu
-* Phone: +65 8291 7017
+* **Office**: 45-611, 51 Vassar St, Cambridge, MA 02139 
+* **E-mail**: yiningma [at] mit [dot] edu
 
 
 💡 Research Interests
 -----
-My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest ML techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging optimization problems (e.g., combinatorial optimization, black-box optimization, multi-objective optimization, etc). My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
+My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest ML techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging real-world optimization problems (e.g., combinatorial optimization, black-box optimization, Mixed Integer Linear Programming, etc). My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
 
 **Research Keywords**
 - **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems
-- **Optimization**: Combinatorial Optimization, Black-Box Optimization
+- **Optimization**: Combinatorial Optimization, MILP, Black-Box Optimization
 - **Application**: Routing, Planning, Logistics, Transportation, Autonomous Vehicles
 
 🎉 News
 -----
+* [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
 * [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
 </a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.

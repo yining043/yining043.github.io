@@ -14,11 +14,11 @@ author_profile: true
 - International Conference on Machine Learning (**ICML**), 2024
 - Conference on Neural Information Processing Systems (**NeurIPS**), 2023, 2024
 - International Conference on Learning Representations (**ICLR**), 2024
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023, 2024
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023, 2024, 2025
 - International Joint Conference on Artificial Intelligence (**IJCAI**), 2023, 2024
+- AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 - IEEE Conference on Decision and Control (**CDC**), 2021, 2024
 - SIAM International Conference on Data Mining (**SDM**), 2024
-- Trustworthy Sequential Decision-making and Optimization Workshop [(TSDO Workshop @ ECAI)](https://sites.google.com/view/tsdo-2024/home), 2024
 
 ## Journal Reviewer
 - Transportation Research Part E (**TRP-E**)
