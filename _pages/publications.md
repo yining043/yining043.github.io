@@ -10,24 +10,12 @@ author_profile: true
 **$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
 
 
--> Pre-prints
------
-1. [<font color=Blue>COP</font>] [<font color=Sienna>Benchmark</font>] 🚀 **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** [[arXiv]](https://arxiv.org/abs/2306.17100),  
-Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.
-
-1. [<font color=Blue>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
-Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.
-
-1. [<font color=Blue>LLM</font>] **Large Language Model with Graph Convolution for Recommendation** [[arXiv]](https://arxiv.org/abs/2402.08859),  
-Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, **Yining Ma**, Jie Zhang,
-Youchen Sun.  
-
 -> Machine Learning for Optimization
 -----
 ### - Conference papers
 1. [<font color=Blue>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024. [[Accepted]]()
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
 
 1. [<font color=Blue>VRP</font>] **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts**,  
 Jianan Zhou, Zhiguang Cao, Yaoxin Wu, Wen Song, **Yining Ma**, Jie Zhang, Xu Chi.  
@@ -120,6 +108,20 @@ Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.
 1. [<font color=Blue>Planning</font>] **Path Planning for Autonomous Underwater Vehicles: An Ant Colony Algorithm Incorporating Alarm Pheromone**,      
 **Yining Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, Jun Zhang.  
 *IEEE Transactions on Vehicular Technology* (**TVT**),  vol. 68, no. 1, pp. 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
+
+
+-> Pre-prints
+-----
+1. [<font color=Blue>COP</font>] [<font color=Sienna>Benchmark</font>] 🚀 **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** [[arXiv]](https://arxiv.org/abs/2306.17100),  
+Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.
+
+1. [<font color=Blue>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  
+Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** $\dagger$, Yue-Jiao Gong $\dagger$.
+
+1. [<font color=Blue>LLM</font>] **Large Language Model with Graph Convolution for Recommendation** [[arXiv]](https://arxiv.org/abs/2402.08859),  
+Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, **Yining Ma**, Jie Zhang,
+Youchen Sun.  
+
 
 
 Patent
