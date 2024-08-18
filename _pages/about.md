@@ -28,7 +28,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
-* [08/2024] Our paper on L2Opt was accepted by TPAMI, where we promote a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
+* [08/2024] One paper on L2Opt got accepted by TPAMI, where we promoted a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
 * [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
 * [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
