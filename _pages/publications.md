@@ -55,7 +55,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 ### - Journal papers
 
-1. [<font color=Blue>BBO</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
+1. [<font color=Blue>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
 Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) 
 
