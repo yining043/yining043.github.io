@@ -55,6 +55,10 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 ### - Journal papers
 
+1. [<font color=Blue>BBO</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
+Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) 
+
 1. [<font color=Blue>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
 *IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), vol. 54, no. 7, pp. 4247-4259, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708) 
