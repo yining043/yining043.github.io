@@ -13,6 +13,10 @@ author_profile: true
 -> Machine Learning for Optimization
 -----
 ### - Conference papers
+1. [<font color=Blue>VRP</font>] **Learning to Handle Complex Constraints for Vehicle Routing Problems**,   
+Jieyi Bi, **Yining Ma $\dagger$**, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.   
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2024. [[Accepted]]()
+
 1. [<font color=Blue>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
@@ -116,7 +120,7 @@ Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.
 
 -> Pre-prints
 -----
-1. [<font color=Blue>COP</font>] [<font color=Sienna>Benchmark</font>] 🚀 **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** [[arXiv]](https://arxiv.org/abs/2306.17100),  
+1. [<font color=Blue>COP</font>] [<font color=Sienna>Benchmark</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** [[arXiv]](https://arxiv.org/abs/2306.17100),  
 Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.
 
 1. [<font color=Blue>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation** [[arXiv]](https://arxiv.org/abs/2403.01131),  

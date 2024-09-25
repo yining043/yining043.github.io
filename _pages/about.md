@@ -28,6 +28,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
+* [09/2024] One paper on L2Opt got accepted by NeurIPS'24, where we propose Proactive Infeasibility Prevention (PIP) to elevate neural solvers for complex VRP constriants.
 * [08/2024] One paper on L2Opt got accepted by TPAMI, where we promoted a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
 * [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
 * [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
