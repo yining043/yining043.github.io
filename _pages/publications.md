@@ -15,19 +15,19 @@ author_profile: true
 ### - Conference papers
 1. [<font color=Blue>VRP</font>] **Learning to Handle Complex Constraints for Vehicle Routing Problems**,   
 Jieyi Bi, **Yining Ma $\dagger$**, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2024. [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2024. [[Code & Paper]](https://github.com/jieyibi/pip-constraint)
 
 1. [<font color=Blue>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 884-895, 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
 
 1. [<font color=Blue>VRP</font>] **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts**,  
 Jianan Zhou, Zhiguang Cao, Yaoxin Wu, Wen Song, **Yining Ma**, Jie Zhang, Xu Chi.  
-*International Conference on Machine Learning* (**ICML**), 2024. [[Code & Paper]](https://github.com/RoyalSkye/Routing-MVMoE)
+*International Conference on Machine Learning* (**ICML**), pp. 61804-61824, 2024. [[Code & Paper]](https://github.com/RoyalSkye/Routing-MVMoE)
 
 1. [<font color=Blue>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
 Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
-*Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Paper]](https://arxiv.org/abs/2404.08239)
+*Genetic and Evolutionary Computation Conference* (**GECCO**), pp. 1497-1505, 2024. [[Paper]](https://arxiv.org/abs/2404.08239)
 
 1. [<font color=Blue>BBO</font>] **SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**,  
 Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.  
@@ -59,7 +59,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 ### - Journal papers
 
-1. [<font color=Blue>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
+12. [<font color=Blue>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
 Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) 
 
@@ -73,8 +73,7 @@ Cong Zhang $\ast$, Yaoxin Wu $\ast$, **Yining Ma $\ast$**, Wen Song, Le Zhang, Z
 
 1. [<font color=Blue>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,   
 Jingwen Li $\ast$, **Yining Ma $\ast$**, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
-
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), vol. 35, no. 11, pp. 15279-15291, 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
 1. [<font color=Blue>VRP</font>] **Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem**,   
 Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zhang.   
@@ -88,7 +87,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 
 1. [<font color=Blue>RecSys</font>] **Disentangled Multi-interest Representation Learning for Sequential Recommendation**,  
 Yingpeng Du, Ziyan Wang, Zhu Sun, **Yining Ma**, Hongzhi Liu, Jie Zhang.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2024. [[Accepted]]()
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 677-688, 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671800)
 
 1. [<font color=Blue>FedRL</font>] **FedHQL: Federated Heterogeneous Q-Learning**,   
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.   
@@ -105,9 +104,9 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.
 ### - Journal papers
 
 
-1. [<font color=Blue>MARL</font>] **Decision-making with Speculative Opponent Models**,   
+5. [<font color=Blue>MARL</font>] **Decision-making with Speculative Opponent Models**,   
 Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.   
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Paper]](https://ieeexplore.ieee.org/document/10496229)
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Code & Paper]](https://github.com/sunjing1102628/DOMAC)
 
 1. [<font color=Blue>Planning</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,   
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
