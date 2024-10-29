@@ -80,7 +80,7 @@ Jingwen Li, **Yining Ma**, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zh
 *IEEE Transactions on Cybernetics* (**TCYB**),  vol. 52, no. 12, pp. 13572-13585, 2022. [[Code & Paper]](https://github.com/Demon0312/HCVRP_DRL)
 
 
--> Other Topics in Machine Learning and Optimization
+-> General Machine Learning / Optimization
 -----
 
 ### - Conference papers
