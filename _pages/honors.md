@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-- **Best Reviewer Award**         
+- **NeurIPS 2024 Top Reviewer Award (Top 10%) <font color=Blue>(Both main and DB track!)</font>** [[Link]](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)         
+Conference on Neural Information Processing Systems (NeurIPS), 2024
+- **ICML 2024 Best Reviewer Award (Top 3%)** [[Link]](https://twitter.com/icmlconf/status/1815647580577059312)            
 International Conference on Machine Learning (ICML), 2024
-- **Top 10% Reviewer Award**         
+- **NeurIPS 2023 Top Reviewer Award (Top 10%)** [[Link]](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers)         
 Conference on Neural Information Processing Systems (NeurIPS), 2023
 - **NeurIPS 2023 Scholar Award**         
 Conference on Neural Information Processing Systems (NeurIPS), 2023
