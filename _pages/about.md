@@ -28,9 +28,11 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
+* [10/2024] I am selected as NeurIPS 2024 Top Reviewer (10%) for both main and DB track! 
 * [09/2024] One paper on L2Opt got accepted by NeurIPS'24, where we propose Proactive Infeasibility Prevention (PIP) to elevate neural solvers for complex VRP constraints.
 * [08/2024] One paper on L2Opt got accepted by TPAMI, where we promoted a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
 * [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
+* [07/2024] I am selected as ICML 2024 Best Reviewer (< 3%)!
 * [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
 </a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
