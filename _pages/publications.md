@@ -13,17 +13,22 @@ author_profile: true
 -> Machine Learning for Optimization
 -----
 ### - Conference papers
+1. [<font color=Blue>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
+Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025. [[Accepted]]()
+
 1. [<font color=Blue>VRP</font>] **Learning to Handle Complex Constraints for Vehicle Routing Problems**,   
 Jieyi Bi, **Yining Ma $\dagger$**, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024. [[Code & Paper]](https://github.com/jieyibi/pip-constraint)
 
-1. [<font color=Blue>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
-Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 884-895, 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
-
 1. [<font color=Blue>VRP</font>] **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts**,  
 Jianan Zhou, Zhiguang Cao, Yaoxin Wu, Wen Song, **Yining Ma**, Jie Zhang, Xu Chi.  
 *International Conference on Machine Learning* (**ICML**), pp. 61804-61824, 2024. [[Code & Paper]](https://github.com/RoyalSkye/Routing-MVMoE)
+
+
+1. [<font color=Blue>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
+Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 884-895, 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
 
 1. [<font color=Blue>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
 Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
