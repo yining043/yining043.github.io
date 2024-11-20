@@ -23,6 +23,7 @@ author_profile: true
 ## Journal Reviewer
 - Transportation Research Part E (**TRP-E**)
 - IEEE Transactions on Neural Network and Learning Systems (**TNNLS**)
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (**SMCA**)
 - IEEE Transactions on Cybernetics (**TCYB**)
 - IEEE Transactions on Intelligent Transportation Systems (**TITS**)
 - IEEE Transactions on Automation Science and Engineering (**TASE**)
