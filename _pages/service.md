@@ -33,6 +33,7 @@ author_profile: true
 - Robotics and Autonomous Systems
 
 ## Selected Survey Respondent
+- [2024 Expert Survey on Progress in AI](https://aiimpacts.org/#gsc.tab=0), AI Impacts, Dec 2024
 - [Annual Academic Reputation Survey 2024](https://ts-productinfo.com/c/1863701/8b711f438547f8fd/5), US News Best Global Universities Ranking, Clarivate, Sept 2024
 - [THE's Global Academic Reputation Survey 2024](https://www.timeshighereducation.com/world-university-rankings/global-academic-reputation-survey-2024-launching-soon), Times Higher Education World University Rankings, Nov 2023
 - [2023 Expert Survey on Progress in AI](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai), University of Oxford, Oct 2023
