@@ -28,6 +28,8 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
+* [12/2024] We hosted an unofficial L2Opt workshop at NeurIPS 2024. Check out the [photos](https://www.linkedin.com/posts/yiningma_neurips2024-activity-7275701162157207552-jDEb?utm_source=share&utm_medium=member_ios)!
+* [12/2024] One paper on L2Opt got accepted by AAAI'25, where we proposed ConfigX, a universal configuration agent that learns to boost diverse evolutionary algorithms.
 * [12/2024] ✈️ I will be attending NeurIPS'24 in person. See you in Vancouver, Canada! 🇨🇦
 * [11/2024] One paper on L2Opt got accepted by KDD'25, where we proposed a neural approach for optimizing diverse, high-quality solutions to Multi-Solution TSP (MSTSP).
 * [10/2024] I am selected as NeurIPS 2024 Top Reviewer (10%) for both main and DB track! 
