@@ -13,6 +13,10 @@ author_profile: true
 -> Machine Learning for Optimization
 -----
 ### - Conference papers
+1. [<font color=Blue>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
+Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
+*39th AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. [[Paper]](https://arxiv.org/abs/2412.07507)
+   
 1. [<font color=Blue>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
 Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025. [[Accepted]]()
@@ -64,7 +68,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 ### - Journal papers
 
-12. [<font color=Blue>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
+1. [<font color=Blue>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
 Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), vol. 46, no. 12, pp. 11019-11034, 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) 
 
@@ -109,7 +113,7 @@ Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.
 ### - Journal papers
 
 
-5. [<font color=Blue>MARL</font>] **Decision-making with Speculative Opponent Models**,   
+1. [<font color=Blue>MARL</font>] **Decision-making with Speculative Opponent Models**,   
 Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.   
 *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Code & Paper]](https://github.com/sunjing1102628/DOMAC)
 
