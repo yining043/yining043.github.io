@@ -11,7 +11,7 @@ author_profile: true
 - IEEE Conference on Artificial Intelligence (**CAI**), 2024
 
 ## Program Committee (PC) Member / Conference Reviewer
-- International Conference on Machine Learning (**ICML**), 2024
+- International Conference on Machine Learning (**ICML**), 2024, 2025
 - Conference on Neural Information Processing Systems (**NeurIPS**), 2023, 2024
 - International Conference on Learning Representations (**ICLR**), 2024, 2025
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023, 2024, 2025
@@ -33,6 +33,7 @@ author_profile: true
 - Robotics and Autonomous Systems
 
 ## Selected Survey Respondent
+- [THE's Global Academic Reputation Survey 2025](https://www.timeshighereducation.com/world-university-rankings/global-academic-reputation-survey-2025-launching-soon), Times Higher Education World University Rankings, Jan 2025
 - [2024 Expert Survey on Progress in AI](https://aiimpacts.org/#gsc.tab=0), AI Impacts, Dec 2024
 - [Annual Academic Reputation Survey 2024](https://ts-productinfo.com/c/1863701/8b711f438547f8fd/5), US News Best Global Universities Ranking, Clarivate, Sept 2024
 - [THE's Global Academic Reputation Survey 2024](https://www.timeshighereducation.com/world-university-rankings/global-academic-reputation-survey-2024-launching-soon), Times Higher Education World University Rankings, Nov 2023
