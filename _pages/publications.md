@@ -15,7 +15,7 @@ author_profile: true
 ### - Conference papers
 1. [<font color=Blue>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
 Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
-*39th AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. [[Paper]](https://arxiv.org/abs/2412.07507)
+*39th AAAI Conference on Artificial Intelligence* (**AAAI**), <font color=Red>Oral</font>, 2025. [[Paper]](https://arxiv.org/abs/2412.07507)
    
 1. [<font color=Blue>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
 Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
