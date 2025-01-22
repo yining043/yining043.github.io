@@ -13,9 +13,14 @@ author_profile: true
 -> Machine Learning for Optimization
 -----
 ### - Conference papers
+
+1. [<font color=Blue>FJSP</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
+Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
+*International Conference on Learning Representations* (**ICLR**), 2025. [[Code & Paper]]()
+
 1. [<font color=Blue>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
 Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
-*39th AAAI Conference on Artificial Intelligence* (**AAAI**), <font color=Red>Oral</font>, 2025. [[Paper]](https://arxiv.org/abs/2412.07507)
+*AAAI Conference on Artificial Intelligence* (**AAAI**), <font color=Red>Oral (top 5%)</font>, 2025. [[Paper]](https://arxiv.org/abs/2412.07507)
    
 1. [<font color=Blue>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
 Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
@@ -48,7 +53,7 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 
 1. [<font color=Blue>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Oral</font>, pp. 10775-10795, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Ora (top 1%)</font>, pp. 10775-10795, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
 1. [<font color=Blue>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.   
