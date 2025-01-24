@@ -21,6 +21,7 @@ author_profile: true
 - SIAM International Conference on Data Mining (**SDM**), 2024
 
 ## Journal Reviewer
+- Transactions on Machine Learning Research (**TMLR**)
 - Transportation Research Part E (**TRP-E**)
 - IEEE Transactions on Neural Network and Learning Systems (**TNNLS**)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (**SMCA**)
