@@ -17,6 +17,7 @@ author_profile: true
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023, 2024, 2025
 - International Joint Conference on Artificial Intelligence (**IJCAI**), 2023, 2024
 - AAAI Conference on Artificial Intelligence (**AAAI**), 2025
+- Reinforcement Learning Conference (**RLC**), 2025
 - IEEE Conference on Decision and Control (**CDC**), 2021, 2024
 - SIAM International Conference on Data Mining (**SDM**), 2024
 
