@@ -16,11 +16,11 @@ author_profile: true
 
 1. [<font color=Blue>FJSP</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
 Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
-*International Conference on Learning Representations* (**ICLR**), 2025. [[Accepted]]()
+*International Conference on Learning Representations* (**ICLR**), 2025. [[Code & Paper]](https://github.com/mit-wu-lab/l-rho)
 
 1. [<font color=Blue>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
 Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
-*AAAI Conference on Artificial Intelligence* (**AAAI**), <font color=Red>Oral (top 5%)</font>, 2025. [[Paper]](https://arxiv.org/abs/2412.07507)
+*AAAI Conference on Artificial Intelligence* (**AAAI**), <font color=Red>Oral (top 5%)</font>, 2025. [[Code & Paper]](https://github.com/GMC-DRL/ConfigX)
    
 1. [<font color=Blue>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
 Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
