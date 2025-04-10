@@ -28,7 +28,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
-* [04/2024] I will be serving as an Area Chair for NeurIPS 2025!
+* [04/2025] I will be serving as an Area Chair for NeurIPS 2025!
 * [12/2024] One paper on L2Opt got accepted by ICLR'25, where we introduce L-RHO, leveraging ML to accelerate RHO by up to 54% for Long-Horizon COPs such as FJSP.
 * [12/2024] One paper on L2Opt got accepted by AAAI'25 (Oral), where we propose ConfigX, a unified configuration agent that learns to boost diverse evolutionary algorithms.
 * [12/2024] We hosted an unofficial L2Opt workshop at NeurIPS 2024 ([see photos](https://www.linkedin.com/posts/yiningma_neurips2024-activity-7275701162157207552-jDEb?utm_source=share&utm_medium=member_ios))!
