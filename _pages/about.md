@@ -53,7 +53,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 <li> [05/2024] Promoted to the Research Fellow in NTU. </li>
 <li> [03/2024] One paper on MARL got accepted by TNNLS, where we introduce DOMAC for opponent modelling in multi-agent systems using only local information. </li>
 <li> [03/2024] One paper on L2Opt got accepted by SMCA, where we introduce RL-DAS for dynamic algorithm selection based on deep reinforcement learning. </li>
-<li> [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/). </li>
+<li> [02/2024] Gave a talk at MIT, hosted by <a href="http://www.wucathy.com/blog/">Prof. Cathy Wu</a>. </li>
 <li> [02/2024] Successfully defended my PhD thesis at NUS 🎓! </li>
 </ul>
 </details>
