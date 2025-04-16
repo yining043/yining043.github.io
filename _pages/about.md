@@ -30,7 +30,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
-* [04/2025] Our work is featured on the **front page of MIT.edu** (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
+* [04/2025] Our work is featured on the **Front Page of MIT.edu** (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
 * [04/2025] I will be serving as an **Area Chair** for NeurIPS 2025!
 * [12/2024] One paper on L2Opt got accepted by ICLR'25, where we introduce L-RHO, leveraging ML to accelerate RHO by up to 54% for Long-Horizon COPs such as FJSP.
 * [12/2024] One paper on L2Opt got accepted by AAAI'25 (Oral), where we propose ConfigX, a unified configuration agent that learns to boost diverse evolutionary algorithms.
