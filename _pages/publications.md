@@ -16,7 +16,7 @@ author_profile: true
 
 1. [<font color=Blue>FJSP</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
 Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
-*International Conference on Learning Representations* (**ICLR**), 2025. [[Code & Paper]](https://github.com/mit-wu-lab/l-rho)
+*International Conference on Learning Representations* (**ICLR**), 2025. [[Code & Paper]](https://github.com/mit-wu-lab/l-rho) [[🎉 MIT News]](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 
 
 1. [<font color=Blue>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
 Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
@@ -65,7 +65,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 1. [<font color=Blue>VRP</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma $\ast$**, Jingwen Li $\ast$, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee.   
-*International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
+*International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S) [[🎉 NKU News]](https://en.nankai.edu.cn/2024/1010/c22796a552692/page.htm)
 
 1. [<font color=Blue>VRP</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
 **Yining Ma**, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, Zhenghua Chen, Jing Tang.   

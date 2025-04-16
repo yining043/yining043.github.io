@@ -21,9 +21,18 @@ Guangdong Province Office of Education, 2019
 - **National Second Prize, China Undergraduate Mathematical Contest in Modeling**        
 China Society for Industrial and Applied Mathematics (CSIAM), 2017
 
+Media Coverage
+======
+- **MIT News (Front Page of MIT.edu) | April 16, 2025**  
+  🎉 Our work is featured in ["A faster way to solve complex planning problems"](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) — By eliminating redundant computations, a new data-driven method can streamline processes like scheduling trains, routing delivery drivers, or assigning airline crews.
+
+- **NKU News | October 10, 2024**  
+  🎉 Our work is featured in ["NKU Logistics Team Reaches Major Milestone with Publication in TPAMI"](https://en.nankai.edu.cn/2024/1010/c22796a552692/page.htm) - The N2S algorithm has demonstrated its diversity and efficiency through canonical PDP test sets, surpassing the renowned LKH3 solver on complex, constrained PDP variant.
+
 Scholarship
 ======
 - **NUS Research Scholarship**      
 National University of Singapore, 2019-2023
 - **China National Scholarship**    
 Ministry of Education of the People’s Republic of China, AY2017-2018,  AY2016-2017, AY2015-2016
+

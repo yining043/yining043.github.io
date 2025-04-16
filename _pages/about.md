@@ -12,7 +12,7 @@ Hi, I am currently a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [La
 
 I am working at the intersection of **Machine Learning (ML)** and **Optimization**, striving to develop automated ML solutions to address complex optimization and decision-making challenges. My research has been featured in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, and top-tier journals such as *TPAMI*, *TNNLS*, *SMCA*, *TITS*, etc. I serve as an Area Chair (AC) for *NeurIPS* and *IEEE CAI* and have been an active Reviewer/PC member for various top-tier conferences, workshops, and journals, recognized with best reviewer awards.
 
-Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration! You may approach me at:
+<font color=Red>I'm on the job market 2025–2026!</font> Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/), and welcome to reach out for collaboration, invited talks, or just discussion! You may approach me at:
 * **Office**: 45-611, 51 Vassar St, Cambridge, MA 02139 
 * **E-mail**: yiningma [at] mit [dot] edu
 
@@ -28,6 +28,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
+* [04/2025] Our work is featured on the front page of MIT.edu (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
 * [04/2025] I will be serving as an Area Chair for NeurIPS 2025!
 * [12/2024] One paper on L2Opt got accepted by ICLR'25, where we introduce L-RHO, leveraging ML to accelerate RHO by up to 54% for Long-Horizon COPs such as FJSP.
 * [12/2024] One paper on L2Opt got accepted by AAAI'25 (Oral), where we propose ConfigX, a unified configuration agent that learns to boost diverse evolutionary algorithms.
@@ -42,14 +43,18 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 * [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
 </a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
+<details>
+<summary> Show More </summary>
 * [05/2024] One paper on L2Opt got accepted by KDD'24, where we propose a hierarchical neural solver for realistic TSPs under real-world customer distributions.
 * [05/2024] One paper on L2Opt got accepted by ICML'24, where we introduce MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts.
 * [05/2024] Promoted to the Research Fellow in NTU.
 * [03/2024] One paper on MARL got accepted by TNNLS, where we introduce DOMAC for opponent modelling in multi-agent systems using only local information.
+
 * [03/2024] One paper on L2Opt got accepted by SMCA, where we introduce RL-DAS for dynamic algorithm selection based on deep reinforcement learning.
 * [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
 * [02/2024] Successfully defended my PhD thesis at NUS 🎓!
 
+</details>
 <br/>
 <br>
 <a href="https://info.flagcounter.com/kHt2"><img src="https://s01.flagcounter.com/count2/kHt2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
