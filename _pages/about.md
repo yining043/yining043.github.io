@@ -30,18 +30,18 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
-* [04/2025] Our work is featured on the **Front Page of MIT.edu** (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
+* [04/2025] Our L-RHO is featured on the **Front Page of MIT.edu** (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
 * [04/2025] I will be serving as an **Area Chair** for NeurIPS 2025!
 * [12/2024] One paper on L2Opt got accepted by ICLR'25, where we introduce L-RHO, leveraging ML to accelerate RHO by up to 54% for Long-Horizon COPs such as FJSP.
 * [12/2024] One paper on L2Opt got accepted by AAAI'25 (Oral), where we propose ConfigX, a unified configuration agent that learns to boost diverse evolutionary algorithms.
 * [12/2024] We hosted an unofficial L2Opt workshop at NeurIPS 2024 ([see photos](https://www.linkedin.com/posts/yiningma_neurips2024-activity-7275701162157207552-jDEb?utm_source=share&utm_medium=member_ios))!
 * [12/2024] ✈️ I will be attending NeurIPS'24 in person. See you in Vancouver, Canada! 🇨🇦
 * [11/2024] One paper on L2Opt got accepted by KDD'25, where we propose a neural approach for optimizing diverse, high-quality solutions to Multi-Solution TSP (MSTSP).
-* [10/2024] I am selected as **NeurIPS 2024 Top Reviewer (10%) for both main and DB track**! 
+* [10/2024] I am selected as NeurIPS'24 **Top Reviewer (10%) for both main and DB track**! 
 * [09/2024] One paper on L2Opt got accepted by NeurIPS'24, where we propose Proactive Infeasibility Prevention (PIP) to elevate neural solvers for complex VRP constraints.
 * [08/2024] One paper on L2Opt got accepted by TPAMI, where we promoted a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
 * [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
-* [07/2024] I am selected as **ICML 2024 Best Reviewer (< 3%)**!
+* [07/2024] I am selected as ICML'24 **Best Reviewer (< 3%)**!
 * [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
 </a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
