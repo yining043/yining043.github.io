@@ -53,7 +53,7 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 
 1. [<font color=Blue>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Ora (top 1%)</font>, pp. 10775-10795, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color=Red>Oral (top 1%)</font>, pp. 10775-10795, 2023. [[Code & Paper]](https://github.com/GMC-DRL/MetaBox)
 
 1. [<font color=Blue>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.   
