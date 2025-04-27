@@ -21,12 +21,18 @@ Welcome to see my [publications](https://yining043.github.io/publications/), [ac
 
 💡 Research Interests
 -----
-My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**", where the latest ML techniques (e.g., reinforcement learning, deep learning, large language models, etc) are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging real-world optimization problems (e.g., combinatorial optimization, discrete optimization, black-box optimization, mixed integer linear programming, etc). My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
+My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**". where the latest AI/ML techniques are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging real-world optimization problems, e.g., combinatorial optimization problems (COPs), black-box optimization (BBO), etc. My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc.
+
+**Research Highlights**
+- **Neural Combinatorial Optimization (NCO)** - Learning GPU solvers with minimal domain knowledge, e.g., [DACT](https://github.com/yining043/VRP-DACT)/[NeuOpt](https://github.com/yining043/NeuOpt)/[N2S](https://github.com/yining043/PDP-N2S)/[NCS](https://github.com/dtkon/PDP-NCS) (learning-to-search), [AMDKD](https://github.com/jieyibi/AMDKD) (generalization), [NeuOpt](https://github.com/yining043/NeuOpt)/[PIP](https://github.com/jieyibi/pip-constraint) (constraint handling), [NHDE](https://github.com/bill-cjb/NHDE) (multi-objective), [MVMoE](https://github.com/RoyalSkye/Routing-MVMoE) (multi-task) 
+- **Learning-Guided Optimization** - Accelerating and boosting human solvers with AI models to harness the best of both worlds, e.g., [R-DAS](https://ieeexplore.ieee.org/abstract/document/10496708) (operator selection), [GLEET](https://arxiv.org/abs/2404.08239)/[ConfigX](https://github.com/MetaEvo/ConfigX) (operator configuration), [L-RHO](https://github.com/mit-wu-lab/l-rho) (long-horizon COP), [L2Seg](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_344.pdf) (large-scale VRP)
+- **Optimization Knowledge Discovery & Interpretability** - Discovering and understanding superhuman optimization knowledge and optimizer rules, e.g., [Symbol](https://github.com/MetaEvo/Symbol) (rule generation), [LLaMoCo](https://arxiv.org/abs/2403.01131) (code generation), and more projects coming soon!
+- **Survey, Software  & Benchmark** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided BBO), [RL4CO](https://github.com/ai4co/rl4co) (benchmark of RL for COP)
 
 **Research Keywords**
 - **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), Federated/Distributed Learning, Multi-Agent Systems, Interpretability
-- **Optimization**: Combinatorial Optimization, Black-Box Optimization, MILP
-- **Application**: Routing, Planning, Scheduling, Transportation, Autonomous Vehicles
+- **Optimization**: Combinatorial Optimization, Discrete Optimization, Mixed Integer Linear Programming (MILP), Black-Box Optimization (BBO)
+- **Application**: Routing, Planning, Scheduling, Robotics, Transportation
 
 🎉 News
 -----

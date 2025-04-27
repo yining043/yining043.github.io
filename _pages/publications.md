@@ -65,7 +65,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 1. [<font color=Blue>VRP</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma $\ast$**, Jingwen Li $\ast$, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee.   
-*International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S) [[🎉 NKU News]](https://en.nankai.edu.cn/2024/1010/c22796a552692/page.htm)
+*International Joint Conference on Artificial Intelligence* (**IJCAI**),  pp. 4776-4784, 2022. [[Code & Paper]](https://github.com/yining043/PDP-N2S)
 
 1. [<font color=Blue>VRP</font>] **Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**,  
 **Yining Ma**, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, Zhenghua Chen, Jing Tang.   
@@ -75,7 +75,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 1. [<font color=Blue>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
 Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), vol. 46, no. 12, pp. 11019-11034, 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) 
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), vol. 46, no. 12, pp. 11019-11034, 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) [[🎉 NKU News]](https://en.nankai.edu.cn/2024/1010/c22796a552692/page.htm) 
 
 1. [<font color=Blue>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
