@@ -13,20 +13,19 @@ Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory f
 I am working at the intersection of **Machine Learning (ML)** and **Optimization**. I have published 20+ papers in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, and top-tier journals such as *TPAMI*, *TNNLS*, *SMCA*, *TITS*, etc. I am an **Area Chair (AC)** for *NeurIPS* and actively review for top AI conferences and journals, recognized with multiple best reviewer awards. 
 
 
-Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). <font color=blue>Drop me an email if you’d like to collaborate or discuss with me!</font> You may approach me at:
+Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
 * **Office**: 45-611, 51 Vassar St, Cambridge, MA 02139 
 * **E-mail**: yiningma [at] mit [dot] edu
-
 
 💡 Research Interests
 -----
 My research has primarily focused on the emerging field of "**Learning to Optimize (L2Opt)**". where the latest AI/ML techniques are exploited to develop state-of-the-art ML-powered frameworks/approaches for addressing challenging real-world optimization problems, e.g., combinatorial optimization problems (COPs), black-box optimization (BBO), etc. 
 <!-- My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc. -->
 
-**Research Highlights** 🔥 (Complete list available [here](https://yining043.github.io/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en))
+**Research Highlights** 🔥 - Complete list available [here](https://yining043.github.io/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en)
 - **<font color=blue>Neural Combinatorial Optimization (NCO)</font>**  - Learning GPU solvers with minimal domain knowledge, e.g., [DACT](https://github.com/yining043/VRP-DACT)/[NeuOpt](https://github.com/yining043/NeuOpt)/[N2S](https://github.com/yining043/PDP-N2S)/[NCS](https://github.com/dtkon/PDP-NCS) (learning-to-search), [AMDKD](https://github.com/jieyibi/AMDKD) (generalization), [NeuOpt](https://github.com/yining043/NeuOpt)/[PIP](https://github.com/jieyibi/pip-constraint) (constraint handling), [NHDE](https://github.com/bill-cjb/NHDE) (multi-objective), [MVMoE](https://github.com/RoyalSkye/Routing-MVMoE) (multi-task) 
 - **<font color=blue>Learning-Guided Optimization</font>** - Accelerating and boosting human solvers with AI to harness the best of both worlds, e.g., [R-DAS](https://ieeexplore.ieee.org/abstract/document/10496708) (operator selection), [GLEET](https://arxiv.org/abs/2404.08239)/[ConfigX](https://github.com/MetaEvo/ConfigX) (algorithm configuration), [L-RHO](https://github.com/mit-wu-lab/l-rho) (long-horizon COP), [L2Seg](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_344.pdf) (large-scale VRP)
-- **<font color=blue>Optimization Knowledge Discovery & Interpretability</font>** - Discovering and understanding superhuman optimization knowledge and optimizer rules, e.g., [Symbol](https://github.com/MetaEvo/Symbol) (rule generation), [LLaMoCo](https://arxiv.org/abs/2403.01131) (code generation), and more projects coming soon!
+- **<font color=blue>Optimization Knowledge Discovery & Interpretability</font>** - Discovering and understanding superhuman optimization knowledge and optimizer rules, e.g., [Symbol](https://github.com/MetaEvo/Symbol) (rule generation), [LLaMoCo](https://arxiv.org/abs/2403.01131) (code generation) -- more projects coming soon!
 - **<font color=blue>Survey, Software  & Benchmark</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided BBO), [RL4CO](https://github.com/ai4co/rl4co) (benchmark of RL for COP)
 
 **Research Keywords**
