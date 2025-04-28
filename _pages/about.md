@@ -35,7 +35,7 @@ My research has primarily focused on the emerging field of "**Learning to Optimi
 
 🎉 News
 -----
-* <font color=red>I'm on the job market! Please contact me if you know of any suitable positions!</font> 
+* <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font> 
 * [04/2025] Our L-RHO is featured on the **Front Page of MIT.edu** (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
 * [04/2025] I will be serving as an **Area Chair** for NeurIPS 2025!
 * [12/2024] One paper on L2Opt got accepted by ICLR'25, where we introduce L-RHO, leveraging ML to accelerate RHO by up to 54% for Long-Horizon COPs such as FJSP.
