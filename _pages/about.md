@@ -29,7 +29,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 - **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided BBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP)
 
 **Research Keywords**
-- **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), LLM agent, Foundation Model, Multi-Agent Systems, Interpretability
+- **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), LLM Agent, Foundation Model, Multi-Agent Systems, Interpretability
 - **Optimization**: Combinatorial Optimization, Discrete Optimization, Mixed Integer Linear Programming (MILP), Black-Box Optimization (BBO)
 - **Application**: Routing, Planning, Scheduling, Robotics, Transportation
 
