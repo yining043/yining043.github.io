@@ -14,6 +14,10 @@ author_profile: true
 -----
 ### - Conference papers
 
+1. [<font color='#2d57d1'>MTMDVRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder**,  
+Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Jianan Zhou, Mohammed Haroon Dupty, Wee Sun Lee.  
+*International Conference on Machine Learning* (**ICML**), 2025. [[Accepted]]()
+
 1. [<font color='#2d57d1'>FJSP</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
 Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
 *International Conference on Learning Representations* (**ICLR**), 2025. [[Code & Paper]](https://github.com/mit-wu-lab/l-rho) [[🎉 MIT News]](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 
@@ -30,7 +34,7 @@ Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.
 Jieyi Bi, **Yining Ma $\dagger$**, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.   
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024. [[Code & Paper]](https://github.com/jieyibi/pip-constraint)
 
-1. [<font color='#2d57d1'>VRP</font>] **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts**,  
+1. [<font color='#2d57d1'>MTVRP</font>] **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts**,  
 Jianan Zhou, Zhiguang Cao, Yaoxin Wu, Wen Song, **Yining Ma**, Jie Zhang, Xu Chi.  
 *International Conference on Machine Learning* (**ICML**), pp. 61804-61824, 2024. [[Code & Paper]](https://github.com/RoyalSkye/Routing-MVMoE)
 
