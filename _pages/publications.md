@@ -17,7 +17,7 @@ author_profile: true
 1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
 Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.  
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), <font color='#e24721'>Oral (top x%)</font>, 2025.  
-[[Code & Paper]](https://github.com/ai4co/rl4co) [[AI4CO Homepage 🚀]](https://rl4.co/)
+[[Code & Paper]](https://github.com/ai4co/rl4co) [[Documentation]](https://rl4.co/) [[AI4CO Homepage 🚀]](https://ai4co.org/)
 
 1. [<font color='#2d57d1'>MTMDVRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Jianan Zhou, Mohammed Haroon Dupty, Wee Sun Lee.  
@@ -63,7 +63,7 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 1. [<font color='#2d57d1'>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), <font color='#e24721'>Oral (top 1%)</font>, pp. 10775-10795, 2023.  
-[[Code & Paper]](https://github.com/GMC-DRL/MetaBox) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
+[[Code & Paper]](https://github.com/GMC-DRL/MetaBox) [[Documentation]](https://metaboxdoc.readthedocs.io/en/latest/index.html) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
 1. [<font color='#2d57d1'>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
 Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.   
