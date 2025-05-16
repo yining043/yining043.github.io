@@ -26,7 +26,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 - **<font color='#2d57d1'>Neural Combinatorial Optimization (NCO)</font>**  - Learning end-to-end GPU-based solvers, e.g., [DACT](https://github.com/yining043/VRP-DACT)/[NeuOpt](https://github.com/yining043/NeuOpt) (neural k-opt search), [N2S](https://github.com/yining043/PDP-N2S)/[NCS](https://ieeexplore.ieee.org/document/10663917) (neural ruin-and-repair search), [NeuOpt](https://github.com/yining043/NeuOpt)/[PIP](https://github.com/jieyibi/pip-constraint) (constraint handling), [AMDKD](https://github.com/jieyibi/AMDKD) (generalization), [FER](https://ieeexplore.ieee.org/abstract/document/10160045) (dynamic embedding), [NHDE](https://github.com/bill-cjb/NHDE) (multi-objective), [MVMoE](https://github.com/RoyalSkye/Routing-MVMoE)/[SHIELD]() (multi-task) 
 - **<font color='2d57d1'>Learning-guided Optimization</font>** - Accelerating and elevating classical solvers with AI to harness the best of both worlds, e.g., [R-DAS](https://ieeexplore.ieee.org/abstract/document/10496708) (dynamic operator selection), [GLEET](https://arxiv.org/abs/2404.08239)/[ConfigX](https://arxiv.org/abs/2412.07507) (dynamic algorithm configuration), [L-RHO](https://github.com/mit-wu-lab/l-rho) (long-horizon COP), [L2Seg](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_344.pdf) (large-scale VRP)
 - **<font color='2d57d1'>Superhuman Knowledge Discovery & Interpretability</font>** - Discovering and understanding superhuman optimization knowledge and optimizer rules, e.g., [Symbol](https://arxiv.org/abs/2402.02355) (rule generation), [LLaMoCo](https://arxiv.org/abs/2403.01131) (code generation with LLM) -- more projects coming soon!
-- **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided BBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP)
+- **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided MetaBBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP)
 
 **Research Keywords**
 - **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), LLM agent, Foundation Model, Multi-Agent Systems, Interpretability
@@ -38,8 +38,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 * <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
 * [05/2025] Our <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
-</a> Library got accepted by KDD (**Oral**) 2025!
- 
+</a> Benchmark Library got accepted by KDD (**Oral**) 2025!
 * [05/2025] One paper on L2Opt got accepted by ICML'25, where we introduce SHIELD, a novel NCO solver for Multi-Task Multi-Distribution Vehicle Routing Problem (MTMDVRP).
 * [04/2025] I will be serving as an **Area Chair** for NeurIPS 2025!
 * [04/2025] Our L-RHO is featured on the **Front Page of MIT.edu** (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
