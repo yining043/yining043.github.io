@@ -38,7 +38,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 * <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
 * [05/2025] Our <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
-</a> Benchmark Library got accepted by KDD (**Oral**) 2025!
+</a> benchmark library got accepted by KDD (**Oral**) 2025!
 * [05/2025] One paper on L2Opt got accepted by ICML'25, where we introduce SHIELD, a novel NCO solver for Multi-Task Multi-Distribution Vehicle Routing Problem (MTMDVRP).
 * [04/2025] I will be serving as an **Area Chair** for NeurIPS 2025!
 * [04/2025] Our L-RHO is featured on the **Front Page of MIT.edu** (see [MIT News](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) 🎊)!
