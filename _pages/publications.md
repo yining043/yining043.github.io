@@ -140,7 +140,7 @@ Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.
 **Yining Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, Jun Zhang.  
 *IEEE Transactions on Vehicular Technology* (**TVT**),  vol. 68, no. 1, pp. 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
-
+<!---
 -> Pre-prints
 -----
 
@@ -150,7 +150,7 @@ Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, **Yining Ma** 
 1. [<font color='#2d57d1'>LLM</font>] **Large Language Model with Graph Convolution for Recommendation** [[arXiv]](https://arxiv.org/abs/2402.08859),  
 Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, **Yining Ma**, Jie Zhang,
 Youchen Sun.  
-
+--->
 
 
 Patent
