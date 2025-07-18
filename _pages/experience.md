@@ -33,6 +33,11 @@ Jul, 2020, NUS, Singapore
 
 Invited Talks
 ======
+
+Shenzhen Research Institute of Big Data(SRIBD)
+- [Shenzhen Research Institute of Big Data (SRIBD))](http://sribd.cn/en):  
+Learning‑Guided Optimization in Today’s Complex Systems  
+17th July, Online, 2025
 - [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/):  
 Learning-to-Search Approaches for Vehicle Routing Problems Using Deep Reinforcement Learning  
 14th Feb, Online, 2024
