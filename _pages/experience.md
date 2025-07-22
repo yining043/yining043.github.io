@@ -33,8 +33,6 @@ Jul, 2020, NUS, Singapore
 
 Invited Talks
 ======
-
-Shenzhen Research Institute of Big Data(SRIBD)
 - [Shenzhen Research Institute of Big Data (SRIBD))](http://sribd.cn/en):  
 Learning‑Guided Optimization in Today’s Complex Systems  
 17th July, Online, 2025
