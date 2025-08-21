@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-- **US Collaborator:** Trustworthy Human-AI Combinatorial Optimization with Language Feedbac - funded by [AI Singapore](https://aisingapore.org/) in collbration with the [US NSF](https://www.nsf.gov/), 2025-2027
+- **US Collaborator (with MIT, NTU, SMU):** Trustworthy Human-AI Combinatorial Optimization with Language Feedback - Funded by [AI Singapore](https://aisingapore.org/) in collbration with the [US NSF](https://www.nsf.gov/), 2025-2027
 
 
 Scholarship

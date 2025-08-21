@@ -13,7 +13,7 @@ Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory f
 I am working at the intersection of **Machine Learning (ML)** and **Optimization**. I have published 20+ papers in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, and top-tier journals such as *TPAMI*, *TNNLS*, *SMCA*, *TITS*, etc. I am an **Area Chair (AC)** for *NeurIPS* and actively review for top AI conferences and journals, recognized with multiple best reviewer awards. 
 
 
-Welcome to see my [publications](https://yining043.github.io/publications/), [academic services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
+Welcome to see my [publications](https://yining043.github.io/publications/), [fundings](https://yining043.github.io/fundings/), [services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
 * **Office**: 45-611, 51 Vassar St, Cambridge, MA 02139 
 * **E-mail**: yiningma [at] mit [dot] edu
 
