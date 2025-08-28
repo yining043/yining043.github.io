@@ -30,6 +30,7 @@ author_profile: true
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (**SMCA**)
 - IEEE Transactions on Cybernetics (**TCYB**)
 - IEEE Transactions on Intelligent Transportation Systems (**TITS**)
+- IEEE Transactions on Industrial Informatics (**TII**)
 - IEEE Transactions on Automation Science and Engineering (**TASE**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 - IEEE Transactions on Vehicular Technology (**TVT**)
