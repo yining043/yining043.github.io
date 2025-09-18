@@ -13,6 +13,18 @@ author_profile: true
 -> Machine Learning for Optimization
 -----
 ### - Conference papers
+1. [<font color='#2d57d1'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
+Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color='#e24721'>Spotlight</font>, 2025. [[Accepted]]()
+
+
+1. [<font color='#2d57d1'>BBO</font>] **DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**,  
+Zeyuan Ma, Yue-iao Gong, Hongshu Guo, Wenjie Qiu, sijieMa, Hongqiao Lian, iajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Accepted]]()  
+
+1. [<font color='#2d57d1'>BBO</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
+Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/MetaBox) [[Documentation]](https://metaboxdoc.readthedocs.io/en/stable/index.html) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
 1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
 Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.  
@@ -21,7 +33,7 @@ Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann
 
 1. [<font color='#2d57d1'>MTMDVRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Jianan Zhou, Mohammed Haroon Dupty, Wee Sun Lee.  
-*International Conference on Machine Learning* (**ICML**), 2025. [[Accepted]]()
+*International Conference on Machine Learning* (**ICML**), 2025. [[Paper]](https://arxiv.org/abs/2506.08424)
 
 1. [<font color='#2d57d1'>FJSP</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
 Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
@@ -83,7 +95,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 ### - Journal papers
 
-16. [<font color='#2d57d1'>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
+20. [<font color='#2d57d1'>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
 Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), vol. 46, no. 12, pp. 11019-11034, 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) [[🎉 NKU News]](https://en.nankai.edu.cn/2024/1010/c22796a552692/page.htm) 
 

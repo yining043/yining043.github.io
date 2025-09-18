@@ -33,23 +33,26 @@ Jul, 2020, NUS, Singapore
 
 Invited Talks
 ======
+- [LEAD 2025 (The Workshop on Learning-assisted Evolutionary Algorithm Design)](https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5):  
+**AI Meets Combinatorial Optimization**
+13th Sept, Live Stream, Keynote Talk, 2025
 - [Shenzhen Research Institute of Big Data (SRIBD)](http://sribd.cn/en):  
-Learning‑Guided Optimization in Today’s Complex Systems  
+**Learning‑Guided Optimization in Today’s Complex Systems**  
 17th July, Online, 2025
 - [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/):  
-Learning-to-Search Approaches for Vehicle Routing Problems Using Deep Reinforcement Learning  
+**Learning-to-Search Approaches for Vehicle Routing Problems Using Deep Reinforcement Learning**  
 14th Feb, Online, 2024
 - [AI Time at Tsinghua University](http://www.aitime.cn/):  
-Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt  
+**Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**
 1st Nov, Online, 2023
 - [RLChina 强化学习社区](http://rlchina.org/topic/619):   
-Learning to Optimize Vehicle Routing Problems via Deep Reinforcement Learning: Recent Advances and Challenges    
+**Learning to Optimize Vehicle Routing Problems via Deep Reinforcement Learning: Recent Advances and Challenges**    
 27th Dec, Online, 2022
 - [ORAI-China (运筹OR帷幄)](https://www.zhihu.com/pin/1523752995342286848):   
-Deep Reinforcement Learning based Efficient Neural Neighborhood Search    
+**Deep Reinforcement Learning based Efficient Neural Neighborhood Search**    
 25th Jun, Online, 2022
 - [AI Time at Tsinghua University](http://www.aitime.cn/):  
-Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer  
+**Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems** with Dual-Aspect Collaborative Transformer  
 3rd Mar, Online, 2022
 
 Membership
