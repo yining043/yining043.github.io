@@ -23,7 +23,7 @@ Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Go
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Accepted]]()  
 
 1. [<font color='#2d57d1'>BBO</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
-Zeyuan Ma, Yue-iao Gong, Hongshu Guo, Wenjie Qiu, sijieMa, Hongqiao Lian, iajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.    
+Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.    
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/MetaBox) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
 1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
