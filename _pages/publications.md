@@ -15,7 +15,7 @@ author_profile: true
 ### - Conference papers
 1. [<font color='#2d57d1'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
 Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color='#e24721'>Spotlight</font>, 2025. [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025.  <font color='#e24721'>Spotlight</font> [[Accepted]]()
 
 
 1. [<font color='#2d57d1'>BBO</font>] **DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**,  
@@ -24,7 +24,7 @@ Zeyuan Ma, Yue-iao Gong, Hongshu Guo, Wenjie Qiu, sijieMa, Hongqiao Lian, iajun 
 
 1. [<font color='#2d57d1'>BBO</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
 Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/MetaBox) [[Documentation]](https://metaboxdoc.readthedocs.io/en/stable/index.html) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/MetaBox)[[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
 1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
 Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.  
@@ -41,7 +41,7 @@ Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.
 
 1. [<font color='#2d57d1'>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
 Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
-*AAAI Conference on Artificial Intelligence* (**AAAI**), <font color='#e24721'>Oral (top 5%)</font>, 2025. [[Code & Paper]](https://github.com/GMC-DRL/ConfigX)
+*AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. <font color='#e24721'>Oral (top 5%)</font> [[Code & Paper]](https://github.com/GMC-DRL/ConfigX)
    
 1. [<font color='#2d57d1'>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
 Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
@@ -74,7 +74,7 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 
 1. [<font color='#2d57d1'>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
 Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color='#e24721'>Oral (top 1%)</font>, pp. 10775-10795, 2023.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 10775-10795, 2023. <font color='#e24721'>Oral (top 1%)</font> 
 [[Code & Paper]](https://github.com/GMC-DRL/MetaBox) [[Documentation]](https://metaboxdoc.readthedocs.io/en/latest/index.html) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
 1. [<font color='#2d57d1'>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
@@ -83,7 +83,7 @@ Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiaha
 
 1. [<font color='#2d57d1'>VRP</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,   
 Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.   
-*Advances in Neural Information Processing Systems* (**NeurIPS**), <font color='#e24721'>Spotlight</font>, pp. 31226-31238, 2022. [[Code & Paper]](https://github.com/jieyibi/AMDKD)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 31226-31238, 2022. <font color='#e24721'>Spotlight</font> [[Code & Paper]](https://github.com/jieyibi/AMDKD)
 
 1. [<font color='#2d57d1'>VRP</font>] **Efficient Neural Neighborhood Search for Pickup and Delivery Problems**,   
 **Yining Ma $\ast$**, Jingwen Li $\ast$, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee.   
