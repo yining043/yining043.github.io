@@ -19,7 +19,7 @@ Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.
 
 
 1. [<font color='#2d57d1'>BBO</font>] **DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**,  
-Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.
+Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Accepted]]()  
 
 1. [<font color='#2d57d1'>BBO</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
