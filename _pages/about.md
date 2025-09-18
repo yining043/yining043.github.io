@@ -37,7 +37,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 -----
 * <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
 * [09/2025] Three papers on L2Opt got accepted by NeurIPS'25, including 1) the very first paper studying the internal mechanism and intepretability of NCO models (**Spotlight**); 2) DesignX, a bi-agent learning system tailored for automated algorithm design in black-box optimization; and 3) MetaBox-v2, an up-to-date benchmark platform for MetaBBO!
-* [09/2025] We have organized the 1st workshop on Learning-assisted Evolutionary Algorithm Design ([LEAD 2025](https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5))! Watch recordings [here](https://sites.google.com/view/leadworkshop2025/%E6%B1%87%E6%8A%A5%E5%B1%95%E7%A4%BA%E6%9F%9C); see you all next year!
+* [09/2025] We have organized the 1st workshop on Learning-assisted Evolutionary Algorithm Design ([LEAD 2025](https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5)). Watch recordings [here](https://sites.google.com/view/leadworkshop2025/%E6%B1%87%E6%8A%A5%E5%B1%95%E7%A4%BA%E6%9F%9C); see you all next year!
 * [06/2025] Checkout [MetaBox-v2](https://github.com/GMC-DRL/MetaBox)🚀! A major update offering broader optimization scenarios (single-objective, multi-objective, multi-modal, multi-task, etc), extensive benchmarks, even faster parallel training/inference, and more support for MetaBBO.
 * [05/2025] Our <a href="https://arxiv.org/abs/2306.17100" target="_blank">
     <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
