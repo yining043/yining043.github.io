@@ -15,7 +15,7 @@ author_profile: true
 ### - Conference papers
 1. [<font color='#2d57d1'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
 Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025.  <font color='#e24721'>Spotlight</font> [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025.  <font color='#e24721'>Spotlight (top 3%)</font> [[Accepted]]()
 
 
 1. [<font color='#2d57d1'>BBO</font>] **DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**,  
