@@ -43,7 +43,7 @@ Invited Talks
 **Learning-to-Search Approaches for Vehicle Routing Problems Using Deep Reinforcement Learning**  
 14th Feb, Online, 2024
 - [AI Time at Tsinghua University](http://www.aitime.cn/):  
-**Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**
+**Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**  
 1st Nov, Online, 2023
 - [RLChina 强化学习社区](http://rlchina.org/topic/619):   
 **Learning to Optimize Vehicle Routing Problems via Deep Reinforcement Learning: Recent Advances and Challenges**    
@@ -52,7 +52,7 @@ Invited Talks
 **Deep Reinforcement Learning based Efficient Neural Neighborhood Search**    
 25th Jun, Online, 2022
 - [AI Time at Tsinghua University](http://www.aitime.cn/):  
-**Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems** with Dual-Aspect Collaborative Transformer  
+**Neural Combinatorial Optimization - Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer**  
 3rd Mar, Online, 2022
 
 Membership
