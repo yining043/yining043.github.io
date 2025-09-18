@@ -34,8 +34,8 @@ Jul, 2020, NUS, Singapore
 Invited Talks
 ======
 - [LEAD 2025 (The Workshop on Learning-assisted Evolutionary Algorithm Design)](https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5):  
-**AI Meets Combinatorial Optimization**
-13th Sept, Live Stream, **Keynote Talk**, 2025
+**Keynote Talk: AI Meets Combinatorial Optimization**
+13th Sept, Live Stream, 2025
 - [Shenzhen Research Institute of Big Data (SRIBD)](http://sribd.cn/en):  
 **Learning‑Guided Optimization in Today’s Complex Systems**  
 17th July, Online, 2025
