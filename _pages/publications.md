@@ -31,7 +31,7 @@ Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), <font color='#e24721'>Oral</font>, 2025.  
 [[Code & Paper]](https://github.com/ai4co/rl4co) [[Documentation]](https://rl4.co/) [[AI4CO Homepage 🚀]](https://ai4co.org/)
 
-1. [<font color='#2d57d1'>MTMDVRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder**,  
+1. [<font color='#2d57d1'>MTMDVRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Jianan Zhou, Mohammed Haroon Dupty, Wee Sun Lee.  
 *International Conference on Machine Learning* (**ICML**), 2025. [[Paper]](https://arxiv.org/abs/2506.08424)
 
