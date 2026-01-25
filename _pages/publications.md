@@ -15,12 +15,12 @@ author_profile: true
 ### - Conference papers
 1. [<font color='#2d57d1'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
 Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025.  <font color='#e24721'>Spotlight (top 3%)</font> [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025.  <font color='#e24721'>Spotlight (top 3%)</font> [[Code & Paper]](https://github.com/123zhangzq/NeurIPS2025_probing/)
 
 
 1. [<font color='#2d57d1'>BBO</font>] **DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**,  
 Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Accepted]]()  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Paper]](https://arxiv.org/abs/2505.17866)  
 
 1. [<font color='#2d57d1'>BBO</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
 Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.    
@@ -95,7 +95,15 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 ### - Journal papers
 
-20. [<font color='#2d57d1'>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
+1. [<font color='#2d57d1'>MAPF</font>] **Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation**,  
+Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, and Cathy Wu.  
+*Journal of Artificial Intelligence Research* (**JAIR**), 2026. [[Accepted]]()
+
+1. [<font color='#2d57d1'>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
+Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, 	Jun Zhang.
+*IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Accepted]]()
+
+1. [<font color='#2d57d1'>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
 Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), vol. 46, no. 12, pp. 11019-11034, 2024. [[Code & Paper]](https://github.com/dtkon/PDP-NCS) [[🎉 NKU News]](https://en.nankai.edu.cn/2024/1010/c22796a552692/page.htm) 
 

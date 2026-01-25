@@ -24,6 +24,9 @@ Jun 2018 – Aug 2018, Shenzhen, China
 
 Teaching
 ======
+- **MIT Kaufman Teaching Certificate**
+-- [Program Details](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) 
+Fall 2025, MIT, USA
 - **Teaching Assistant**
 -- IE2141 Systems Thinking and Dynamics  
 Sept 2020 - Nov 2022, NUS, Singapore

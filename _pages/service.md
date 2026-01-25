@@ -8,8 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-## Organizer
-- Workshop on Learning-assisted Evolutionary Algorithm Design (**LEAD 2025**), Sept 13 - 14, 2025, Guangzhou (virtual). [[Homepage]](https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5) [[Schedule]](https://sites.google.com/view/leadworkshop2025/%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92) [[Recordings]](https://sites.google.com/view/leadworkshop2025/%E6%B1%87%E6%8A%A5%E5%B1%95%E7%A4%BA%E6%9F%9C)
+## Organizer/Chair
+- **Organizer**, Workshop on Learning-assisted Evolutionary Algorithm Design (**LEAD 2025**), Sept 13 - 14, 2025, Guangzhou (virtual). [[Homepage]](https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5) [[Schedule]](https://sites.google.com/view/leadworkshop2025/%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92) [[Recordings]](https://sites.google.com/view/leadworkshop2025/%E6%B1%87%E6%8A%A5%E5%B1%95%E7%A4%BA%E6%9F%9C)
+- **Session Chair of AI for Planning and Scheduling**, The 24th Conference of the International Federation of Operational Research Societies **(IFORS)**, July 12 - 17, 2026, Vienna, Austria. [[Homepage]](https://ifors2026.at/home/)
 
 
 ## Conference Area Chair (AC) 
@@ -17,7 +18,7 @@ author_profile: true
 - IEEE Conference on Artificial Intelligence (**CAI**), 2024
 
 ## Conference Reviewer
-- International Conference on Machine Learning (**ICML**), 2024, 2025
+- International Conference on Machine Learning (**ICML**), 2024, 2025, 2026
 - Conference on Neural Information Processing Systems (**NeurIPS**), 2023, 2024
 - International Conference on Learning Representations (**ICLR**), 2024, 2025
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023, 2024, 2025
@@ -43,6 +44,7 @@ author_profile: true
 - Robotics and Autonomous Systems
 
 ## Selected Survey Respondent
+- [QS Global Academic Survey 2026](https://www.topuniversities.com/), QS Rankings, Jan 2026
 - [THE's Global Academic Reputation Survey 2025](https://www.timeshighereducation.com/world-university-rankings/global-academic-reputation-survey-2025-launching-soon), Times Higher Education World University Rankings, Jan 2025
 - [2024 Expert Survey on Progress in AI](https://aiimpacts.org/#gsc.tab=0), AI Impacts, Dec 2024
 - [Annual Academic Reputation Survey 2024](https://ts-productinfo.com/c/1863701/8b711f438547f8fd/5), US News Best Global Universities Ranking, Clarivate, Sept 2024
