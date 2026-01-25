@@ -19,7 +19,7 @@ Welcome to see my [publications](https://yining043.github.io/publications/), [fu
 
 💡 Research Interests
 -----
-My research has focused on the emerging field of "**Learning to Optimize (L2Opt)**", where we develop state-of-the-art AI-driven frameworks/approaches for addressing challenging optimization problems, e.g., combinatorial optimization problems (COPs). My research drives innovative solutions in broad application domains with real-world complexities such as LLM formulation, large-scale vehicle routing in logistics, multi-robot coordination in automated warehouse, complex resource scheduling, path planning, protein docking, etc.
+My research has focused on the emerging field of "**Learning to Optimize (L2Opt)**", where we develop state-of-the-art AI-driven frameworks/approaches for addressing challenging optimization problems, e.g., combinatorial optimization problems (COPs). My research drives innovative solutions in broad application domains with real-world complexities such as large-scale vehicle routing in logistics, multi-robot coordination in automated warehouse, complex resource scheduling, LLM for Optimization task formulation, path planning, protein docking, etc.
 <!-- My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc. -->
 
 **Research Highlights** 🔥 - Complete list available [here](https://yining043.github.io/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en)
