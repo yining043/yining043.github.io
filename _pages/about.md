@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), mentored by [Prof. Cathy Wu](http://www.wucathy.com/blog/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), working with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/). I obtained my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS) in 2024, where I was honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. from South China University of Technology (SCUT) in 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).
 
-I am working at the intersection of **Machine Learning (ML)** and **Optimization**. I have published 20+ papers in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, and top-tier journals such as *TPAMI*, *TNNLS*, *SMCA*, *TITS*, etc. I am an **Area Chair (AC)** for *NeurIPS* and actively review for top AI conferences and journals, recognized with multiple best reviewer awards. 
+I am working at the intersection of **Machine Learning (ML)** and **Optimization**. I have published 20+ papers in top-tier conferences such as *ICML*, *NeurIPS*, *ICLR*, etc, and top-tier journals such as *TPAMI*, *JAIR*, *TNNLS*, *TITS*, etc. I am an **Area Chair (AC)** for *NeurIPS* and actively review for top AI conferences and journals, recognized with multiple best reviewer awards. 
 
 
 Welcome to see my [publications](https://yining043.github.io/publications/), [fundings](https://yining043.github.io/fundings/), [services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
@@ -37,7 +37,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 -----
 * <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
 * [01/2026] **Awarded the MIT Kaufman Teaching Certificate** in recognition of dedication to teaching excellence! See the reference letter from the [MIT Vice Chancellor](https://drive.google.com/file/d/1Ch94oB34hzxiZdeL3I8rHbwJUsQJnIYo/view?usp=sharing)!
-* [01/2026] One paper on L2Opt got accepted by JAIR, where we introduce L-RH-PP, the first work of NCO for warehouse automation to coordinate multiple robots in [Symbotic lnc.](https://www.symbotic.com/)!
+* [01/2026] One paper on L2Opt got accepted by JAIR, where we introduce L-RH-PP, the first work of NCO for warehouse automation to coordinate multiple robots in [Symbotic](https://www.symbotic.com/)!
 * [01/2026] One paper on L2Opt got accepted by TEVC, where we introduce LLaMoCo, a very first attempt of finetuning LLM for optimization code generation!
 * [11/2025] I will organize and serve as a session chair of "AI for Planning and Scheduling" in the International Federation of Operational Research Societies (IFORS), 2026.
 * [10/2025] 🎉 **Awarded [AI Singapore](https://aisingapore.org/) grant** "Trustworthy Human-AI Combinatorial Optimization with Language Feedback" (with MIT, NTU, and SMU) [see LinkedIn news](https://www.linkedin.com/posts/aisingapore_exciting-news-in-ai-research-ensuring-activity-7369580064843190272-6bhL/)!

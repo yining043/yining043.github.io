@@ -26,7 +26,7 @@ Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Go
 Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.    
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/MetaBox) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
-1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
+1. [<font color='#0f1014ff'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
 Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.  
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), <font color='#e24721'>Oral</font>, 2025.  
 [[Code & Paper]](https://github.com/ai4co/rl4co) [[Documentation]](https://rl4.co/) [[AI4CO Homepage 🚀]](https://ai4co.org/)
@@ -100,8 +100,8 @@ Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, and Cathy Wu.
 *Journal of Artificial Intelligence Research* (**JAIR**), 2026. [[Accepted]]()
 
 1. [<font color='#2d57d1'>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
-Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, 	Jun Zhang.
-*IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Accepted]]()
+Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, Jun Zhang.
+*IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Paper]](https://ieeexplore.ieee.org/document/11359290)
 
 1. [<font color='#2d57d1'>VRP</font>] **Efficient Neural Collaborative Search for Pickup and Delivery Problems**,  
 Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, and Jianhua Xiao.  

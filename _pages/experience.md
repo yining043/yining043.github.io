@@ -1,11 +1,24 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "Teaching"
 permalink: /experience/
 author_profile: true
 ---
 
 {% include base_path %}
+
+- **MIT Kaufman Teaching Certificate**
+-- [Program Details](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) 
+Fall 2025, MIT, USA
+- **Teaching Assistant**
+-- IE2141 Systems Thinking and Dynamics  
+Sept 2020 - Nov 2022, NUS, Singapore
+- **Guest Lecturer**
+-- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
+Jul, 2020, NUS, Singapore
+
+Work Experience
+======
 - [Laboratory for Information and Decision Systems, MIT](https://lids.mit.edu/)  
 **Postdoctoral Associate**  
 Aug 2024 – Present, Cambridge, Massachusetts, United States
@@ -20,19 +33,6 @@ Sept 2023 – April 2024, Singapore, Singapore
 - [Technical Engineering Group (TEG), Tencent](https://www.tencent.com/en-us/index.html)    
 **Data Analyst Intern**  
 Jun 2018 – Aug 2018, Shenzhen, China
-
-
-Teaching
-======
-- **MIT Kaufman Teaching Certificate**
--- [Program Details](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) 
-Fall 2025, MIT, USA
-- **Teaching Assistant**
--- IE2141 Systems Thinking and Dynamics  
-Sept 2020 - Nov 2022, NUS, Singapore
-- **Guest Lecturer**
--- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
-Jul, 2020, NUS, Singapore
 
 Invited Talks
 ======
