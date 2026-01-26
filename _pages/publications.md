@@ -15,7 +15,7 @@ author_profile: true
 ### - Conference papers
 1. [<font color='#2d57d1'>VRP</font>] **Learning to Segment for Vehicle Routing Problems**,  
 Wenbin Ouyang, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
-*International Conference on Learning Representations* (**ICLR**), 2026. [[Accepted]]()
+*International Conference on Learning Representations* (**ICLR**), 2026. [[Paper]](https://arxiv.org/abs/2507.01037)
 
 1. [<font color='#2d57d1'>VRP</font>] **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems**,  
 Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, **Yining Ma** $\dagger$, Cathy Wu.  
