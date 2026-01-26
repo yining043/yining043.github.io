@@ -13,10 +13,22 @@ author_profile: true
 -> Machine Learning for Optimization
 -----
 ### - Conference papers
+1. [<font color='#2d57d1'>VRP</font>] **Learning to Segment for Vehicle Routing Problems**,  
+Wenbin Ouyang, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
+*International Conference on Learning Representations* (**ICLR**), 2026. [[Accepted]]()
+
+1. [<font color='#2d57d1'>VRP</font>] **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems**,  
+Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, **Yining Ma** $\dagger$, Cathy Wu.  
+*International Conference on Learning Representations* (**ICLR**), 2026. [[Accepted]]()
+
+1. [<font color='#2d57d1'>VRP</font>] **RADAR: Learning to Route with Asymmetry-aware Distance Representations**,  
+Hang Yi, Ziwei Huang, Yining Ma, Zhiguang Cao.  
+*International Conference on Learning Representations* (**ICLR**), 2026. [[Accepted]]()
+
+
 1. [<font color='#2d57d1'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
 Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025.  <font color='#e24721'>Spotlight (top 3%)</font> [[Code & Paper]](https://github.com/123zhangzq/NeurIPS2025_probing/)
-
 
 1. [<font color='#2d57d1'>BBO</font>] **DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**,  
 Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.  
