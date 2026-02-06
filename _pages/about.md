@@ -36,7 +36,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 🎉 News
 -----
 * <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
-* [02/2026] Our L2Seg has been accepted as an **oral** presentation at ICML 2026!!
+* [02/2026] Our L2Seg has been accepted as an **Oral** presentation at ICLR 2026!!
 * [01/2026] Three L2Opt papers got accepted by ICLR'26, including 1) L2Seg, accelerating SoTA solvers by 2x to 7x by learning to prun redundant search; 2) CaR, enabling efficient constraint handling via jointly learned feasibility refinement and awareness; and 3) RADAR, promoting asymmetry-aware representations to boost NCO practicality!
 * [01/2026] **Awarded the MIT Kaufman Teaching Certificate** in recognition of dedication to teaching excellence! See the reference letter from the [MIT Vice Chancellor](https://drive.google.com/file/d/1Ch94oB34hzxiZdeL3I8rHbwJUsQJnIYo/view?usp=sharing)!
 * [01/2026] One paper on L2Opt got accepted by JAIR, where we introduce L-RH-PP, the first work of NCO for warehouse automation to coordinate multiple robots in [Symbotic](https://www.symbotic.com/)!
