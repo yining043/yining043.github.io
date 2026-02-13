@@ -40,7 +40,7 @@ Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiaj
 
 1. [<font color='#0f1014ff'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
 Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), <font color='#e24721'>Oral</font>, 2025.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), <font color='#e24721'>Oral (top 1%)</font>, 2025.  
 [[Code & Paper]](https://github.com/ai4co/rl4co) [[Documentation]](https://rl4.co/) [[AI4CO Homepage 🚀]](https://ai4co.org/)
 
 1. [<font color='#2d57d1'>MTMDVRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy**,  
