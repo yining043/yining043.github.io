@@ -38,6 +38,7 @@ My research has focused on the emerging field of "**Learning to Optimize (L2Opt)
 🎉 News
 -----
 * <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
+* [03/2026] I will be serving as an **Area Chair** for NeurIPS 2026!
 * [03/2026] We are hosting the [MIT 2026 Summer Research Camp](https://mobility.mit.edu/openings/)! Welcome to apply!
 * [02/2026] Our L2Seg has been accepted as an **Oral** presentation at ICLR 2026!!
 * [01/2026] Three L2Opt papers got accepted by ICLR'26, including 1) L2Seg, accelerating SoTA solvers by 2x to 7x by learning to prun redundant search; 2) CaR, enabling efficient constraint handling via jointly learned feasibility refinement and awareness; and 3) RADAR, promoting asymmetry-aware representations to boost NCO practicality!
