@@ -23,6 +23,8 @@ China Society for Industrial and Applied Mathematics (CSIAM), 2017
 
 Media Coverage
 ======
+- **MIT News | March 26, 2025**  
+  🎉 Our work is featured in ["AI system learns to keep warehouse robot traffic running smoothly"](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) — *"This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput."*
 - **ORAI-China (运筹OR帷幄): News | Jan 09, 2026**  
   🎉 Our work is featured in ["AlphaOPT: Building an Evolvable "Empirical Knowledge Base" for Optimization Modeling with LLMs"](https://mp.weixin.qq.com/s/HsJ7JaiUEgfmp0uMd-358w) — *"How can AI truly master the essence of optimization modeling and achieve stable, cross-domain practical applications? A recent study called AlphaOPT proposes a completely new approach...it builds an self-evolving "external brain"...a dynamic experience library that can structure, retrieve, and continuously refine modeling experience."*
 

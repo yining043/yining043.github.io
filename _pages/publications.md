@@ -109,7 +109,7 @@ Jieyi Bi $\ast$, **Yining Ma $\ast$**, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, 
 
 1. [<font color='#2d57d1'>MAPF</font>] **Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation**,  
 Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, and Cathy Wu.  
-*Journal of Artificial Intelligence Research* (**JAIR**), 2026. [[Accepted]]()
+*Journal of Artificial Intelligence Research* (**JAIR**), vol. 85, no. 28, pp. 1-44, 2026. [[Code & Paper]](https://arxiv.org/abs/2603.23838)
 
 1. [<font color='#2d57d1'>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
 Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, Jun Zhang.
