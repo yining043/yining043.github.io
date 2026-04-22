@@ -39,8 +39,7 @@ My research centers on **AI + Optimization**, which asks: how can AI overcome th
 
 🎉 News
 -----
-* <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
-
+<font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
 <div style="height: 400px; overflow-y: auto; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #fafafa;" markdown="1">
 
 * [03/2026] Our work regarding learning guided optimization in warehouse robot automation is featured on the **MIT.edu** (see [MIT News](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) 🎊)!
