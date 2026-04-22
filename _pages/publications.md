@@ -155,9 +155,9 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 **Yining Ma**, Yue-Jiao Gong, Chu-Feng Xiao, Ying Gao, Jun Zhang.  
 *IEEE Transactions on Vehicular Technology* (**TVT**), vol. 68, no. 1, pp. 141-154, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8540402)
 
-1. [<font color='#2d57d1'>Deployment</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,  
+<!-- 1. [<font color='#2d57d1'>Deployment</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,  
 Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.  
-*International Symposium on Neural Networks* (**ISNN**), pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53)
+*International Symposium on Neural Networks* (**ISNN**), pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53) -->
 
 [⬆ Back to top](#quick-navigation)
 
