@@ -40,6 +40,9 @@ My research centers on **AI + Optimization**, which asks: how can AI overcome th
 🎉 News
 -----
 * <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
+
+<div style="height: 400px; overflow-y: auto; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #fafafa;" markdown="1">
+
 * [03/2026] Our work regarding learning guided optimization in warehouse robot automation is featured on the **MIT.edu** (see [MIT News](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) 🎊)!
 * [03/2026] I will be serving as an **Area Chair** for NeurIPS 2026!
 * [03/2026] We are hosting the [MIT 2026 Summer Research Camp](https://mobility.mit.edu/openings/)! Welcome to apply!
@@ -69,24 +72,20 @@ My research centers on **AI + Optimization**, which asks: how can AI overcome th
 * [08/2024] One paper on L2Opt got accepted by TPAMI, where we promoted a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
 * [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
 * [07/2024] I am selected as ICML'24 **Best Reviewer (< 3%)**!
-* [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank">
-    <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;">
-</a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
-<details>
-<summary> Click to View More! </summary>
-<ul>
-<li> [05/2024] One paper on L2Opt got accepted by KDD'24, where we propose a hierarchical neural solver for realistic TSPs under real-world customer distributions. </li>
-<li> [05/2024] One paper on L2Opt got accepted by ICML'24, where we introduce MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts. </li>
-<li> [05/2024] Promoted to the Research Fellow in NTU. </li>
-<li> [03/2024] One paper on MARL got accepted by TNNLS, where we introduce DOMAC for opponent modelling in multi-agent systems using only local information. </li>
-<li> [03/2024] One paper on L2Opt got accepted by SMCA, where we introduce RL-DAS for dynamic algorithm selection based on deep reinforcement learning. </li>
-<li> [02/2024] Gave a talk at MIT, hosted by <a href="http://www.wucathy.com/blog/">Prof. Cathy Wu</a>. </li>
-<li> [02/2024] Successfully defended my PhD thesis at NUS 🎓! </li>
-</ul>
-</details>
-<br/>
-<br>
+* [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank"><img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;"></a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
+* [05/2024] One paper on L2Opt got accepted by KDD'24, where we propose a hierarchical neural solver for realistic TSPs under real-world customer distributions.
+* [05/2024] One paper on L2Opt got accepted by ICML'24, where we introduce MVMoE, a step towards multi-task domain foundation models for VRPs based on mixture of experts.
+* [05/2024] Promoted to the Research Fellow in NTU.
+* [03/2024] One paper on MARL got accepted by TNNLS, where we introduce DOMAC for opponent modelling in multi-agent systems using only local information.
+* [03/2024] One paper on L2Opt got accepted by SMCA, where we introduce RL-DAS for dynamic algorithm selection based on deep reinforcement learning.
+* [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
+* [02/2024] Successfully defended my PhD thesis at NUS 🎓!
 
-(Last updated Jan 2026.)
+</div>
+
+<p style="text-align: right; font-size: 0.85em; color: #888; margin-top: 5px;"><em>Scroll inside the box to see more ↑↓</em></p>
+
 
 <a href="https://info.flagcounter.com/kHt2"><img src="https://s01.flagcounter.com/count2/kHt2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+(Last updated April 2026.)
