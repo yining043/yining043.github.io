@@ -145,9 +145,6 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.  
 *International Symposium on Neural Networks* (**ISNN**), pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53) -->
 
-[⬆ Back to top](#quick-navigation)
-
-
 ## (ii) Community Infrastructure, Benchmark & Survey
 
 1. [<font color='#0f1014ff'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
@@ -165,9 +162,6 @@ Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, *
 1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Invited Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
 Cong Zhang $\ast$, Yaoxin Wu $\ast$, **Yining Ma $\ast$**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
 *IET Collaborative Intelligent Manufacturing* (**CIM**), vol. 5, no. 1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
-
-[⬆ Back to top](#quick-navigation)
-
 
 
 Patent
