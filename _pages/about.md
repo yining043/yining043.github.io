@@ -19,23 +19,23 @@ Welcome to see my [publications](https://yining043.github.io/publications/), [fu
 
 💡 Research Interests
 -----
-My research centers on **AI + Optimization**, which asks: how can AI overcome the bottlenecks of complex optimization and decision-making in modern industrial and societal systems?
+My research focuses on **AI for Optimization and Decision Intelligence**, which asks: how can AI learn to model and optimize complex decision-making at scale? 
 <!-- My research has focused on the emerging field of "**Learning to Optimize (L2Opt)**", where we develop state-of-the-art AI-driven frameworks/approaches for addressing challenging decision-making problems, e.g., combinatorial optimization problems (COPs). My research drives innovative solutions in broad application domains with real-world complexities such as LLM reasoning, LLM for Optimization task formulation, large-scale vehicle routing in logistics, multi-robot coordination in automated warehouse, complex resource scheduling, path planning, etc. -->
 <!-- My research in L2Opt spans various ML perspectives, such as representation learning, foundation model development, efficient training/inference framework design, out-of-distribution generalization, multi-agent coordination, decision-making in dynamic environments, etc. -->
 
-**Research Highlights** 🔥 - Complete list available [here](https://yining043.github.io/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en)
-- **<font color='#2d57d1'>Neural Combinatorial Optimization (NCO)</font>**  - a methodological frontier developing novel AI systems for hard optimization problems that are combinatorial, constrained, non-differentiable, and demand reliable generalization;
+**Research Directions** 🔥 - Complete list available [here](https://yining043.github.io/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en)
+- **<font color='#2d57d1'>AI-driven Optimization</font>**  - a methodological frontier advancing neural solvers and learning(-guided) paradigms for hard optimization problems that are large-scale,  non-convex, constrained, and demand reliable generalization.
 <!-- , e.g., [DACT](https://github.com/yining043/VRP-DACT)/[NeuOpt](https://github.com/yining043/NeuOpt) (neural k-opt search), [N2S](https://github.com/yining043/PDP-N2S)/[NCS](https://ieeexplore.ieee.org/document/10663917) (neural ruin-and-repair search), [NeuOpt](https://github.com/yining043/NeuOpt)/[PIP](https://github.com/jieyibi/pip-constraint)/[CaR](https://arxiv.org/abs/2602.16012) (constraint handling), [AMDKD](https://github.com/jieyibi/AMDKD) (generalization), [FER](https://ieeexplore.ieee.org/abstract/document/10160045) (dynamic embedding), [NHDE](https://github.com/bill-cjb/NHDE) (multi-objective), [MVMoE](https://github.com/RoyalSkye/Routing-MVMoE)/[SHIELD]() (multi-task)  -->
-- **<font color='2d57d1'>Learning-guided Optimization (LGO)</font>** - the near-term path to industrial killer applications, leveraging AI (including Agentic LLMs) to assist in modeling, solving, and accelerating classical OR methods, under a human-AI collaborative regime;
+- **<font color='2d57d1'>AI-driven Decision Systems</font>** - building next-generation decision-making systems where AI agents assist in modeling, designing, and interpreting the decision-making pipeline, under a human-AI collaborative regime;
 <!-- Accelerating and elevating classical solvers with AI to harness the best of both worlds, e.g., [R-DAS](https://ieeexplore.ieee.org/abstract/document/10496708) (dynamic operator selection), [GLEET](https://arxiv.org/abs/2404.08239)/[ConfigX](https://arxiv.org/abs/2412.07507) (dynamic algorithm configuration), [L-RHO](https://github.com/mit-wu-lab/l-rho) (long-horizon COP), [L2Seg](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_344.pdf) (large-scale VRP), [L-RH-PP](https://arxiv.org/abs/2603.23838) (automated warehouse robot coordination) -->
-- **<font color='2d57d1'> Trustworthy & Interpretable Decision-Making</font>** - a roadmap toward next-generation autonomous decision systems that are interpretable, trustworthy, and robust to deploy/fine-tune with guarantees.
+- **<font color='2d57d1'> Trustworthy & Interpretable Decision-Making</font>** - ensuring decision systems are interpretable, robust, and safe to deploy and fine-tune with guarantees.
 <!-- , e.g., [Symbol](https://arxiv.org/abs/2402.02355) (rule generation), [LLaMoCo](https://arxiv.org/abs/2403.01131) (code generation with LLM), [Probing NCO](https://arxiv.org/abs/2510.22131) (what has NCO learned?) -->
 - **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox-v2](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided MetaBBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP)
 
 **Research Keywords**
-- **Machine Learning**: Reinforcement Learning, Deep Learning, Large Language Model (LLM), LLM agent, Foundation Model, Multi-Agent Systems, Interpretability
-- **Optimization**: Combinatorial Optimization, Discrete Optimization, Mixed Integer Linear Programming (MILP), GPU-Accelerated Optimization, Black-Box Optimization (BBO)
-- **Application**: Routing, Planning, Scheduling, LLM reasoning, Manufacturing, Logistics
+- **Machine Learning**: Reinforcement Learning, Deep Learning, LLM, LLM agent, Foundation Model, Multi-Agent Systems, Interpretability
+- **Optimization**: Neural Combinatorial Optimization (NCO), Learning-guided Optimization (LGO), Black-Box Optimization (BBO),  GPU-Accelerated Optimization
+- **Application**: Transportation, Planning, Scheduling, Robotics, Manufacturing
 
 🎉 News
 -----
