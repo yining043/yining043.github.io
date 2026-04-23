@@ -9,12 +9,6 @@ author_profile: true
 
 **$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
 
-### Quick Navigation
-
-- [(i) Main Track Conference and Journal Papers](#i-main)
-- [(ii) Community Infrastructure, Benchmark & Survey](#iv-community-infrastructure-benchmark--survey)
-
----
 
 ### (i) Main Track Conference and Journal Papers
 
