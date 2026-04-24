@@ -30,6 +30,7 @@ author_profile: true
 - SIAM International Conference on Data Mining (**SDM**), 2024
 
 ## Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 - Transactions on Machine Learning Research (**TMLR**)
 - Transportation Research Part E (**TRP-E**)
 - IEEE Transactions on Neural Network and Learning Systems (**TNNLS**)
