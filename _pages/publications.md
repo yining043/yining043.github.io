@@ -19,11 +19,11 @@ Wenbin Ouyang, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.
 
 1. [<font color='#2d57d1'>VRP</font>] **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems**,  
 Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, **Yining Ma** $\dagger$, Cathy Wu.  
-*International Conference on Learning Representations* (**ICLR**), 2026.
+*International Conference on Learning Representations* (**ICLR**), 2026. [[Code & Paper]](https://github.com/jieyibi/CaR-constraint)
 
 1. [<font color='#2d57d1'>VRP</font>] **RADAR: Learning to Route with Asymmetry-aware Distance Representations**,  
 Hang Yi, Ziwei Huang, **Yining Ma**, Zhiguang Cao.  
-*International Conference on Learning Representations* (**ICLR**), 2026.
+*International Conference on Learning Representations* (**ICLR**), 2026. [[Paper]](https://arxiv.org/abs/2603.03388)
 
 1. [<font color='#2d57d1'>MAPF</font>] **Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation**,  
 Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, Cathy Wu.  
