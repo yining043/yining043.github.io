@@ -10,7 +10,6 @@ author_profile: true
 - **Geust Lecture**
 -- [MIT 1.041 Transportation Foundations and Methods](https://web.mit.edu/1.041/www/schedule/): "*Optimization in the Era of AI*" [[slides]](https://web.mit.edu/1.041/www/lectures/L23-guest-lecture-Yining-Ma-2026sp.pdf)    
 April, 2026, MIT, United States
-
 - **MIT Kaufman Teaching Certificate**
 -- [Program Details](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) 
 Fall 2025, MIT, USA
