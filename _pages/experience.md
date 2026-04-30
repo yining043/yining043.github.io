@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+- **Geust Lecture**
+-- [MIT 1.041 Transportation Foundations and Methods](https://web.mit.edu/1.041/www/schedule/): "*Optimization in the Era of AI*" [[slides]](https://web.mit.edu/1.041/www/lectures/L23-guest-lecture-Yining-Ma-2026sp.pdf)    
+April, 2026, MIT, United States
+
 - **MIT Kaufman Teaching Certificate**
 -- [Program Details](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) 
 Fall 2025, MIT, USA
@@ -14,7 +18,7 @@ Fall 2025, MIT, USA
 -- IE2141 Systems Thinking and Dynamics  
 Sept 2020 - Nov 2022, NUS, Singapore
 - **Guest Lecturer**
--- AI Summer School: Deep Reinforcement Learning for Solving Routing Problems    
+-- AI Summer School: *Deep Reinforcement Learning for Solving Routing Problems*    
 Jul, 2020, NUS, Singapore
 
 Work Experience

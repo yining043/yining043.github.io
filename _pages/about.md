@@ -40,8 +40,10 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 🎉 News
 -----
 <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
-<div style="height: 400px; overflow-y: auto; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #fafafa;" markdown="1">
+<div style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
+* [04/2026] One paper regarding MILP representation has been accepted by ICML 2026.
+* [04/2026] I was invited to give a Geust Lecture to [MIT 1.041 Transportation Foundations and Methods](https://web.mit.edu/1.041/www/schedule/) class with a topic, "*Optimization in the Era of AI*" (see [slides](https://web.mit.edu/1.041/www/lectures/L23-guest-lecture-Yining-Ma-2026sp.pdf) here). 
 * [03/2026] Our work regarding learning guided optimization in warehouse robot automation is featured on the **MIT.edu** (see [MIT News](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) 🎊)!
 * [03/2026] I will be serving as an **Area Chair** for NeurIPS 2026!
 * [03/2026] We are hosting the [MIT 2026 Summer Research Camp](https://mobility.mit.edu/openings/)! Welcome to apply!

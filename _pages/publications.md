@@ -9,16 +9,9 @@ author_profile: true
 
 **$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
 
-
-### (i) Main Track Conference and Journal Papers
-
-1. [<font color='#2d57d1'>MAPF</font>] **Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation**,  
-Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, Cathy Wu.  
-*Journal of Artificial Intelligence Research* (**JAIR**), vol. 85, no. 28, pp. 1-44, 2026. [[Code & Paper]](https://arxiv.org/abs/2603.23838) [[🎉 MIT News]](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326)
-
-1. [<font color='#2d57d1'>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
-Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, Jun Zhang.  
-*IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Paper]](https://ieeexplore.ieee.org/document/11359290)
+1. [<font color='#2d57d1'>MILP</font>] **A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention**,  
+Peixin Huang, Yaoxin Wu, **Yining Ma**, Cathy Wu, Wen Song, Wei Zhang.  
+*International Conference on Machine Learning* (**ICML**), 2026. [[Aceepted]]()
 
 1. [<font color='#2d57d1'>VRP</font>] **Learning to Segment for Vehicle Routing Problems**,  
 Wenbin Ouyang, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
@@ -32,15 +25,14 @@ Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, **Yining Ma
 Hang Yi, Ziwei Huang, **Yining Ma**, Zhiguang Cao.  
 *International Conference on Learning Representations* (**ICLR**), 2026.
 
+1. [<font color='#2d57d1'>MAPF</font>] **Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation**,  
+Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, Cathy Wu.  
+*Journal of Artificial Intelligence Research* (**JAIR**), vol. 85, no. 28, pp. 1-44, 2026. [[Code & Paper]](https://arxiv.org/abs/2603.23838) [[🎉 MIT News]](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326)
 
-1. [<font color='#2d57d1'>FJSP</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
-Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
-*International Conference on Learning Representations* (**ICLR**), 2025. [[Code & Paper]](https://github.com/mit-wu-lab/l-rho) [[🎉 MIT News]](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416)
+1. [<font color='#2d57d1'>LLM</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
+Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, Jun Zhang.  
+*IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Paper]](https://ieeexplore.ieee.org/document/11359290)
 
-
-1. [<font color='#2d57d1'>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
-Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
-*AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. <font color='#e24721'>Oral (top 5%)</font> [[Code & Paper]](https://github.com/GMC-DRL/ConfigX)
 
 1. [<font color='#2d57d1'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
 Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
@@ -50,22 +42,36 @@ Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.
 Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Paper]](https://arxiv.org/abs/2505.17866)
 
-1. [<font color='#2d57d1'>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
-Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025. [[Code & Paper]](https://github.com/LiQisResearch/KDD--RF-MA3S)
-
-1. [<font color='#2d57d1'>MARL</font>] **Decision-making with Speculative Opponent Models**,  
-Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.  
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Code & Paper]](https://github.com/sunjing1102628/DOMAC)
-
+1. [<font color='#2d57d1'>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
+Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/MetaBox) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
 1. [<font color='#2d57d1'>MTMDVRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Jianan Zhou, Mohammed Haroon Dupty, Wee Sun Lee.  
 *International Conference on Machine Learning* (**ICML**), 2025. [[Paper]](https://arxiv.org/abs/2506.08424)
 
-1. [<font color='#2d57d1'>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
-Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 884-895, 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
+1. [<font color='#2d57d1'>FJSP</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
+Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
+*International Conference on Learning Representations* (**ICLR**), 2025. [[Code & Paper]](https://github.com/mit-wu-lab/l-rho) [[🎉 MIT News]](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416)
+
+1. [<font color='#2d57d1'>BBO</font>] **ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**,  
+Hongshu Guo, Zeyuan Ma, Jiacheng Chen, **Yining Ma**, Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong.  
+*AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. <font color='#e24721'>Oral (top 5%)</font> [[Code & Paper]](https://github.com/GMC-DRL/ConfigX)
+
+1. [<font color='#0f1014ff'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
+Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025. <font color='#e24721'>Oral (top 1%)</font> [[Code & Paper]](https://github.com/ai4co/rl4co) [[Documentation]](https://rl4.co/) [[AI4CO Homepage 🚀]](https://ai4co.org/)
+
+1. [<font color='#2d57d1'>VRP</font>] **Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning**,  
+Qi Li, Zhiguang Cao, **Yining Ma**, Yaoxin Wu, Yue-Jiao Gong.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025. [[Code & Paper]](https://github.com/LiQisResearch/KDD--RF-MA3S)
+
+
+
+1. [<font color='#2d57d1'>MARL</font>] **Decision-making with Speculative Opponent Models**,  
+Jing Sun, Shuo Chen, Cong Zhang, **Yining Ma**, Jie Zhang.  
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2024. [[Code & Paper]](https://github.com/sunjing1102628/DOMAC)
+
 
 1. [<font color='#2d57d1'>VRP</font>] **Learning to Handle Complex Constraints for Vehicle Routing Problems**,  
 Jieyi Bi, **Yining Ma** $\dagger$, Jianan Zhou, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang.  
@@ -79,9 +85,9 @@ Detian Kong $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Tianhu Yu, Jianhua Xiao.
 Jianan Zhou, Zhiguang Cao, Yaoxin Wu, Wen Song, **Yining Ma**, Jie Zhang, Xu Chi.  
 *International Conference on Machine Learning* (**ICML**), pp. 61804-61824, 2024. [[Code & Paper]](https://github.com/RoyalSkye/Routing-MVMoE)
 
-1. [<font color='#2d57d1'>BBO</font>] **Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**,  
-Zeyuan Ma, Jiacheng Chen, Hongshu Guo, **Yining Ma**, Yue-Jiao Gong.  
-*Genetic and Evolutionary Computation Conference* (**GECCO**), pp. 1497-1505, 2024. [[Paper]](https://arxiv.org/abs/2404.08239)
+1. [<font color='#2d57d1'>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
+Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 884-895, 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
 
 1. [<font color='#2d57d1'>RecSys</font>] **Disentangled Multi-interest Representation Learning for Sequential Recommendation**,  
 Yingpeng Du, Ziyan Wang, Zhu Sun, **Yining Ma**, Hongzhi Liu, Jie Zhang.  
@@ -95,26 +101,35 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
 *IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), vol. 54, no. 7, pp. 4247-4259, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708)
 
-
-1. [<font color='#2d57d1'>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
-Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 39176-39188, 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
+1. [<font color='#2d57d1'>FedRL</font>] **FedHQL: Federated Heterogeneous Q-Learning**,  
+Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.  
+*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
 1. [<font color='#2d57d1'>Planning</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,  
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
 
-1. [<font color='#2d57d1'>FedRL</font>] **FedHQL: Federated Heterogeneous Q-Learning**,  
-Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.  
-*International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
+1. [<font color='#2d57d1'>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement**,  
+Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, **Yining Ma**, Te Ye, Jiahai Wang.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 39176-39188, 2023. [[Code & Paper]](https://github.com/bill-cjb/NHDE)
 
-1. [<font color='#2d57d1'>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,  
-Jingwen Li $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), vol. 35, no. 11, pp. 15279-15291, 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
+1. [<font color='#2d57d1'>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
+Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 10775-10795, 2023. <font color='#e24721'>Oral (top 1%)</font> [[Code & Paper]](https://github.com/GMC-DRL/MetaBox) [[Documentation]](https://metaboxdoc.readthedocs.io/en/latest/index.html) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
 
 1. [<font color='#2d57d1'>VRP</font>] **Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**,  
 **Yining Ma**, Zhiguang Cao, Yeow Meng Chee.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 49555-49578, 2023. [[Code & Paper]](https://github.com/yining043/NeuOpt)
+
+
+1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Invited Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
+Cong Zhang $\ast$, Yaoxin Wu $\ast$, **Yining Ma $\ast$**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
+*IET Collaborative Intelligent Manufacturing* (**CIM**), vol. 5, no. 1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
+
+
+1. [<font color='#2d57d1'>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,  
+Jingwen Li $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
+*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), vol. 35, no. 11, pp. 15279-15291, 2023. [[Code & Paper]](https://github.com/Demon0312/Feature-Embedding-Refiner)
 
 1. [<font color='#2d57d1'>VRP</font>] **Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation**,  
 Jieyi Bi $\ast$, **Yining Ma** $\ast$, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, Yeow Meng Chee.  
@@ -144,24 +159,6 @@ Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Wei Jing, Cheston Tan, Kian Hsiang 
 <!-- 1. [<font color='#2d57d1'>Deployment</font>] **Video Server Deployment Using a Genetic Algorithm with Deterministic Initialization Strategy**,  
 Xin-Yi Hu, Yue-Jiao Gong, Xin-Yuan Zhang, **Yining Ma**, Jun Zhang.  
 *International Symposium on Neural Networks* (**ISNN**), pp. 459-467, 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_53) -->
-
-## (ii) Community Infrastructure, Benchmark & Survey
-
-1. [<font color='#0f1014ff'>COP</font>] [<font color=Sienna>Library</font>] **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**,  
-Federico Berto $\ast$, Chuanbo Hua $\ast$, Junyoung Park $\ast$, Laurin Luttmann $\ast$, **Yining Ma**, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, Jianan Zhou, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2025. <font color='#e24721'>Oral (top 1%)</font> [[Code & Paper]](https://github.com/ai4co/rl4co) [[Documentation]](https://rl4.co/) [[AI4CO Homepage 🚀]](https://ai4co.org/)
-
-1. [<font color='#2d57d1'>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
-Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/MetaBox) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
-
-1. [<font color='#2d57d1'>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**,  
-Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, **Yining Ma**, Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 10775-10795, 2023. <font color='#e24721'>Oral (top 1%)</font> [[Code & Paper]](https://github.com/GMC-DRL/MetaBox) [[Documentation]](https://metaboxdoc.readthedocs.io/en/latest/index.html) [[MetaEvo Homepage 🚩]](https://metaevo.github.io/)
-
-1. [<font color='#2d57d1'>COP</font>] [<font color=Sienna>Invited Review</font>] **A Review on Learning to Solve Combinatorial Optimisation Problems in Manufacturing**,   
-Cong Zhang $\ast$, Yaoxin Wu $\ast$, **Yining Ma $\ast$**, Wen Song, Le Zhang, Zhiguang Cao, Jie Zhang.  
-*IET Collaborative Intelligent Manufacturing* (**CIM**), vol. 5, no. 1, pp. e12072, 2023. [[Paper]](http://dx.doi.org/10.1049/cim2.12072)
 
 
 Patent
