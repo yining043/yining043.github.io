@@ -11,7 +11,7 @@ author_profile: true
 
 1. [<font color='#2d57d1'>MILP</font>] **A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention**,  
 Peixin Huang, Yaoxin Wu, **Yining Ma**, Cathy Wu, Wen Song, Wei Zhang.  
-*International Conference on Machine Learning* (**ICML**), 2026. [[Aceepted]]()
+*International Conference on Machine Learning* (**ICML**), 2026. [[Accepted]]()
 
 1. [<font color='#2d57d1'>VRP</font>] **Learning to Segment for Vehicle Routing Problems**,  
 Wenbin Ouyang, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
