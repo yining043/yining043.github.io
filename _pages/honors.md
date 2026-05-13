@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-- **Gold Reviewer**   
+- **ICML 2026 Gold Reviewer**   
 International Conference on Machine Learning (ICML), 2026
 - **Best Paper Finalists**  [[Link]](https://meetings.informs.org/wordpress/annual/data-mining-workshop/)   
 20th INFORMS Data Mining and Decision Analytics (DMDA) Workshop, INFORMS, 2025
