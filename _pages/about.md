@@ -42,7 +42,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
 <div style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
-* [05/2026] 🔥 Our LLM RFT method, METIS, is officially **deployed** in the [Amazon Nova Forge AWS service](https://docs.aws.amazon.com/nova/latest/nova2-userguide/nova-reinforcement-fine-tuning.html#nova-rft-adaptive-curriculum)! 🎉 Check out [here](https://arxiv.org/abs/2605.11235) to see how METIS bypasses handcrafted heuristics, establishing a simple, closed-loop, and highly efficient curriculum internalization paradigm.
+* [05/2026] 🔥 Our LLM RFT method, METIS, is officially **deployed** in the [Amazon Nova Forge AWS service](https://docs.aws.amazon.com/nova/latest/nova2-userguide/nova-reinforcement-fine-tuning.html#nova-rft-adaptive-curriculum)! 🎉 Our [METIS](https://arxiv.org/abs/2605.11235) bypasses handcrafted heuristics, establishing a simple, closed-loop, and highly efficient curriculum internalization paradigm.
 * [05/2026] Awarded the Gold Reviewer for ICML 2026!
 * [04/2026] One paper regarding MILP representation has been accepted by ICML 2026.
 * [04/2026] I was invited to give a Geust Lecture to [MIT 1.041 Transportation Foundations and Methods](https://web.mit.edu/1.041/www/schedule/) class with the topic "*Optimization in the Era of AI*" (see [slides](https://web.mit.edu/1.041/www/lectures/L23-guest-lecture-Yining-Ma-2026sp.pdf) here). 
