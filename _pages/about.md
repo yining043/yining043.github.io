@@ -43,7 +43,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 <div style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
 * [05/2026] 🔥 Our LLM RFT method, METIS, is **officially deployed** in the [Amazon Nova Forge AWS service](https://docs.aws.amazon.com/nova/latest/nova2-userguide/nova-reinforcement-fine-tuning.html#nova-rft-adaptive-curriculum)! 🎉 Our [METIS](https://arxiv.org/abs/2605.11235) bypasses handcrafted heuristics, establishing a simple, closed-loop, and highly efficient curriculum internalization paradigm.
-* [05/2026] Awarded the Gold Reviewer for ICML 2026!
+* [05/2026] Two papers got accepted by KDD 2026! 1) DyNACO, learning to provide dynamic guidance for large-scale ant colony optimization; and 2) AlphaOPT, pioneering a self-improving experience library that dramatically boosts LLMs for COP auto-formulation!
 * [04/2026] One paper regarding MILP representation has been accepted by ICML 2026.
 * [04/2026] I was invited to give a Geust Lecture to [MIT 1.041 Transportation Foundations and Methods](https://web.mit.edu/1.041/www/schedule/) class with the topic "*Optimization in the Era of AI*" (see [slides](https://web.mit.edu/1.041/www/lectures/L23-guest-lecture-Yining-Ma-2026sp.pdf) here). 
 * [03/2026] Our work regarding learning guided optimization in warehouse robot automation is featured on the **MIT.edu** (see [MIT News](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) 🎊)!
