@@ -40,7 +40,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 🎉 News
 -----
 <font color='e24721'>I'm on the job market! Please contact me if you know of any suitable positions!</font>
-<div style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
+<div style="height: 800px; overflow-y: hidden; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
 * [05/2026] 🔥 Our LLM RFT method, METIS, is **officially deployed** in the [Amazon Nova Forge AWS service](https://docs.aws.amazon.com/nova/latest/nova2-userguide/nova-reinforcement-fine-tuning.html#nova-rft-adaptive-curriculum)! 🎉 Our [METIS](https://arxiv.org/abs/2605.11235) bypasses handcrafted heuristics, establishing a simple, closed-loop, and highly efficient curriculum internalization paradigm.
 * [05/2026] Two papers got accepted by KDD 2026! 1) DyNACO, learning to provide dynamic guidance for large-scale ant colony optimization; and 2) AlphaOPT, pioneering a self-improving experience library that dramatically boosts LLMs for COP auto-formulation!
