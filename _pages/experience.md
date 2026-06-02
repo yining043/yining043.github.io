@@ -63,6 +63,7 @@ Invited Talks
 
 Membership
 ======
+- **Regular Member (2026-2027)**, [INFORMS](https://www.informs.org/), 5521 Research Park Drive, Suite 200, Catonsville, MD 21228 USA
 - **Regular Member (2025-2026)**, [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/), 601 Pennsylvania Ave, NW, Suite 900, Washington, DC 20004, USA
 - **Professional Member (2024-2025)**, [Association for Computing Machinery (ACM)](https://www.acm.org/), 1601 Broadway, 10th Floor, New York, NY 10019-7434, USA
 - **Student Member (2023-2024)**, [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 3577 Parkway Lane, Suite 200 Norcross GA 30092-2988, USA
