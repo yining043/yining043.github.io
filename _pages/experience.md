@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- **Geust Lecture**
+- **Guest Lecture**
 -- [MIT 1.041 Transportation Foundations and Methods](https://web.mit.edu/1.041/www/schedule/): "[*Optimization in the Era of AI*](https://web.mit.edu/1.041/www/lectures/L23-guest-lecture-Yining-Ma-2026sp.pdf)"   
 April, 2026, MIT, United States
 - **MIT Kaufman Teaching Certificate**
