@@ -11,11 +11,11 @@ author_profile: true
 
 1. [<font color='#2d57d1'>ACO</font>] **Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization**,  
 Dat Thanh Tran, Van Khu Vu, **Yining Ma** $\dagger$.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2026.  [[Accepted]]()
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2026. <font color='#e24721'>Oral</font>  [[Paper]](https://arxiv.org/abs/2606.04039)
 
 1. [<font color='#2d57d1'>LLM</font>] **AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library**,  
 Minwei Kong, Ao Qu, Xiaotong Guo, Wenbin Ouyang, Chonghe Jiang, Han Zheng, **Yining Ma**, Dingyi Zhuang, Yuhan Tang, Junyi Li, Shenhao Wang, Haris Koutsopoulos, Hai Wang, Cathy Wu, Jinhua Zhao.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2026.  [[Paper]](https://arxiv.org/abs/2510.18428)
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2026.  <font color='#e24721'>Oral</font>  [[Paper]](https://arxiv.org/abs/2510.18428)
 
 1. [<font color='#2d57d1'>MILP</font>] **A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention**,  
 Peixin Huang, Yaoxin Wu, **Yining Ma**, Cathy Wu, Wen Song, Wei Zhang.  
