@@ -13,8 +13,9 @@ author_profile: true
 - **Session Chair of AI for Planning and Scheduling**, The 24th Conference of the International Federation of Operational Research Societies **(IFORS)**, July 12 - 17, 2026, Vienna, Austria. [[Homepage]](https://ifors2026.at/home/)
 
 
-## Conference Area Chair (AC) 
+## Conference Area Chair (AC) / SPC
 - Conference on Neural Information Processing Systems (**NeurIPS**), 2025, 2026
+- AAAI Conference on Artificial Intelligence (**AAAI**), 2027
 - IEEE Conference on Artificial Intelligence (**CAI**), 2024
 
 ## Conference Reviewer
