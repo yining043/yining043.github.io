@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), mentored by [Prof. Cathy Wu](http://www.wucathy.com/blog/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS) in 2024, where I was mentored by [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) and honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. from South China University of Technology (SCUT) in 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).  I am also working closely with [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/) and [Grab (SG)](https://www.grab.careers/en/jobs/?page=2&search=scientist&country=Singapore&pagesize=20#results).
+Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), mentored by [Prof. Cathy Wu](http://www.wucathy.com/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS) in 2024, where I was mentored by [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) and honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). I received my B.E. from South China University of Technology (SCUT) in 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en).  I am also working closely with [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/) and [Grab (SG)](https://www.grab.careers/en/jobs/?page=2&search=scientist&country=Singapore&pagesize=20#results).
 
 My background unites AI, Operations Research (OR), and system design. I develop principled, scalable, and trustworthy decision intelligence systems, aiming for high-impact innovations in domains including LLMs, transportation, advanced manufacturing, robotics, and beyond. I have published 35+ papers in top-tier conferences and journals, with multiple spotlight/oral presentations. I serve as ***Area Chair (AC)*** for *NeurIPS* and ***Senior Program Committee (SPC)*** for AAAI, and recognized with multiple best reviewer awards. 
 
@@ -85,7 +85,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 * [10/2024] I am selected as NeurIPS'24 **Top Reviewer (10%) for both main and DB track**! 
 * [09/2024] One paper on L2Opt got accepted by NeurIPS'24, where we propose Proactive Infeasibility Prevention (PIP) to elevate neural solvers for complex VRP constraints.
 * [08/2024] One paper on L2Opt got accepted by TPAMI, where we promoted a neural collaborative  framework integrating learning-to-search and learning-to-construct solvers.
-* [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/blog/)'s group in MIT!
+* [08/2024] I'm so excited to join [Prof. Cathy Wu](http://www.wucathy.com/)'s group in MIT!
 * [07/2024] I am selected as ICML'24 **Best Reviewer (< 3%)**!
 * [06/2024] Check out <a href="https://arxiv.org/abs/2306.17100" target="_blank"><img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/rl4co_animated_full.svg" alt="RL4CO" style="width: 80px; height: auto; vertical-align: middle;"></a> - our latest extensive benchmark to unify frameworks and facilitate research in RL-based CO algorithms 🚀.
 * [05/2024] One paper on L2Opt got accepted by KDD'24, where we propose a hierarchical neural solver for realistic TSPs under real-world customer distributions.
@@ -93,7 +93,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 * [05/2024] Promoted to the Research Fellow in NTU.
 * [03/2024] One paper on MARL got accepted by TNNLS, where we introduce DOMAC for opponent modelling in multi-agent systems using only local information.
 * [03/2024] One paper on L2Opt got accepted by SMCA, where we introduce RL-DAS for dynamic algorithm selection based on deep reinforcement learning.
-* [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/).
+* [02/2024] Gave a talk at MIT, hosted by [Prof. Cathy Wu](http://www.wucathy.com/).
 * [02/2024] Successfully defended my PhD thesis at NUS 🎓!
 
 </div>
