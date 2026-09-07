@@ -14,7 +14,8 @@ author_profile: true
 
 
 ## Conference Area Chair (AC) / SPC
-- Conference on Neural Information Processing Systems (**NeurIPS**), 2025, 2026
+- International Conference on Learning Representations (**ICLR**), 2027
+- Neural Information Processing Systems (**NeurIPS**), 2025, 2026
 - AAAI Conference on Artificial Intelligence (**AAAI**), 2027
 - IEEE Conference on Artificial Intelligence (**CAI**), 2024
 
