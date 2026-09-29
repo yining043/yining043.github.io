@@ -10,8 +10,8 @@ author_profile: true
 - **Research Scientist (MIT):** Curriculum-Aware Stabilization of RL Fine-Tuning for Multi-Turn Reasoning in Large Language Models - Funded by [Amazon](https://www.amazon.com/), 2025-2026
 - **Research Scientist (MIT):** Generalizable Path Finding for Growing Complexity in Warehousing - Funded by [Symbotic](https://www.symbotic.com/), 2024-2027
 - **Project Lead (ETH, MIT, NTU):** DiSCO-LakeBench: A Benchmark and Solver-Guided MARL Framework for Lakehouse Maintenance - Funded by [Swiss AI](https://www.swiss-ai.org/), 2026-2027
+- **Project Lead (MIT)**: Lambda's Research Grant Program - Funded by [Lambda.ai](https://lambda.ai/research), 2026-2027.
 - **Project Lead (MIT)**: Accelerating scientific discovery with ChatGPT for Academic Researchers - Funded by [OpenAI](https://openai.com/index/chatgpt-for-academic-researchers/), 2026-2027.
-
 
 Completed Fundings
 =====

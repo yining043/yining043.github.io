@@ -10,12 +10,12 @@ author_profile: true
 **$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
 
 1. [<font color='#2d57d1'>Interpretability</font>] **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks**,  
-Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.
+Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Paper]](https://arxiv.org/abs/2606.19741)
 
 1. [<font color='#2d57d1'>VRP</font>] **MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing**,  
-Hang Yi, Ziwei Huang, **Yining Ma** $\dagger$, Zhiguang Cao.
-   *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Accepted]]()
+Hang Yi, Ziwei Huang, **Yining Ma** $\dagger$, Zhiguang Cao.  
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Accepted]]()
 
 
 1. [<font color='#2d57d1'>ACO</font>] **Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization**,  
