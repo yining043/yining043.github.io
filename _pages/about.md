@@ -52,6 +52,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 
 <div class="hide-scrollbar" style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
+* [09/2026] Two papers got accepted by NeurIPS 2026! 1) [EPB](https://arxiv.org/abs/2606.19741), the first framework to distill black-box NCO models into human-readable, executable program portfolios for  interpretability of complex sequential decision-making; and 2) MixRoute, revisiting normalization as a parsimonious alternative for zero-shot generalization in NCO.
 * [08/2026] I will be serving as an **Area Chair** for ICLR 2027!
 * [07/2026] I will be serving as an **Senior Program Committee (SPC)** for AAAI 2027!
 * [06/2026] AlphaOPT and DyNACO are accepted as **Oral** presentations at KDD 2026.
