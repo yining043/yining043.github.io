@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+- **NeurIPS 2026 Top Area Chair**   
+Conference on Neural Information Processing Systems (NeurIPS), 2026
 - **ICML 2026 Gold Reviewer**   
 International Conference on Machine Learning (ICML), 2026
 - **Best Paper Finalists**  [[Link]](https://meetings.informs.org/wordpress/annual/data-mining-workshop/)   
