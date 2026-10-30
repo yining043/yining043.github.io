@@ -11,7 +11,7 @@ author_profile: true
 
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>Interpretability</font>] **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks**,  
 Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. <font color='#e24721'>Industry: Microsoft Research</font> [[Paper]](https://arxiv.org/abs/2606.19741)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Paper]](https://arxiv.org/abs/2606.19741)
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing**,  
 Hang Yi, Ziwei Huang, **Yining Ma** $\dagger$, Zhiguang Cao.  
@@ -44,7 +44,7 @@ Hang Yi, Ziwei Huang, **Yining Ma**, Zhiguang Cao.
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>MAPF</font>] **Learning-Guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation**,  
 Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, Cathy Wu.  
-*Journal of Artificial Intelligence Research* (**JAIR**), vol. 85, no. 28, pp. 1-44, 2026. <font color='#e24721'>Industry: Symbotic</font> [[Code & Paper]](https://arxiv.org/abs/2603.23838) [[🎉 MIT News]](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) [[🎉 Symbotic CTO Blog]](https://www.symbotic.com/blog/the-bottleneck-for-dense-storage-isnt-robot-performance-its-the-traffic/)
+*Journal of Artificial Intelligence Research* (**JAIR**), vol. 85, no. 28, pp. 1-44, 2026. [[Code & Paper]](https://arxiv.org/abs/2603.23838) [[🎉 MIT News]](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) [[🎉 Symbotic CTO Blog]](https://www.symbotic.com/blog/the-bottleneck-for-dense-storage-isnt-robot-performance-its-the-traffic/)
 
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>Code Generation</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
 Zeyuan Ma, Yue-Jiao Gong $\dagger$, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, Jun Zhang.  
@@ -69,7 +69,7 @@ Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiaj
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Jianan Zhou, Mohammed Haroon Dupty, Wee Sun Lee.  
-*International Conference on Machine Learning* (**ICML**), 2025. <font color='#e24721'>Industry: Grab</font> [[Paper]](https://arxiv.org/abs/2506.08424)
+*International Conference on Machine Learning* (**ICML**), 2025. [[Paper]](https://arxiv.org/abs/2506.08424)
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>Scheduling</font>] **Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling**,  
 Sirui Li, Wenbin Ouyang, **Yining Ma**, Cathy Wu.  
@@ -107,7 +107,7 @@ Jianan Zhou, Zhiguang Cao, Yaoxin Wu, Wen Song, **Yining Ma**, Jie Zhang, Xu Chi
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Hierarchical Neural Constructive Solver for Real-world TSP Scenarios**,  
 Yong Liang Goh, Zhiguang Cao, **Yining Ma**, Yanfei Dong, Mohammed Haroon Dupty, Wee Sun Lee.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 884-895, 2024. <font color='#e24721'>Industry: Grab</font> [[Paper]](https://www.arxiv.org/abs/2408.03585)
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), pp. 884-895, 2024. [[Paper]](https://www.arxiv.org/abs/2408.03585)
 
 1. **Disentangled Multi-interest Representation Learning for Sequential Recommendation**,  
 Yingpeng Du, Ziyan Wang, Zhu Sun, **Yining Ma**, Hongzhi Liu, Jie Zhang.  
