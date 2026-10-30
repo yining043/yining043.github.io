@@ -18,7 +18,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2024
 International Conference on Machine Learning (ICML), 2024
 - **NeurIPS 2023 Top Reviewer Award (Top 10%)** [[Link]](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers)         
 Conference on Neural Information Processing Systems (NeurIPS), 2023
-- **Top 10 Model Merit Students (10 out of all bachelor students)**         
+- **Top 10 Outstanding Student (university-wide, out of all undergraduate students)**         
 South China University of Technology, 2019
 - **Grand Prize, Challenge Cup National College Student Curricular Academic Science and Technology Works Competition (Guangdong Division)**     
 Guangdong Province Office of Education, 2019
@@ -27,14 +27,17 @@ China Society for Industrial and Applied Mathematics (CSIAM), 2017
 
 Media Coverage
 ======
-- **MIT News | March 26, 2025**  
+- **Symbotic Blog, by CTO James Kuffner | Jun 2026**  
+  🎉 Our work is featured in ["The Bottleneck for Dense Storage Isn't Robot Performance. It's the Traffic."](https://www.symbotic.com/blog/the-bottleneck-for-dense-storage-isnt-robot-performance-its-the-traffic/) — *"... the active prioritization policy improved total throughput by an average of 25%. And that gap widened as simulated storage conditions were made denser and more narrowly navigable — exactly the conditions our robots operate in."*
+
+- **MIT News | March 26, 2026**  
   🎉 Our work is featured in ["AI system learns to keep warehouse robot traffic running smoothly"](https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326) — *"This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput."*
+
 - **ORAI-China (运筹OR帷幄): News | Jan 09, 2026**  
-  🎉 Our work is featured in ["AlphaOPT: Building an Evolvable "Empirical Knowledge Base" for Optimization Modeling with LLMs"](https://mp.weixin.qq.com/s/HsJ7JaiUEgfmp0uMd-358w) — *"How can AI truly master the essence of optimization modeling and achieve stable, cross-domain practical applications? A recent study called AlphaOPT proposes a completely new approach...it builds an self-evolving "external brain"...a dynamic experience library that can structure, retrieve, and continuously refine modeling experience."*
+  🎉 Our work is featured in ["AlphaOPT: Building an Evolvable "Empirical Knowledge Base" for Optimization Modeling with LLMs"](https://mp.weixin.qq.com/s/HsJ7JaiUEgfmp0uMd-358w) — *"How can AI truly master the essence of optimization modeling and achieve stable, cross-domain practical applications? A recent study called AlphaOPT proposes a completely new approach...it builds a self-evolving "external brain"...a dynamic experience library that can structure, retrieve, and continuously refine modeling experience."*
 
 - **MIT News (Front Page of MIT.edu) | Apr 16, 2025**  
   🎉 Our work is featured in ["A faster way to solve complex planning problems"](https://news.mit.edu/2025/faster-way-solve-complex-planning-problems-0416) — *"By eliminating redundant computations, a new data-driven method can streamline processes like scheduling trains, routing delivery drivers, or assigning airline crews."*
 
 - **NKU News | Oct 10, 2024**  
   🎉 Our work is featured in ["NKU Logistics Team Reaches Major Milestone with Publication in TPAMI"](https://en.nankai.edu.cn/2024/1010/c22796a552692/page.htm) — *"The N2S algorithm has demonstrated its diversity and efficiency through canonical PDP test sets, surpassing the renowned LKH3 solver on complex, constrained PDP variant."*
-

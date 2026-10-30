@@ -6,25 +6,45 @@ author_profile: true
 ---
 
 {% include base_path %}
-- **Official Collaborator (MIT, NTU, SMU):** Trustworthy Human-AI Combinatorial Optimization with Language Feedback - Funded by [AI Singapore](https://aisingapore.org/) in collbration with the [US NSF](https://www.nsf.gov/), 2025-2027   [🎉 News Released by AI Singapore at LinkedIn](https://www.linkedin.com/posts/aisingapore_exciting-news-in-ai-research-ensuring-activity-7369580064843190272-6bhL/)
-- **Research Scientist (MIT):** Curriculum-Aware Stabilization of RL Fine-Tuning for Multi-Turn Reasoning in Large Language Models - Funded by [Amazon](https://www.amazon.com/), 2025-2026
-- **Research Scientist (MIT):** Generalizable Path Finding for Growing Complexity in Warehousing - Funded by [Symbotic](https://www.symbotic.com/), 2024-2027
-- **Project Lead (ETH, MIT, NTU):** DiSCO-LakeBench: A Benchmark and Solver-Guided MARL Framework for Lakehouse Maintenance - Funded by [Swiss AI](https://www.swiss-ai.org/), 2026-2027
-- **Project Lead (MIT)**: Lambda's Research Grant Program - Funded by [Lambda.ai](https://lambda.ai/research), 2026-2027.
-- **Project Lead (MIT)**: Accelerating scientific discovery with ChatGPT for Academic Researchers - Funded by [OpenAI](https://openai.com/index/chatgpt-for-academic-researchers/), 2026-2027.
+
+- **Trustworthy Human-AI Combinatorial Optimization with Language Feedback**, 2025-2027  
+Funded by [AI Singapore](https://aisingapore.org/) & [US NSF](https://www.nsf.gov/), ~500k USD [[🎉 AISG News]](https://www.linkedin.com/posts/aisingapore_exciting-news-in-ai-research-ensuring-activity-7369580064843190272-6bhL/)  
+*Role: Official PI Collaborator, Proposal Writer, Supervisor of 5 students*
+
+- **Curriculum-Aware Stabilization of RL Fine-Tuning for Multi-Turn Reasoning in LLMs**, 2025-2026  
+Funded by [Amazon](https://www.amazon.com/), ~250k USD (compute equivalent)  
+*Role: Proposal Writer, Supervisor of 1 student*
+
+- **DiSCO-LakeBench: A Benchmark and Solver-Guided MARL Framework for Lakehouse Maintenance**, 2026-2027  
+Funded by [Swiss AI Initiative](https://www.swiss-ai.org/), ~70k USD (compute equivalent)  
+*Role: PI, Proposal Writer, Supervisor of 1 student*
+
+- **Accelerating Scientific Discovery with ChatGPT for Academic Researchers**, 2026-2027  
+Funded by [OpenAI](https://openai.com/index/chatgpt-for-academic-researchers/), ~12k USD (API credits)  
+*Role: PI, Proposal Writer, Supervisor of 4 students*
+
+- **Lambda Research Grant**, 2026-2027  
+Funded by [Lambda.AI](https://lambda.ai/research), ~2k USD (API credits)  
+*Role: PI, Proposal Writer, Supervisor of 1 student*
+
+- **Generalizable Path Finding for Growing Complexity in Warehousing**, 2024-2027  
+Funded by [Symbotic](https://www.symbotic.com/)  
+*Role: Research Scientist (MIT)*
 
 Completed Fundings
 =====
-- **Research Fellow (NTU):** Learning Assisted Human-AI Collaboration for Combinatorial Optimization - Funded by [AI Singapore](https://aisingapore.org/), 2025
+
+- **Learning Assisted Human-AI Collaboration for Combinatorial Optimization**, 2025  
+Funded by [AI Singapore](https://aisingapore.org/)  
+*Role: Research Fellow (NTU)*
 <!-- - **Supervising Researcher (NTU):**  Research and Application of Deep Reinforcement Learning in Retail Logistics Supply Chain Optimization - Funded by [S-Lab NTU](https://www.ntu.edu.sg/s-lab), 2024-2025 -->
 
 
 Scholarship
 ======
-- **NeurIPS 2023 Scholar Award**         
+- **NeurIPS 2023 Scholar Award**  
 Conference on Neural Information Processing Systems (NeurIPS), 2023
-- **NUS Research Scholarship**      
+- **NUS Research Scholarship**  
 National University of Singapore, 2019-2023
-- **China National Scholarship**    
-Ministry of Education of the People’s Republic of China, AY2017-2018,  AY2016-2017, AY2015-2016
-
+- **China National Scholarship**  
+Ministry of Education of the People's Republic of China, AY2015-16, 2016-17, 2017-18
