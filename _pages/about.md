@@ -42,12 +42,13 @@ Representative publications († corresponding author). See all publications [he
 <style>
 .sp-list { display: flex; flex-direction: column; gap: 14px; margin: 0.6em 0 1.2em; }
 .sp-card { display: flex; gap: 18px; padding: 14px 16px; background: #f3f7fd; border-left: 3px solid #2d57d1; border-radius: 0 6px 6px 0; }
-.sp-thumb { flex: 0 0 170px; height: 120px; background: #fff; border: 1px solid #e1e7f0; border-radius: 4px; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+.sp-thumb { flex: 0 0 270px; height: 185px; background: #fff; border: 1px solid #e1e7f0; border-radius: 4px; display: flex; align-items: center; justify-content: center; overflow: hidden; }
 .sp-thumb img { max-width: 100%; max-height: 100%; object-fit: contain; margin: 0; }
 .sp-body { flex: 1; min-width: 0; font-size: 0.82em; line-height: 1.45; }
 .sp-title { font-weight: 700; font-size: 1.08em; color: #1f2a44 !important; text-decoration: none !important; }
 .sp-title:hover { text-decoration: underline !important; }
 .sp-authors { margin: 3px 0; color: #444; }
+.sp-venue-line { font-size: 0.9em; }
 .sp-venue { font-style: italic; color: #2d57d1; }
 .sp-badge { display: inline-block; margin-left: 6px; padding: 0 7px; border-radius: 3px; background: #fdecea; color: #e24721; font-size: 0.9em; font-weight: 600; font-style: normal; }
 a.sp-badge { color: #e24721 !important; text-decoration: none !important; }
@@ -62,7 +63,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
 .sp-media a { margin-right: 8px; }
 @media (max-width: 600px) {
   .sp-card { flex-direction: column; }
-  .sp-thumb { flex-basis: auto; width: 100%; height: 160px; }
+  .sp-thumb { flex-basis: auto; width: 100%; height: 220px; }
 }
 </style>
 
@@ -72,7 +73,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     <div class="sp-body">
       <a class="sp-title" href="https://arxiv.org/abs/2507.01037">Learning to Segment for Vehicle Routing Problems</a>
       <div class="sp-authors">Wenbin Ouyang, Sirui Li, <strong>Yining Ma</strong>†, Cathy Wu</div>
-      <div><span class="sp-venue">International Conference on Learning Representations (ICLR)</span>, 2026</div>
+      <div class="sp-venue-line"><span class="sp-venue">International Conference on Learning Representations (ICLR)</span>, 2026</div>
       <div class="sp-tags"><span class="sp-tag-m">LGO</span><span class="sp-tag-a">VRP</span></div>
       <div class="sp-links"><a href="https://arxiv.org/abs/2507.01037">📄 Paper</a><span class="sp-badge">Oral (top 1%)</span></div>
     </div>
@@ -82,7 +83,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     <div class="sp-body">
       <a class="sp-title" href="https://arxiv.org/abs/2603.23838">Learning-Guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation</a>
       <div class="sp-authors">Han Zheng, <strong>Yining Ma</strong>†, Brandon Araki, Jingkai Chen, Cathy Wu</div>
-      <div><span class="sp-venue">Journal of Artificial Intelligence Research (JAIR)</span>, 2026</div>
+      <div class="sp-venue-line"><span class="sp-venue">Journal of Artificial Intelligence Research (JAIR)</span>, 2026</div>
       <div class="sp-tags"><span class="sp-tag-m">LGO</span><span class="sp-tag-a">MAPF</span></div>
       <div class="sp-links"><a href="https://arxiv.org/abs/2603.23838">📄 Code &amp; Paper</a><a class="sp-badge" href="https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326">MIT News</a><a class="sp-badge" href="https://www.symbotic.com/blog/the-bottleneck-for-dense-storage-isnt-robot-performance-its-the-traffic/">Symbotic CTO Blog</a></div>
     </div>
@@ -92,7 +93,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     <div class="sp-body">
       <a class="sp-title" href="https://arxiv.org/abs/2606.19741">Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks</a>
       <div class="sp-authors">Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, <strong>Yining Ma</strong>†, Cathy Wu</div>
-      <div><span class="sp-venue">Advances in Neural Information Processing Systems (NeurIPS)</span>, 2026</div>
+      <div class="sp-venue-line"><span class="sp-venue">Advances in Neural Information Processing Systems (NeurIPS)</span>, 2026</div>
       <div class="sp-tags"><span class="sp-tag-m">LLM</span><span class="sp-tag-m">NCO</span><span class="sp-tag-a">Interpretability</span></div>
       <div class="sp-links"><a href="https://arxiv.org/abs/2606.19741">📄 Paper</a></div>
     </div>
@@ -102,7 +103,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     <div class="sp-body">
       <a class="sp-title" href="https://github.com/jieyibi/CaR-constraint">Towards Efficient Constraint Handling in Neural Solvers for Routing Problems</a>
       <div class="sp-authors">Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, <strong>Yining Ma</strong>†, Cathy Wu</div>
-      <div><span class="sp-venue">International Conference on Learning Representations (ICLR)</span>, 2026</div>
+      <div class="sp-venue-line"><span class="sp-venue">International Conference on Learning Representations (ICLR)</span>, 2026</div>
       <div class="sp-tags"><span class="sp-tag-m">NCO</span><span class="sp-tag-a">Constraint Handling</span></div>
       <div class="sp-links"><a href="https://github.com/jieyibi/CaR-constraint">💻 Code &amp; Paper</a></div>
     </div>
@@ -112,7 +113,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     <div class="sp-body">
       <a class="sp-title" href="https://github.com/yining043/NeuOpt">Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt</a>
       <div class="sp-authors"><strong>Yining Ma</strong>, Zhiguang Cao, Yeow Meng Chee</div>
-      <div><span class="sp-venue">Advances in Neural Information Processing Systems (NeurIPS)</span>, 2023</div>
+      <div class="sp-venue-line"><span class="sp-venue">Advances in Neural Information Processing Systems (NeurIPS)</span>, 2023</div>
       <div class="sp-tags"><span class="sp-tag-m">NCO</span><span class="sp-tag-a">VRP</span></div>
       <div class="sp-links"><a href="https://github.com/yining043/NeuOpt">💻 Code &amp; Paper</a><span class="sp-badge">Cited 150+</span></div>
     </div>
@@ -122,7 +123,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     <div class="sp-body">
       <a class="sp-title" href="https://github.com/yining043/VRP-DACT">Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer</a>
       <div class="sp-authors"><strong>Yining Ma</strong>, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, Zhenghua Chen, Jing Tang</div>
-      <div><span class="sp-venue">Advances in Neural Information Processing Systems (NeurIPS)</span>, 2021</div>
+      <div class="sp-venue-line"><span class="sp-venue">Advances in Neural Information Processing Systems (NeurIPS)</span>, 2021</div>
       <div class="sp-tags"><span class="sp-tag-m">NCO</span><span class="sp-tag-a">VRP</span></div>
       <div class="sp-links"><a href="https://github.com/yining043/VRP-DACT">💻 Code &amp; Paper</a><span class="sp-badge">Cited 300+</span></div>
     </div>
