@@ -11,7 +11,7 @@ redirect_from:
 Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) since Aug 2024, mentored by [Prof. Cathy Wu](http://www.wucathy.com/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS) in 2024, where I was mentored by [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) and honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). 
 <!-- I received my B.E. from South China University of Technology (SCUT) in 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). -->
 
-I work at the intersection of **AI** and **Optimization**, developing next-generation AI-driven solutions to tackle the growing complexity of today’s most challenging problems. I have published 40+ papers in top-tier conferences and journals (multiple oral and spotlight presentations) and serve as an **Area Chair (AC) for NeurIPS, ICLR, and ICML**, and have received Top AC and multiple Best Reviewer awards. I also collaborate closely with industry partners including [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/), [Routific](https://www.routific.com/) and [Grab (SG)](https://www.grab.careers/en/jobs/?page=2&search=scientist&country=Singapore&pagesize=20#results). 
+I work at the intersection of **AI** and **Optimization**, developing next-generation AI-driven solutions to tackle the growing complexity of today’s most challenging problems. I have published 40+ papers in top-tier conferences and journals (multiple oral and spotlight presentations), serve as an **Area Chair (AC) for NeurIPS, ICLR, and ICML**, and have received Top AC and multiple Best Reviewer awards. I also collaborate closely with industry partners including [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/), [Routific](https://www.routific.com/) and [Grab (SG)](https://www.grab.com/sg/). 
 
 
 Welcome to see my [publications](https://yining043.github.io/publications/), [fundings](https://yining043.github.io/fundings/), [services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
@@ -25,13 +25,13 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 
 **Research Directions** 🔥 - Complete list available [here](https://yining043.github.io/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en)
 - **<font color='2d57d1'>Neural Combinatorial Optimization (NCO)</font>** - developing *novel AI methodological frameworks and paradigms* for hard combinatorial optimization problems;
-- **<font color='2d57d1'>Learning-Guided Optimization (LGO)</font>** - leveraging AI to boost Operations Research (OR) algorithms for killer-applications, uniting OR’s reliability with AI’s intelligence;
+- **<font color='2d57d1'>Learning-Guided Optimization (LGO)</font>** - leveraging AI to boost Operations Research (OR) algorithms for killer applications, uniting OR’s reliability with AI’s intelligence;
 - **<font color='2d57d1'> Agentic AI for Accelerating Research</font>** - building *trustworthy*, *self-evolving* AI agents to automate and accelerate research, driving scientific discovery at scale.
 <!-- - **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox-v2](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided MetaBBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP) -->
 
 **Research Keywords**
 - **AI**: Reinforcement Learning, Representation Learning, LLM Agents, Self-Evolving Agents, Recursive Self-Improvement (RSI), Multi-Agent Systems, Trustworthy and Interpretable AI
-- **Optimization**: Neural Combinatorial Optimization (NCO), Learning-guided Optimization (LGO), Mixed-Integer Linear Programming (MILP), Constrained & Stochastic Optimization, Black-Box Optimization (BBO), GPU-Accelerated Optimization
+- **Optimization**: Neural Combinatorial Optimization (NCO), Learning-Guided Optimization (LGO), Mixed-Integer Linear Programming (MILP), Constrained & Stochastic Optimization, Black-Box Optimization (BBO), GPU-Accelerated Optimization
 - **Application**: Autonomous Operations (manufacturing, warehouses, robotics), Resilient Logistics Networks (ports, airports, supply chains), AI Infrastructure (data centers)
 
 🎉 Recent and Selected News
@@ -52,7 +52,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 * [10/2026] I will serve as an Area Chair for ICML 2027.
 * [10/2026] 🎉 I am recognized as a **Top Area Chair** for NeurIPS 2026!
 * [10/2026] I will organize the Workshop on Trustworthy AI for CO at ACM TRUST 2027.
-* [09/2026] Two papers are accepted by NeurIPS 2026: [EPB](https://arxiv.org/abs/2606.19741) (AI agents for NCO interpratability) and MixRoute (NCO generalization).
+* [09/2026] Two papers are accepted by NeurIPS 2026: [EPB](https://arxiv.org/abs/2606.19741) (AI agents for NCO interpretability) and MixRoute (NCO generalization).
 * [09/2026] 🎉 I am awarded the [OpenAI ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers/) grant.
 * [08/2026] 🎉 I am awarded the [Lambda Research](https://lambda.ai/research) grant.
 * [08/2026] I will serve as an Area Chair for ICLR 2027.
@@ -68,7 +68,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 * [02/2026] Our [L2Seg](https://arxiv.org/abs/2507.01037) is selected as an **Oral** at ICLR 2026!
 * [01/2026] Three papers are accepted by ICLR 2026: [L2Seg](https://arxiv.org/abs/2507.01037) (LGO for accelerating routing solvers), [CaR](https://github.com/jieyibi/CaR-constraint) (NCO constraint handling), and [RADAR](https://arxiv.org/abs/2603.03388) (NCO asymmetric representation).
 * [01/2026] I am awarded the MIT Kaufman Teaching Certificate (see [reference letter](https://drive.google.com/file/d/1Ch94oB34hzxiZdeL3I8rHbwJUsQJnIYo/view?usp=sharing)).
-* [01/2026] One paper is accepted by JAIR: [L-RH-PP](https://arxiv.org/abs/2603.23838) (LGO for resolving robotics congestion in automated warehouse), in collaboration with [Symbotic](https://www.symbotic.com/).
+* [01/2026] One paper is accepted by JAIR: [L-RH-PP](https://arxiv.org/abs/2603.23838) (LGO for resolving robot congestion in automated warehouse), in collaboration with [Symbotic](https://www.symbotic.com/).
 <!-- * [01/2026] One paper is accepted by TEVC: [LLaMoCo](https://ieeexplore.ieee.org/document/11359290) (LLM). -->
 <!-- * [11/2025] I will organize and serve as a session chair of "AI for Planning and Scheduling" in the International Federation of Operational Research Societies (IFORS), 2026. -->
 * [10/2025] 🎉 We are awarded an [AI Singapore](https://aisingapore.org/) grant with MIT, NTU, and SMU (see [news](https://www.linkedin.com/posts/aisingapore_exciting-news-in-ai-research-ensuring-activity-7369580064843190272-6bhL/)).
