@@ -130,7 +130,7 @@ Jingwen Li $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie 
 Flint Xiaofeng Fan, **Yining Ma**, Zhongxiang Dai, Cheston Tan, Bryan Kian Hsiang Low, Roger Wattenhofer.  
 *International Conference on Autonomous Agents and Multiagent Systems* (**AAMAS**), Extended Abstract, pp. 2810-2812, 2023. [[Paper]](https://dl.acm.org/doi/10.5555/3545946.3599086)
 
-1. [<font color='#2d57d1'>EC</font>, <font color='#2e8b57'>Planning</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,  
+1. [<font color='#2e8b57'>Planning</font>] **MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles**,  
 Yue-Jiao Gong, Ting Huang, **Yining Ma**, Sang-Woon Jeon, Jun Zhang.  
 *IEEE Transactions on Intelligent Transportation Systems* (**TITS**), vol. 24, no. 4, pp. 3714-3727, 2023. [[Code & Paper]](https://github.com/GnauhGnit/MTrajPlanner)
 
