@@ -30,9 +30,9 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 <!-- - **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox-v2](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided MetaBBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP) -->
 
 **Research Keywords** 🔥
-- **AI**: Reinforcement Learning, Representation Learning, LLM Agents, Self-Evolving Agents, Recursive Self-Improvement (RSI), Multi-Agent Systems, Trustworthy and Interpretable AI
-- **Optimization**: Neural Combinatorial Optimization (NCO), Learning-Guided Optimization (LGO), Mixed-Integer Linear Programming (MILP), Constrained & Stochastic Optimization, Black-Box Optimization (BBO), GPU-Accelerated Optimization
-- **Application**: Operations Automation (manufacturing, warehouses, robotics), Resilient Logistics Networks (ports, airports, supply chains), AI Infrastructure (data centers)
+- **AI**: Reinforcement Learning, Representation Learning, LLM Agents, Self-Evolving Agents, Recursive Self-Improvement (RSI), Trustworthy and Interpretable AI;
+- **Optimization**: NCO, LGO, Mixed-Integer Linear Programming (MILP), Constrained & Stochastic Optimization, GPU-Accelerated Optimization;
+- **Application**: Operations Automation (e.g., *manufacturing, warehouses, robotics*), Resilient Logistics Networks (e.g., *port, airports, supply chains*), Sustainable Cities (e.g., *building cooling, congestion pricing, transit planning*), AI Infrastructure (e.g., *data centers*).
 
 📄 Selected Publications
 -----
