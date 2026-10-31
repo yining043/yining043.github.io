@@ -29,9 +29,9 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 - **<font color='2d57d1'> Agentic AI for Accelerating Research</font>** - building *trustworthy*, *self-evolving* AI agents to automate and accelerate research, driving scientific discovery at scale.
 <!-- - **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox-v2](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided MetaBBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP) -->
 
-**Research Keywords** 🔥
+**Research Keywords (current and future work)** 🔥
 - **AI**: Reinforcement Learning, Representation Learning, LLM Agents, Self-Evolving Agents, Recursive Self-Improvement (RSI), Trustworthy and Interpretable AI;
-- **Optimization**: NCO, LGO, Mixed-Integer Linear Programming (MILP), Constrained & Stochastic Optimization, GPU-Accelerated Optimization;
+- **Optimization**: NCO, LGO, Mixed-Integer Linear Programming (MILP), Constrained & Stochastic Optimization, GPU-Accelerated Optimization, Agent-based Simulation;
 - **Application**: Operations Automation (e.g., *manufacturing, warehouses, robotics*), Efficient AI Infrastructure (e.g., *data centers*), Resilient Logistics Networks (e.g., *ports, airports, supply chains*), Sustainable Cities (e.g., *cooling, congestion pricing, transit planning*).
 
 📄 Selected Publications
