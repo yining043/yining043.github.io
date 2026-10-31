@@ -9,9 +9,11 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
   font-size: 16px;
+  zoom: 0.8125; // 13px text on small screens
 
   @include breakpoint($medium) {
     font-size: 18px;
+    zoom: $page-zoom;
   }
 
   -webkit-text-size-adjust: 100%;

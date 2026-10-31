@@ -10,7 +10,7 @@ $doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+$indent-var                 : 0.8em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
@@ -115,6 +115,9 @@ $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
+
+// shrink the whole page proportionally, like browser zoom
+$page-zoom                  : 0.78;
 
 /*
    Grid

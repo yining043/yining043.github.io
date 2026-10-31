@@ -14,9 +14,9 @@ Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory f
 I work at the intersection of **AI** and **Optimization**, developing next-generation AI-driven solutions to tackle the growing complexity of today’s most challenging problems. I have published 40+ papers in top-tier conferences and journals (multiple oral and spotlight presentations), serve as an **Area Chair (AC) for NeurIPS, ICLR, and ICML**, and have received Top AC and multiple Best Reviewer awards. I also collaborate closely with industry partners including [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/), [Routific](https://www.routific.com/) and [Grab (SG)](https://www.grab.com/sg/). 
 
 
-Welcome to see my [publications](https://yining043.github.io/publications/), [fundings](https://yining043.github.io/fundings/), [services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
+<!-- Welcome to see my [publications](https://yining043.github.io/publications/), [fundings](https://yining043.github.io/fundings/), [services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
 * **Office**: 45-611, 51 Vassar St, Cambridge, MA 02139 
-* **E-mail**: yiningma [at] mit [dot] edu
+* **E-mail**: yiningma [at] mit [dot] edu -->
 
 💡 Research Interests
 -----
@@ -88,7 +88,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     </div>
   </div>
   <div class="sp-card">
-    <div class="sp-thumb"><img src="/images/selected/epb.jpg" alt="EPB overview figure"></div>
+    <div class="sp-thumb"><img src="/images/selected/EPB.jpg" alt="EPB overview figure"></div>
     <div class="sp-body">
       <a class="sp-title" href="https://arxiv.org/abs/2606.19741">Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks</a>
       <div class="sp-authors">Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, <strong>Yining Ma</strong>†, Cathy Wu</div>
