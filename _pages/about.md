@@ -41,7 +41,7 @@ Representative publications († corresponding author). See all publications [he
 
 <style>
 .sp-list { display: flex; flex-direction: column; gap: 14px; margin: 0.6em 0 1.2em; }
-.sp-card { display: flex; gap: 18px; padding: 14px 16px; background: #f3f7fd; border-left: 3px solid #2d57d1; border-radius: 0 6px 6px 0; }
+.sp-card { display: flex; gap: 18px; }
 .sp-thumb { flex: 0 0 270px; height: 185px; background: #fff; border: 1px solid #e1e7f0; border-radius: 4px; display: flex; align-items: center; justify-content: center; overflow: hidden; }
 .sp-thumb img { max-width: 100%; max-height: 100%; object-fit: contain; margin: 0; }
 .sp-body { flex: 1; min-width: 0; font-size: 0.82em; line-height: 1.45; }
