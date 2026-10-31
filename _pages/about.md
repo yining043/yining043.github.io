@@ -103,7 +103,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
       <a class="sp-title" href="https://github.com/jieyibi/CaR-constraint">Towards Efficient Constraint Handling in Neural Solvers for Routing Problems</a>
       <div class="sp-authors">Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, <strong>Yining Ma</strong>†, Cathy Wu</div>
       <div><span class="sp-venue">International Conference on Learning Representations (ICLR)</span>, 2026</div>
-      <div class="sp-tags"><span class="sp-tag-m">NCO</span><span class="sp-tag-a">VRP</span></div>
+      <div class="sp-tags"><span class="sp-tag-m">NCO</span><span class="sp-tag-a">Constraint Handling</span></div>
       <div class="sp-links"><a href="https://github.com/jieyibi/CaR-constraint">💻 Code &amp; Paper</a></div>
     </div>
   </div>
