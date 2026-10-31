@@ -47,7 +47,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 }
 </style>
 
-<div class="hide-scrollbar" style="height: 650px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
+<div class="hide-scrollbar" style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
 * [10/2026] I will serve as an Area Chair for ICML 2027.
 * [10/2026] 🎉 I am recognized as a **Top Area Chair** for NeurIPS 2026!
