@@ -9,6 +9,10 @@ author_profile: true
 
 **$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
 
+1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Attention-Based Deep Reinforcement Learning Approach for Dynamic Truck-Drone Routing with Stochastic Requests**,  
+Ruixue Gu, Yang Liu, **Yining Ma**.  
+*Transportation Research Part E: Logistics and Transportation Review* (**TRE**), 2026. [[Accepted]]()
+
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>Interpretability</font>] **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks**,  
 Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Paper]](https://arxiv.org/abs/2606.19741)
@@ -49,11 +53,6 @@ Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, Cathy Wu.
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>Code Generation</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
 Zeyuan Ma, Yue-Jiao Gong $\dagger$, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, Jun Zhang.  
 *IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Paper]](https://ieeexplore.ieee.org/document/11359290)
-
-1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Attention-Based Deep Reinforcement Learning Approach for Dynamic Truck-Drone Routing with Stochastic Requests**,  
-Ruixue Gu, Yang Liu, **Yining Ma**.  
-*Transportation Research Part E: Logistics and Transportation Review* (**TRE**), 2026. [[Accepted]]()
-
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
 Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
