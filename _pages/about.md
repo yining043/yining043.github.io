@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) since Aug 2024, mentored by [Prof. Cathy Wu](http://www.wucathy.com/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS) in 2024, where I was mentored by [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/) and honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/). 
+Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) since Aug 2024, mentored by [Prof. Cathy Wu](http://www.wucathy.com/). Previously, I was a Research Fellow at Nanyang Technological University (NTU), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). I obtained my Ph.D. in Industrial Systems Engineering at National University of Singapore (NUS) in 2024, where I am honored to be advised by [Prof. Yeow Meng Chee](https://ymchee66.github.io/home/).
+<!-- I was mentored by [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/).  -->
 <!-- I received my B.E. from South China University of Technology (SCUT) in 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). -->
 
 I work at the intersection of **AI** and **Optimization**, developing next-generation AI-driven solutions to tackle the growing complexity of today’s most challenging problems. I have published 40+ papers in top-tier conferences and journals (multiple oral and spotlight presentations), serve as an **Area Chair (AC) for NeurIPS, ICLR, and ICML**, and have received Top AC and multiple Best Reviewer awards. I also collaborate closely with industry partners including [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/), [Routific](https://www.routific.com/) and [Grab (SG)](https://www.grab.com/sg/). 
@@ -89,7 +90,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
     </div>
   </div>
   <div class="sp-card">
-    <div class="sp-thumb"><img src="/images/selected/EPB.jpg" alt="EPB overview figure"></div>
+    <div class="sp-thumb"><img src="/images/selected/epb.gif" alt="EPB overview figure"></div>
     <div class="sp-body">
       <a class="sp-title" href="https://arxiv.org/abs/2606.19741">Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks</a>
       <div class="sp-authors">Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, <strong>Yining Ma</strong>†, Cathy Wu</div>
