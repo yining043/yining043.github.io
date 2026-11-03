@@ -11,7 +11,7 @@ author_profile: true
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Attention-Based Deep Reinforcement Learning Approach for Dynamic Truck-Drone Routing with Stochastic Requests**,  
 Ruixue Gu, Yang Liu, **Yining Ma**.  
-*Transportation Research Part E: Logistics and Transportation Review* (**TRE**), 2026. [[Accepted]]()
+*Transportation Research Part E: Logistics and Transportation Review* (**TRE**), 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1366554526006952?dgcid=author)
 
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>Interpretability</font>] **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks**,  
 Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
