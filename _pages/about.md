@@ -12,7 +12,7 @@ Hi, I am a Postdoctoral Associate at [MIT](https://www.mit.edu/)'s [Laboratory f
 <!-- I was mentored by [Prof. Zhiguang Cao](https://zhiguangcaosg.github.io/).  -->
 <!-- I received my B.E. from South China University of Technology (SCUT) in 2019, advised by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en). -->
 
-I work at the intersection of **AI** and **Optimization**, developing next-generation AI-driven solutions to tackle the growing complexity of today’s most challenging problems. I have published 40+ papers in top-tier conferences and journals (multiple oral and spotlight presentations), serve as an **Area Chair (AC) for NeurIPS, ICLR, and ICML**, and have received Top AC and multiple Best Reviewer awards. I also collaborate closely with industry partners including [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/), [Routific](https://www.routific.com/) and [Grab (SG)](https://www.grab.com/sg/). 
+I work at the intersection of **AI** and **Optimization**, developing next-generation AI-driven decision intelligence to optimize the growing complexity of today’s challenging problems. I have published 40+ papers in top-tier conferences and journals (multiple oral and spotlight presentations), serve as an **Area Chair (AC) for NeurIPS, ICLR, and ICML**, and have received Top AC and multiple Best Reviewer awards. I also collaborate closely with industry partners including [NVIDIA](https://www.nvidia.com/en-us/), [Amazon](https://www.amazon.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Symbotic](https://www.symbotic.com/), [Routific](https://www.routific.com/) and [Grab (SG)](https://www.grab.com/sg/). 
 
 
 <!-- Welcome to see my [publications](https://yining043.github.io/publications/), [fundings](https://yining043.github.io/fundings/), [services](https://yining043.github.io/service/), [experience](https://yining043.github.io/experience/), and [honors & awards](https://yining043.github.io/honors/). Drop me an email if you’d like to **collaborate or discuss** with me! You may approach me at:
@@ -25,9 +25,9 @@ I work at the intersection of **AI** and **Optimization**, developing next-gener
 My research focuses on **AI for Optimization and Decision Intelligence**, which asks: *how can AI learn to optimize complex decision-making systems at scale towards decision intelligence?* 
 
 **Research Directions** 🔥
-- **<font color='2d57d1'>Neural Combinatorial Optimization (NCO)</font>** - developing *novel AI methodological frameworks and paradigms* for hard combinatorial optimization problems;
-- **<font color='2d57d1'>Learning-Guided Optimization (LGO)</font>** - leveraging AI to boost Operations Research (OR) algorithms for killer applications, uniting OR’s reliability with AI’s intelligence;
-- **<font color='2d57d1'> Agentic AI for Accelerating Research</font>** - building *trustworthy*, *self-evolving* AI agents to automate and accelerate research, driving scientific discovery at scale.
+- **<font color='2d57d1'>Neural Combinatorial Optimization (NCO)</font>** - developing *novel AI methodological frameworks and paradigms* for hard optimization problems;
+- **<font color='2d57d1'>Learning-Guided Optimization (LGO)</font>** - leveraging AI to boost classical state-of-the-art decision algorithms (e.g., Operations Research (OR) solvers) for killer applications, uniting their original reliability with AI’s decision intelligence;
+- **<font color='2d57d1'> AI Agents for Accelerating Research</font>** - building *trustworthy*, *self-evolving* AI agents to automate and accelerate research, driving scientific discovery at scale.
 <!-- - **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox-v2](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided MetaBBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP) -->
 
 **Research Keywords (current and future work)** 🔥
@@ -96,7 +96,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
       <div class="sp-authors">Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, <strong>Yining Ma</strong>†, Cathy Wu</div>
       <div class="sp-venue-line"><span class="sp-venue">Advances in Neural Information Processing Systems (NeurIPS)</span>, 2026</div>
       <div class="sp-tags"><span class="sp-tag-m">LLM</span><span class="sp-tag-m">NCO</span><span class="sp-tag-a">Interpretability</span></div>
-      <div class="sp-links"><a href="https://arxiv.org/abs/2606.19741">📄 Paper</a></div>
+      <div class="sp-links"><a href="https://github.com/HaochengDuan/EPB">💻 Code &amp; Paper</a></div>
     </div>
   </div>
   <div class="sp-card">

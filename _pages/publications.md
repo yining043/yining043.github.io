@@ -15,11 +15,11 @@ Ruixue Gu, Yang Liu, **Yining Ma**.
 
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>Interpretability</font>] **Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks**,  
 Haocheng Duan, Yuxin Guo, Jieyi Bi, Anqi Xie, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Paper]](https://arxiv.org/abs/2606.19741)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Code & Paper]](https://github.com/HaochengDuan/EPB)
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing**,  
 Hang Yi, Ziwei Huang, **Yining Ma** $\dagger$, Zhiguang Cao.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Accepted]]()
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2026. [[Code & Paper]](https://github.com/yihang0410/MixRoute)
 
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>VRP</font>] **Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization**,  
@@ -28,7 +28,7 @@ Dat Thanh Tran, Van Khu Vu, **Yining Ma** $\dagger$.
 
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>MILP</font>] **AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library**,  
 Minwei Kong, Ao Qu, Xiaotong Guo, Wenbin Ouyang, Chonghe Jiang, Han Zheng, **Yining Ma**, Dingyi Zhuang, Yuhan Tang, Junyi Li, Shenhao Wang, Haris Koutsopoulos, Hai Wang, Cathy Wu, Jinhua Zhao.  
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2026.  <font color='#e24721'>Oral</font>  [[Paper]](https://arxiv.org/abs/2510.18428)
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2026.  <font color='#e24721'>Oral</font>  [[Code & Paper]](https://github.com/Minw913/AlphaOPT)
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>MILP</font>] **A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention**,  
 Peixin Huang, Yaoxin Wu, **Yining Ma**, Cathy Wu, Wei Zhang, Wen Song.  
@@ -44,7 +44,7 @@ Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, **Yining Ma
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **RADAR: Learning to Route with Asymmetry-aware Distance Representations**,  
 Hang Yi, Ziwei Huang, **Yining Ma**, Zhiguang Cao.  
-*International Conference on Learning Representations* (**ICLR**), 2026. [[Paper]](https://arxiv.org/abs/2603.03388)
+*International Conference on Learning Representations* (**ICLR**), 2026. [[Code & Paper]](https://github.com/yihang0410/RADAR)
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>MAPF</font>] **Learning-Guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation**,  
 Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, Cathy Wu.  
@@ -52,7 +52,7 @@ Han Zheng, **Yining Ma** $\dagger$, Brandon Araki, Jingkai Chen, Cathy Wu.
 
 1. [<font color='#2d57d1'>LLM</font>, <font color='#2e8b57'>Code Generation</font>] **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**,  
 Zeyuan Ma, Yue-Jiao Gong $\dagger$, Hongshu Guo, Jiacheng Chen, **Yining Ma** $\dagger$, Zhiguang Cao, Jun Zhang.  
-*IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Paper]](https://ieeexplore.ieee.org/document/11359290)
+*IEEE Transactions on Evolutionary Computation* (**TEVC**), 2026. [[Code & Paper]](https://anonymous.4open.science/r/LLaMoCo-722A)
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>Interpretability</font>] **Probing Neural Combinatorial Optimization Models**,  
 Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.  
@@ -60,7 +60,7 @@ Zhiqin Zhang, **Yining Ma**, Zhiguang Cao, Hoong Chuin Lau.
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>BBO</font>] **DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**,  
 Hongshu Guo, Zeyuan Ma, **Yining Ma**, Xinglin Zhang, Wei-Neng Chen, Yue-Jiao Gong.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Paper]](https://arxiv.org/abs/2505.17866)
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2025. [[Code & Paper]](https://github.com/MetaEvo/DesignX)
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>BBO</font>] [<font color=Sienna>Benchmark</font>] **MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**,  
 Zeyuan Ma, Yue-Jiao Gong, Hongshu Guo, Wenjie Qiu, Sijie Ma, Hongqiao Lian, Jiajun Zhan, Kaixu Chen, Chen Wang, Zhiyang Huang, Zechuan Huang, Guojun Peng, Ran Cheng, **Yining Ma**.  
@@ -118,7 +118,7 @@ Jiacheng Chen, Zeyuan Ma, Hongshu Guo, **Yining Ma**, Jie Zhang, Yue-Jiao Gong.
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>BBO</font>] **Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**,  
 Hongshu Guo, **Yining Ma**, Zeyuan Ma, Jiacheng Chen, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong.  
-*IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), vol. 54, no. 7, pp. 4247-4259, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10496708)
+*IEEE Transactions on Systems, Man and Cybernetics: Systems* (**SMCA**), vol. 54, no. 7, pp. 4247-4259, 2024. [[Code & Paper]](https://github.com/MetaEvo/RL-DAS)
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Learning Feature Embedding Refiner for Solving Vehicle Routing Problems**,  
 Jingwen Li $\ast$, **Yining Ma** $\ast$, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang, Yeow Meng Chee.  
