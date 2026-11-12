@@ -39,6 +39,9 @@ Jun 2018 – Aug 2018, Shenzhen, China
 
 Invited Talks
 ======
+- [INFORMS 2026 - Job market showcase](https://meetings.informs.org/wordpress/annual/agenda/):  
+**Can AI Make Combinatorial Optimization Smarter and 10x Faster?**
+3rd Nov, San Francisco, 2026
 - [LEAD 2025 (The Workshop on Learning-assisted Evolutionary Algorithm Design)](https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5):  
 **Keynote Talk: AI Meets Combinatorial Optimization**
 13th Sept, Live Stream, 2025

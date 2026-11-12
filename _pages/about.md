@@ -25,9 +25,9 @@ I work at the intersection of **AI** and **Optimization**, developing next-gener
 My research focuses on **AI for Optimization and Decision Intelligence**, which asks: *how can AI learn to optimize complex decision-making systems at scale towards decision intelligence?* 
 
 **Research Directions** 🔥
-- **<font color='2d57d1'>Neural Combinatorial Optimization (NCO)</font>** - developing *novel AI methodological frameworks and paradigms* for hard optimization problems;
-- **<font color='2d57d1'>Learning-Guided Optimization (LGO)</font>** - leveraging AI to boost classical state-of-the-art decision algorithms (e.g., Operations Research (OR) solvers) for killer applications, uniting their original reliability with AI’s decision intelligence;
-- **<font color='2d57d1'> AI Agents for Accelerating Research</font>** - building *trustworthy*, *self-evolving* AI agents to automate and accelerate research, driving scientific discovery at scale.
+- **<font color='2d57d1'>Neural Combinatorial Optimization (NCO)</font>** - developing *novel AI methodological frameworks and paradigms* for hard optimization problems towards foundation models;
+- **<font color='2d57d1'>Learning-Guided Optimization (LGO)</font>** - leveraging AI to accelerate and boost classical state-of-the-art decision algorithms (e.g., Operations Research solvers) for killer applications, uniting their original reliability with AI’s decision intelligence;
+- **<font color='2d57d1'> Trustworthy AI Agents for Accelerating Research</font>** - building *trustworthy*, *self-evolving* AI agents to automate and accelerate research, driving scientific discovery at scale.
 <!-- - **<font color='2d57d1'>Survey, Benchmark & Open-source Library</font>** - [IET Review](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cim2.12072) (survey of NCO through 2023), [MetaBox-v2](https://github.com/MetaEvo/MetaBox) (benchmark of learning-guided MetaBBO), [RL4CO](https://github.com/ai4co/rl4co) (library of RL for COP) -->
 
 **Research Keywords (current and future work)** 🔥
@@ -147,6 +147,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
 
 <div class="hide-scrollbar" style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
+* [11/2026] I gave a talk titled "*Can AI Make Combinatorial Optimization Smarter and 10x Faster?*" at INFORMS annual meeting 2026.
 * [10/2026] I will serve as an Area Chair for ICML 2027.
 * [10/2026] 🎉 I am recognized as a **Top Area Chair** for NeurIPS 2026!
 * [10/2026] I will organize the Workshop on Trustworthy AI for CO at ACM TRUST 2027.
