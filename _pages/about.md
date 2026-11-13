@@ -33,7 +33,7 @@ My research focuses on **AI for Optimization and Decision Intelligence**, which 
 **Research Keywords (current and future work)** 🔥
 - **AI**: Reinforcement Learning, Representation Learning, LLM Agents, Self-Evolving Agents, Recursive Self-Improvement (RSI), Trustworthy and Interpretable AI;
 - **Optimization**: NCO, LGO, Mixed-Integer Linear Programming (MILP), Constrained & Stochastic Optimization, GPU-Accelerated Optimization, Agent-based Simulation;
-- **Application**: Operations Automation (e.g., *manufacturing, warehouses, robotics*), Efficient AI Infrastructure (e.g., *data centers*), Resilient Logistics Networks (e.g., *ports, airports, supply chains*), Sustainable Cities (e.g., *cooling, congestion pricing, transit planning*).
+- **Application**: Physical AI Systems (e.g., *manufacturing, warehouses, robotics*), Efficient AI Systems (e.g., *data centers*), Resilient Logistics Networks (e.g., *ports, airports, supply chains*), Sustainable Cities (e.g., *cooling, congestion pricing, transit planning*).
 
 📄 Selected Publications
 -----
