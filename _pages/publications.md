@@ -9,6 +9,14 @@ author_profile: true
 
 **$\ast$ means equal contribution,  $\dagger$ indicates corresponding author**
 
+1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>CPP</font>] **ACRL: Structured Multi-Context Reinforcement Learning for Complex Coverage Path Planning**,  
+Jingwen Li, Yizhou Liu, **Yining Ma** $\dagger$, Jianan Zhou, Qinmin Zheng, Zhiguang Cao.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2027. [[Accepted]]()
+
+1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Towards Foundation Search Models for Routing Problems: A Constraint-Handling Perspective**,  
+Jiayuan Ding, Jieyi Bi, **Yining Ma** $\dagger$, Zhiguang Cao, Yue-Jiao Gong $\dagger$.  
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2027. [[Accepted]]()
+
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Attention-Based Deep Reinforcement Learning Approach for Dynamic Truck-Drone Routing with Stochastic Requests**,  
 Ruixue Gu, Yang Liu, **Yining Ma**.  
 *Transportation Research Part E: Logistics and Transportation Review* (**TRE**), 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1366554526006952?dgcid=author)

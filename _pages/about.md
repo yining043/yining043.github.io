@@ -147,6 +147,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
 
 <div class="hide-scrollbar" style="height: 800px; overflow-y: auto; padding: 0px; border: 1px solid #ffffff; border-radius: 8px; background-color: #ffffff;" markdown="1">
 
+* [11/2026] Two papers are accepted by KDD 2027: ACRL (curriculum RL for coverage path planning) and MT-L2S (towards foundation search models for routing problems).
 * [11/2026] I gave a talk titled "*Can AI Make Combinatorial Optimization Smarter and 10x Faster?*" at INFORMS annual meeting 2026.
 * [10/2026] I will serve as an Area Chair for ICML 2027.
 * [10/2026] 🎉 I am recognized as a **Top Area Chair** for NeurIPS 2026!
