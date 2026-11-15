@@ -76,7 +76,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
       <div class="sp-authors">Wenbin Ouyang, Sirui Li, <strong>Yining Ma</strong>†, Cathy Wu</div>
       <div class="sp-venue-line"><span class="sp-venue">International Conference on Learning Representations (ICLR)</span>, 2026</div>
       <div class="sp-tags"><span class="sp-tag-m">LGO</span><span class="sp-tag-a">VRP</span></div>
-      <div class="sp-links"><a href="https://arxiv.org/abs/2507.01037">📄 Paper</a><span class="sp-badge">Oral (top 1%)</span></div>
+      <div class="sp-links"><a href="https://github.com/mit-wu-lab/learning-to-segment">💻 Code &amp; Paper</a><span class="sp-badge">Oral (top 1%)</span></div>
     </div>
   </div>
   <div class="sp-card">
@@ -86,7 +86,7 @@ a.sp-badge:hover { text-decoration: underline !important; }
       <div class="sp-authors">Han Zheng, <strong>Yining Ma</strong>†, Brandon Araki, Jingkai Chen, Cathy Wu</div>
       <div class="sp-venue-line"><span class="sp-venue">Journal of Artificial Intelligence Research (JAIR)</span>, 2026</div>
       <div class="sp-tags"><span class="sp-tag-m">LGO</span><span class="sp-tag-a">MAPF</span></div>
-      <div class="sp-links"><a href="https://arxiv.org/abs/2603.23838">📄 Code &amp; Paper</a><a class="sp-badge" href="https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326">MIT News</a><a class="sp-badge" href="https://www.symbotic.com/blog/the-bottleneck-for-dense-storage-isnt-robot-performance-its-the-traffic/">Symbotic CTO Blog</a></div>
+      <div class="sp-links"><a href="https://arxiv.org/abs/2603.23838">💻 Code &amp; Paper</a><a class="sp-badge" href="https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326">MIT News</a><a class="sp-badge" href="https://www.symbotic.com/blog/the-bottleneck-for-dense-storage-isnt-robot-performance-its-the-traffic/">Symbotic CTO Blog</a></div>
     </div>
   </div>
   <div class="sp-card">

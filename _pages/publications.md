@@ -44,7 +44,7 @@ Peixin Huang, Yaoxin Wu, **Yining Ma**, Cathy Wu, Wei Zhang, Wen Song.
 
 1. [<font color='#2d57d1'>LGO</font>, <font color='#2e8b57'>VRP</font>] **Learning to Segment for Vehicle Routing Problems**,  
 Wenbin Ouyang, Sirui Li, **Yining Ma** $\dagger$, Cathy Wu.  
-*International Conference on Learning Representations* (**ICLR**), 2026. <font color='#e24721'>Oral (top 1%)</font> [[Paper]](https://arxiv.org/abs/2507.01037)
+*International Conference on Learning Representations* (**ICLR**), 2026. <font color='#e24721'>Oral (top 1%)</font> [[Code & Paper]](https://github.com/mit-wu-lab/learning-to-segment)
 
 1. [<font color='#2d57d1'>NCO</font>, <font color='#2e8b57'>VRP</font>] **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems**,  
 Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, **Yining Ma** $\dagger$, Cathy Wu.  
